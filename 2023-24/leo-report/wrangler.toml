@@ -1,0 +1,7 @@
+name = "leo-report"
+main = "index.ts"
+compatibility_date = "2023-09-18"
+
+[[r2_buckets]]
+binding = "R2"
+bucket_name = "leo-report"

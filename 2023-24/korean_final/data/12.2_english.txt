@@ -1,0 +1,37 @@
+relationship
+feeling
+sense
+diet
+visit to someone sick
+to visit someone sick
+rumor
+seat belt
+stomach
+abnormality
+hospitalization
+to hospitalize
+treatment
+to treat
+discharge
+to discharge
+arm
+waist
+back
+about to {} but then
+any {}
+newly discovered {} (sentence ending)
+newly discovered {} (clausal connective)
+to recover
+to be startled
+to fall
+to be formed
+to decrease
+to avoid
+be possible
+be regular
+be deep
+be adequate
+be young
+almost
+as {} as possible
+consistently

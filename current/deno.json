@@ -1,0 +1,32 @@
+{
+  "$schema": "https://deno.land/x/deno/cli/schemas/config-file.v1.json",
+  "compilerOptions": {
+    "lib": ["dom", "dom.iterable", "deno.ns"]
+  },
+  "lint": {
+    "rules": {
+      "tags": ["recommended"],
+      "include": [
+        "eqeqeq",
+        "no-inferrable-types",
+        "no-self-compare",
+        "no-sparse-arrays",
+        "verbatim-module-syntax"
+      ],
+      "exclude": ["ban-types", "no-cond-assign"]
+    }
+  },
+  "tasks": {
+    "dev": "deno run -A npm:vite",
+    "build": "deno run -A npm:vite build",
+    "check": "fd -g '**/*.ts' -x deno check",
+    "lint": "deno lint",
+    "test": "deno test -A --no-check --permit-no-files --fail-fast --parallel --doc",
+    "coverage": "deno test -A --no-check --permit-no-files --parallel --reporter dot --coverage &>/dev/null; deno coverage --detailed; rm -r coverage"
+  },
+  "imports": {
+    "@b-fuze/deno-dom": "jsr:@b-fuze/deno-dom@^0.1.49",
+    "@std/assert": "jsr:@std/assert@^1.0.11",
+    "lib/": "./src/lib/"
+  }
+}

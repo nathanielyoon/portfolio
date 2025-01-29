@@ -1,0 +1,40 @@
+<header>
+    <a href="/" hx-boost="true" preload>Point of Clarification!</a>
+</header>
+<main>
+    <article>
+        <header>
+            <a href="https://www.facebook.com/groups/1168947806469658/permalink/{{ key }}" target="_blank">{{ date }}</a>
+            <a href="/" hx-boost="true" preload style="float: right;">Home</a>
+        </header>
+        <main>
+            {% for paragraph in text %}
+            <p>{{ paragraph }}</p>
+            {% endfor %}
+        </main>
+    </article>
+    {% if comments %}
+    {% for comment in comments %}
+    <article>
+        <main>
+            {% for paragraph in comment.text.split("\n") %}
+            <div>{{ paragraph }}</div>
+            {% endfor %}
+            {% for reply in comment.reply_comments %}
+            <article>
+                {% for paragraph in reply.text.split("\n") %}
+                <div>{{ paragraph }}</div>
+                {% endfor %}
+            </article>
+            {% endfor %}
+        </main>
+    </article>
+    {% endfor %}
+    {% else %}
+    <article>
+        <main>
+            <div>(no comments)</div>
+        </main>
+    </article>
+    {% endif %}
+</main>

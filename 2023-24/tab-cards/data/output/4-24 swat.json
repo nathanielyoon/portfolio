@@ -1,0 +1,4362 @@
+{
+    "teams": {
+        "Georgetown Enthusiasts": {
+            "debater_1": {
+                "name": "Devin Bae",
+                "status": "novice"
+            },
+            "debater_2": {
+                "name": "Samuel Watkins",
+                "status": "novice"
+            },
+            "rounds": {
+                "1": {
+                    "side": "gov",
+                    "result": "w",
+                    "opponent": "cellular desperation",
+                    "judge": [
+                        "Leon Gold"
+                    ],
+                    "speaks_1": 30.0,
+                    "ranks_1": 2.0,
+                    "speaks_2": 31.0,
+                    "ranks_2": 1.0,
+                    "speaks_total": 61.0,
+                    "ranks_total": 3.0
+                },
+                "2": {
+                    "side": "gov",
+                    "result": "l",
+                    "opponent": "GWUVA Fishing Trip",
+                    "judge": [
+                        "Victoria Ajayi"
+                    ],
+                    "speaks_1": 30.0,
+                    "ranks_1": 3.0,
+                    "speaks_2": 30.0,
+                    "ranks_2": 4.0,
+                    "speaks_total": 60.0,
+                    "ranks_total": 7.0
+                },
+                "3": {
+                    "side": "opp",
+                    "result": "w",
+                    "opponent": "friends with axe",
+                    "judge": [
+                        "Eliza Morgan"
+                    ],
+                    "speaks_1": 34.0,
+                    "ranks_1": 2.0,
+                    "speaks_2": 34.0,
+                    "ranks_2": 1.0,
+                    "speaks_total": 68.0,
+                    "ranks_total": 3.0
+                },
+                "4": {
+                    "side": "gov",
+                    "result": "w",
+                    "opponent": "Wait, that’s not Pranav!",
+                    "judge": [
+                        "Sarah Wheaton"
+                    ],
+                    "speaks_1": 28.0,
+                    "ranks_1": 3.0,
+                    "speaks_2": 29.0,
+                    "ranks_2": 1.0,
+                    "speaks_total": 57.0,
+                    "ranks_total": 4.0
+                },
+                "5": {
+                    "side": "opp",
+                    "result": "l",
+                    "opponent": "Chicago/UVA RS",
+                    "judge": [
+                        "Annette Kim"
+                    ],
+                    "speaks_1": 28.0,
+                    "ranks_1": 4.0,
+                    "speaks_2": 29.0,
+                    "ranks_2": 3.0,
+                    "speaks_total": 57.0,
+                    "ranks_total": 7.0
+                }
+            },
+            "total_wins": 3,
+            "total_speaks_1": 150.0,
+            "total_ranks_1": 14.0,
+            "total_speaks_2": 153.0,
+            "total_ranks_2": 10.0,
+            "total_speaks": 303.0,
+            "total_ranks": 24.0
+        },
+        "Dom and APDA Schedule for COTY": {
+            "debater_1": {
+                "name": "Dominic DeRamo",
+                "status": "varsity"
+            },
+            "debater_2": {
+                "name": "Sebastian Cardena",
+                "status": "novice"
+            },
+            "rounds": {
+                "1": {
+                    "side": null,
+                    "result": "bye",
+                    "opponent": null,
+                    "judge": null,
+                    "speaks_1": "average",
+                    "ranks_1": "average",
+                    "speaks_2": "average",
+                    "ranks_2": "average",
+                    "speaks_total": "average",
+                    "ranks_total": "average"
+                },
+                "2": {
+                    "side": "opp",
+                    "result": "w",
+                    "opponent": "friends with axe",
+                    "judge": [
+                        "Rose West"
+                    ],
+                    "speaks_1": 29.0,
+                    "ranks_1": 3.0,
+                    "speaks_2": 30.0,
+                    "ranks_2": 1.0,
+                    "speaks_total": 59.0,
+                    "ranks_total": 4.0
+                },
+                "3": {
+                    "side": "gov",
+                    "result": "l",
+                    "opponent": "GWUVA Fishing Trip",
+                    "judge": [
+                        "Megan Wu"
+                    ],
+                    "speaks_1": 34.0,
+                    "ranks_1": 4.0,
+                    "speaks_2": 34.0,
+                    "ranks_2": 3.0,
+                    "speaks_total": 68.0,
+                    "ranks_total": 7.0
+                },
+                "4": {
+                    "side": "gov",
+                    "result": "w",
+                    "opponent": "Chicago KS",
+                    "judge": [
+                        "Annette Kim"
+                    ],
+                    "speaks_1": 33.0,
+                    "ranks_1": 1.0,
+                    "speaks_2": 31.0,
+                    "ranks_2": 3.0,
+                    "speaks_total": 64.0,
+                    "ranks_total": 4.0
+                },
+                "5": {
+                    "side": "opp",
+                    "result": "w",
+                    "opponent": "opp choi-ce",
+                    "judge": [
+                        "Max Neuman"
+                    ],
+                    "speaks_1": 26.0,
+                    "ranks_1": 1.0,
+                    "speaks_2": 24.0,
+                    "ranks_2": 3.0,
+                    "speaks_total": 50.0,
+                    "ranks_total": 4.0
+                }
+            },
+            "total_wins": 4,
+            "total_speaks_1": 152.5,
+            "total_ranks_1": 11.25,
+            "total_speaks_2": 148.75,
+            "total_ranks_2": 12.5,
+            "total_speaks": 301.25,
+            "total_ranks": 23.75
+        },
+        "Is it too late to soft launch?": {
+            "debater_1": {
+                "name": "Jackson Neme",
+                "status": "varsity"
+            },
+            "debater_2": {
+                "name": "Lindsey Gradowski",
+                "status": "varsity"
+            },
+            "rounds": {
+                "1": {
+                    "side": "opp",
+                    "result": "l",
+                    "opponent": "Chicago KS",
+                    "judge": [
+                        "Susan McHarris"
+                    ],
+                    "speaks_1": 29.0,
+                    "ranks_1": 4.0,
+                    "speaks_2": 29.0,
+                    "ranks_2": 2.0,
+                    "speaks_total": 58.0,
+                    "ranks_total": 6.0
+                },
+                "2": {
+                    "side": "gov",
+                    "result": "w",
+                    "opponent": "Rutgerford",
+                    "judge": [
+                        "Leon Gold"
+                    ],
+                    "speaks_1": 33.0,
+                    "ranks_1": 1.0,
+                    "speaks_2": 32.0,
+                    "ranks_2": 2.0,
+                    "speaks_total": 65.0,
+                    "ranks_total": 3.0
+                },
+                "3": {
+                    "side": "gov",
+                    "result": "w",
+                    "opponent": "Chicago NS",
+                    "judge": [
+                        "Eric Trinh"
+                    ],
+                    "speaks_1": 30.0,
+                    "ranks_1": 2.0,
+                    "speaks_2": 30.0,
+                    "ranks_2": 1.0,
+                    "speaks_total": 60.0,
+                    "ranks_total": 3.0
+                },
+                "4": {
+                    "side": "gov",
+                    "result": "w",
+                    "opponent": "Chicago JL",
+                    "judge": [
+                        "Victoria Ajayi"
+                    ],
+                    "speaks_1": 31.0,
+                    "ranks_1": 2.0,
+                    "speaks_2": 33.0,
+                    "ranks_2": 1.0,
+                    "speaks_total": 64.0,
+                    "ranks_total": 3.0
+                },
+                "5": {
+                    "side": "opp",
+                    "result": "w",
+                    "opponent": "Ranuary Rixth Rommittee",
+                    "judge": [
+                        "Rodda John"
+                    ],
+                    "speaks_1": 33.0,
+                    "ranks_1": 1.0,
+                    "speaks_2": 31.0,
+                    "ranks_2": 3.0,
+                    "speaks_total": 64.0,
+                    "ranks_total": 4.0
+                }
+            },
+            "total_wins": 4,
+            "total_speaks_1": 156.0,
+            "total_ranks_1": 10.0,
+            "total_speaks_2": 155.0,
+            "total_ranks_2": 9.0,
+            "total_speaks": 311.0,
+            "total_ranks": 19.0
+        },
+        "Due Waivers for Punts": {
+            "debater_1": {
+                "name": "Aidan Gillies",
+                "status": "varsity"
+            },
+            "debater_2": {
+                "name": "Maddie Naisbitt",
+                "status": "varsity"
+            },
+            "rounds": {
+                "1": {
+                    "side": "gov",
+                    "result": "l",
+                    "opponent": "Wait, that’s not Pranav!",
+                    "judge": [
+                        "Mia Rojas"
+                    ],
+                    "speaks_1": 31.0,
+                    "ranks_1": 1.0,
+                    "speaks_2": 28.0,
+                    "ranks_2": 4.0,
+                    "speaks_total": 59.0,
+                    "ranks_total": 5.0
+                },
+                "2": {
+                    "side": "opp",
+                    "result": "w",
+                    "opponent": "alyssa edwards tongue pop",
+                    "judge": [
+                        "Jay Leeds"
+                    ],
+                    "speaks_1": 29.0,
+                    "ranks_1": 2.0,
+                    "speaks_2": 29.0,
+                    "ranks_2": 1.0,
+                    "speaks_total": 58.0,
+                    "ranks_total": 3.0
+                },
+                "3": {
+                    "side": "opp",
+                    "result": "l",
+                    "opponent": "Ranuary Rixth Rommittee",
+                    "judge": [
+                        "Victoria Ajayi"
+                    ],
+                    "speaks_1": 30.0,
+                    "ranks_1": 3.0,
+                    "speaks_2": 29.0,
+                    "ranks_2": 4.0,
+                    "speaks_total": 59.0,
+                    "ranks_total": 7.0
+                },
+                "4": {
+                    "side": "gov",
+                    "result": "w",
+                    "opponent": "Master and Commander",
+                    "judge": [
+                        "Parker Snipes"
+                    ],
+                    "speaks_1": 30.0,
+                    "ranks_1": 1.0,
+                    "speaks_2": 28.0,
+                    "ranks_2": 2.0,
+                    "speaks_total": 58.0,
+                    "ranks_total": 3.0
+                },
+                "5": {
+                    "side": "gov",
+                    "result": "w",
+                    "opponent": "Chicago CJ",
+                    "judge": [
+                        "Megan Wu"
+                    ],
+                    "speaks_1": 29.0,
+                    "ranks_1": 3.0,
+                    "speaks_2": 29.0,
+                    "ranks_2": 1.0,
+                    "speaks_total": 58.0,
+                    "ranks_total": 4.0
+                }
+            },
+            "total_wins": 3,
+            "total_speaks_1": 149.0,
+            "total_ranks_1": 10.0,
+            "total_speaks_2": 143.0,
+            "total_ranks_2": 12.0,
+            "total_speaks": 292.0,
+            "total_ranks": 22.0
+        },
+        "Tight Call Specialists": {
+            "debater_1": {
+                "name": "Gordon McNeill",
+                "status": "varsity"
+            },
+            "debater_2": {
+                "name": "Omesh Dhar Dwivedi",
+                "status": "novice"
+            },
+            "rounds": {
+                "1": {
+                    "side": "gov",
+                    "result": "l",
+                    "opponent": "Ranuary Rixth Rommittee",
+                    "judge": [
+                        "Parker Snipes"
+                    ],
+                    "speaks_1": 29.0,
+                    "ranks_1": 2.0,
+                    "speaks_2": 28.0,
+                    "ranks_2": 4.0,
+                    "speaks_total": 57.0,
+                    "ranks_total": 6.0
+                },
+                "2": {
+                    "side": "gov",
+                    "result": "w",
+                    "opponent": "Temple 2",
+                    "judge": [
+                        "Mia Rojas"
+                    ],
+                    "speaks_1": 32.0,
+                    "ranks_1": 2.0,
+                    "speaks_2": 32.0,
+                    "ranks_2": 1.0,
+                    "speaks_total": 64.0,
+                    "ranks_total": 3.0
+                },
+                "3": {
+                    "side": "opp",
+                    "result": "l",
+                    "opponent": "Chicago KS",
+                    "judge": [
+                        "Adithi Attada"
+                    ],
+                    "speaks_1": 25.0,
+                    "ranks_1": 4.0,
+                    "speaks_2": 26.0,
+                    "ranks_2": 3.0,
+                    "speaks_total": 51.0,
+                    "ranks_total": 7.0
+                },
+                "4": {
+                    "side": "opp",
+                    "result": "w",
+                    "opponent": "Mercedes and Mercedes Esq.",
+                    "judge": [
+                        "Jake Bohman"
+                    ],
+                    "speaks_1": 29.0,
+                    "ranks_1": 1.0,
+                    "speaks_2": 28.0,
+                    "ranks_2": 2.0,
+                    "speaks_total": 57.0,
+                    "ranks_total": 3.0
+                },
+                "5": {
+                    "side": "gov",
+                    "result": "w",
+                    "opponent": "Chicago JL",
+                    "judge": [
+                        "Ethan Quinn"
+                    ],
+                    "speaks_1": 33.0,
+                    "ranks_1": 1.0,
+                    "speaks_2": 32.0,
+                    "ranks_2": 2.0,
+                    "speaks_total": 65.0,
+                    "ranks_total": 3.0
+                }
+            },
+            "total_wins": 3,
+            "total_speaks_1": 148.0,
+            "total_ranks_1": 10.0,
+            "total_speaks_2": 146.0,
+            "total_ranks_2": 12.0,
+            "total_speaks": 294.0,
+            "total_ranks": 22.0
+        },
+        "Southern Hit Squad": {
+            "debater_1": {
+                "name": "Muzzi Godil",
+                "status": "varsity"
+            },
+            "debater_2": {
+                "name": "Patrick Han",
+                "status": "varsity"
+            },
+            "rounds": {
+                "1": {
+                    "side": "opp",
+                    "result": "w",
+                    "opponent": "Temple 2",
+                    "judge": [
+                        "Megan Wu"
+                    ],
+                    "speaks_1": 29.0,
+                    "ranks_1": 2.0,
+                    "speaks_2": 31.0,
+                    "ranks_2": 1.0,
+                    "speaks_total": 60.0,
+                    "ranks_total": 3.0
+                },
+                "2": {
+                    "side": "gov",
+                    "result": "w",
+                    "opponent": "Ranuary Rixth Rommittee",
+                    "judge": [
+                        "Eric Trinh",
+                        "Khylan Stubblefield"
+                    ],
+                    "speaks_1": 31.0,
+                    "ranks_1": 1.0,
+                    "speaks_2": 30.0,
+                    "ranks_2": 4.0,
+                    "speaks_total": 61.0,
+                    "ranks_total": 5.0
+                },
+                "3": {
+                    "side": "opp",
+                    "result": "w",
+                    "opponent": "existentially unretained",
+                    "judge": [
+                        "Leon Gold"
+                    ],
+                    "speaks_1": 34.0,
+                    "ranks_1": 1.0,
+                    "speaks_2": 32.0,
+                    "ranks_2": 3.0,
+                    "speaks_total": 66.0,
+                    "ranks_total": 4.0
+                },
+                "4": {
+                    "side": "opp",
+                    "result": "w",
+                    "opponent": "Chicago/UVA RS",
+                    "judge": [
+                        "Jonah Paterson"
+                    ],
+                    "speaks_1": 32.0,
+                    "ranks_1": 2.0,
+                    "speaks_2": 33.0,
+                    "ranks_2": 1.0,
+                    "speaks_total": 65.0,
+                    "ranks_total": 3.0
+                },
+                "5": {
+                    "side": "gov",
+                    "result": "l",
+                    "opponent": "GWUVA Fishing Trip",
+                    "judge": [
+                        "Parker Snipes"
+                    ],
+                    "speaks_1": 32.0,
+                    "ranks_1": 2.0,
+                    "speaks_2": 29.0,
+                    "ranks_2": 4.0,
+                    "speaks_total": 61.0,
+                    "ranks_total": 6.0
+                }
+            },
+            "total_wins": 4,
+            "total_speaks_1": 158.0,
+            "total_ranks_1": 8.0,
+            "total_speaks_2": 155.0,
+            "total_ranks_2": 13.0,
+            "total_speaks": 313.0,
+            "total_ranks": 21.0
+        },
+        "put a helmet on that soldier": {
+            "debater_1": {
+                "name": "Sarah Miller",
+                "status": "varsity"
+            },
+            "debater_2": {
+                "name": "Zaid Hintzman",
+                "status": "novice"
+            },
+            "rounds": {
+                "1": {
+                    "side": "gov",
+                    "result": "w",
+                    "opponent": "Chicago CJ",
+                    "judge": [
+                        "Rose West"
+                    ],
+                    "speaks_1": 31.0,
+                    "ranks_1": 1.0,
+                    "speaks_2": 30.0,
+                    "ranks_2": 2.0,
+                    "speaks_total": 61.0,
+                    "ranks_total": 3.0
+                },
+                "2": {
+                    "side": "opp",
+                    "result": "w",
+                    "opponent": "Chicago JL",
+                    "judge": [
+                        "Jonah Paterson"
+                    ],
+                    "speaks_1": 33.0,
+                    "ranks_1": 2.0,
+                    "speaks_2": 35.0,
+                    "ranks_2": 1.0,
+                    "speaks_total": 68.0,
+                    "ranks_total": 3.0
+                },
+                "3": {
+                    "side": "opp",
+                    "result": "l",
+                    "opponent": "opp choi-ce",
+                    "judge": [
+                        "Parker Snipes"
+                    ],
+                    "speaks_1": 28.0,
+                    "ranks_1": 3.0,
+                    "speaks_2": 28.0,
+                    "ranks_2": 4.0,
+                    "speaks_total": 56.0,
+                    "ranks_total": 7.0
+                },
+                "4": {
+                    "side": "opp",
+                    "result": "l",
+                    "opponent": "Chicago WZ",
+                    "judge": [
+                        "Max Neuman"
+                    ],
+                    "speaks_1": 29.0,
+                    "ranks_1": 3.0,
+                    "speaks_2": 27.0,
+                    "ranks_2": 4.0,
+                    "speaks_total": 56.0,
+                    "ranks_total": 7.0
+                },
+                "5": {
+                    "side": "gov",
+                    "result": "w",
+                    "opponent": "8:30 minutes no zaza",
+                    "judge": [
+                        "Jake Bohman"
+                    ],
+                    "speaks_1": 31.0,
+                    "ranks_1": 2.0,
+                    "speaks_2": 32.0,
+                    "ranks_2": 1.0,
+                    "speaks_total": 63.0,
+                    "ranks_total": 3.0
+                }
+            },
+            "total_wins": 3,
+            "total_speaks_1": 152.0,
+            "total_ranks_1": 11.0,
+            "total_speaks_2": 152.0,
+            "total_ranks_2": 12.0,
+            "total_speaks": 304.0,
+            "total_ranks": 23.0
+        },
+        "existentially unretained": {
+            "debater_1": {
+                "name": "Anna Pinkerton",
+                "status": "novice"
+            },
+            "debater_2": {
+                "name": "Vivienne Monteiro",
+                "status": "varsity"
+            },
+            "rounds": {
+                "1": {
+                    "side": "opp",
+                    "result": "w",
+                    "opponent": "Chicago NS",
+                    "judge": [
+                        "Annette Kim"
+                    ],
+                    "speaks_1": 31.0,
+                    "ranks_1": 2.0,
+                    "speaks_2": 32.0,
+                    "ranks_2": 1.0,
+                    "speaks_total": 63.0,
+                    "ranks_total": 3.0
+                },
+                "2": {
+                    "side": "gov",
+                    "result": "w",
+                    "opponent": "Chicago KS",
+                    "judge": [
+                        "Max Neuman"
+                    ],
+                    "speaks_1": 28.0,
+                    "ranks_1": 2.0,
+                    "speaks_2": 33.0,
+                    "ranks_2": 1.0,
+                    "speaks_total": 61.0,
+                    "ranks_total": 3.0
+                },
+                "3": {
+                    "side": "gov",
+                    "result": "l",
+                    "opponent": "Southern Hit Squad",
+                    "judge": [
+                        "Leon Gold"
+                    ],
+                    "speaks_1": 31.0,
+                    "ranks_1": 4.0,
+                    "speaks_2": 33.0,
+                    "ranks_2": 2.0,
+                    "speaks_total": 64.0,
+                    "ranks_total": 6.0
+                },
+                "4": {
+                    "side": "opp",
+                    "result": "w",
+                    "opponent": "8:30 minutes no zaza",
+                    "judge": [
+                        "Eric Trinh"
+                    ],
+                    "speaks_1": 31.0,
+                    "ranks_1": 1.0,
+                    "speaks_2": 30.0,
+                    "ranks_2": 3.0,
+                    "speaks_total": 61.0,
+                    "ranks_total": 4.0
+                },
+                "5": {
+                    "side": "gov",
+                    "result": "w",
+                    "opponent": "Chicago WZ",
+                    "judge": [
+                        "Sarah Wheaton"
+                    ],
+                    "speaks_1": 32.0,
+                    "ranks_1": 1.0,
+                    "speaks_2": 31.0,
+                    "ranks_2": 2.0,
+                    "speaks_total": 63.0,
+                    "ranks_total": 3.0
+                }
+            },
+            "total_wins": 4,
+            "total_speaks_1": 153.0,
+            "total_ranks_1": 10.0,
+            "total_speaks_2": 159.0,
+            "total_ranks_2": 9.0,
+            "total_speaks": 312.0,
+            "total_ranks": 19.0
+        },
+        "GWUVA Fishing Trip": {
+            "debater_1": {
+                "name": "Alex Hanna",
+                "status": "varsity"
+            },
+            "debater_2": {
+                "name": "Ryan Tiedemann",
+                "status": "novice"
+            },
+            "rounds": {
+                "1": {
+                    "side": "gov",
+                    "result": "w",
+                    "opponent": "Rutgerford",
+                    "judge": [
+                        "Eric Trinh"
+                    ],
+                    "speaks_1": 30.0,
+                    "ranks_1": 1.0,
+                    "speaks_2": 29.0,
+                    "ranks_2": 2.0,
+                    "speaks_total": 59.0,
+                    "ranks_total": 3.0
+                },
+                "2": {
+                    "side": "opp",
+                    "result": "w",
+                    "opponent": "Georgetown Enthusiasts",
+                    "judge": [
+                        "Victoria Ajayi"
+                    ],
+                    "speaks_1": 34.0,
+                    "ranks_1": 1.0,
+                    "speaks_2": 34.0,
+                    "ranks_2": 2.0,
+                    "speaks_total": 68.0,
+                    "ranks_total": 3.0
+                },
+                "3": {
+                    "side": "opp",
+                    "result": "w",
+                    "opponent": "Dom and APDA Schedule for COTY",
+                    "judge": [
+                        "Megan Wu"
+                    ],
+                    "speaks_1": 34.0,
+                    "ranks_1": 2.0,
+                    "speaks_2": 35.0,
+                    "ranks_2": 1.0,
+                    "speaks_total": 69.0,
+                    "ranks_total": 3.0
+                },
+                "4": {
+                    "side": "gov",
+                    "result": "w",
+                    "opponent": "opp choi-ce",
+                    "judge": [
+                        "Mia Rojas",
+                        "Rodda John"
+                    ],
+                    "speaks_1": 33.0,
+                    "ranks_1": 2.0,
+                    "speaks_2": 34.0,
+                    "ranks_2": 1.0,
+                    "speaks_total": 67.0,
+                    "ranks_total": 3.0
+                },
+                "5": {
+                    "side": "opp",
+                    "result": "w",
+                    "opponent": "Southern Hit Squad",
+                    "judge": [
+                        "Parker Snipes"
+                    ],
+                    "speaks_1": 31.0,
+                    "ranks_1": 3.0,
+                    "speaks_2": 33.0,
+                    "ranks_2": 1.0,
+                    "speaks_total": 64.0,
+                    "ranks_total": 4.0
+                }
+            },
+            "total_wins": 5,
+            "total_speaks_1": 162.0,
+            "total_ranks_1": 9.0,
+            "total_speaks_2": 165.0,
+            "total_ranks_2": 7.0,
+            "total_speaks": 327.0,
+            "total_ranks": 16.0
+        },
+        "alyssa edwards tongue pop": {
+            "debater_1": {
+                "name": "Brandon Burton",
+                "status": "varsity"
+            },
+            "debater_2": {
+                "name": "Lizzie Waters",
+                "status": "varsity"
+            },
+            "rounds": {
+                "1": {
+                    "side": "opp",
+                    "result": "l",
+                    "opponent": "Chicago JL",
+                    "judge": [
+                        "Jake Bohman"
+                    ],
+                    "speaks_1": 26.0,
+                    "ranks_1": 4.0,
+                    "speaks_2": 27.0,
+                    "ranks_2": 3.0,
+                    "speaks_total": 53.0,
+                    "ranks_total": 7.0
+                },
+                "2": {
+                    "side": "gov",
+                    "result": "l",
+                    "opponent": "Due Waivers for Punts",
+                    "judge": [
+                        "Jay Leeds"
+                    ],
+                    "speaks_1": 27.0,
+                    "ranks_1": 3.0,
+                    "speaks_2": 27.0,
+                    "ranks_2": 4.0,
+                    "speaks_total": 54.0,
+                    "ranks_total": 7.0
+                },
+                "3": {
+                    "side": "gov",
+                    "result": "w",
+                    "opponent": "Butter Bloc",
+                    "judge": [
+                        "Mia Rojas"
+                    ],
+                    "speaks_1": 30.0,
+                    "ranks_1": 1.0,
+                    "speaks_2": 29.0,
+                    "ranks_2": 3.0,
+                    "speaks_total": 59.0,
+                    "ranks_total": 4.0
+                },
+                "4": {
+                    "side": "gov",
+                    "result": "w",
+                    "opponent": "Chicago NS",
+                    "judge": [
+                        "Ethan Quinn"
+                    ],
+                    "speaks_1": 28.0,
+                    "ranks_1": 2.0,
+                    "speaks_2": 29.0,
+                    "ranks_2": 1.0,
+                    "speaks_total": 57.0,
+                    "ranks_total": 3.0
+                },
+                "5": {
+                    "side": "opp",
+                    "result": "l",
+                    "opponent": "friends with axe",
+                    "judge": [
+                        "Jonah Paterson"
+                    ],
+                    "speaks_1": 33.0,
+                    "ranks_1": 2.0,
+                    "speaks_2": 32.0,
+                    "ranks_2": 3.0,
+                    "speaks_total": 65.0,
+                    "ranks_total": 5.0
+                }
+            },
+            "total_wins": 2,
+            "total_speaks_1": 144.0,
+            "total_ranks_1": 12.0,
+            "total_speaks_2": 144.0,
+            "total_ranks_2": 14.0,
+            "total_speaks": 288.0,
+            "total_ranks": 26.0
+        },
+        "Non-binary ass haircut": {
+            "debater_1": {
+                "name": "Maggie Mooney",
+                "status": "varsity"
+            },
+            "debater_2": {
+                "name": "Maiya Little",
+                "status": "novice"
+            },
+            "rounds": {
+                "1": {
+                    "side": "opp",
+                    "result": "l",
+                    "opponent": "Chicago/UVA RS",
+                    "judge": [
+                        "Rodda John"
+                    ],
+                    "speaks_1": 33.0,
+                    "ranks_1": 2.0,
+                    "speaks_2": 32.0,
+                    "ranks_2": 4.0,
+                    "speaks_total": 65.0,
+                    "ranks_total": 6.0
+                },
+                "2": {
+                    "side": "gov",
+                    "result": "w",
+                    "opponent": "Khan & Buribayeva",
+                    "judge": [
+                        "Adithi Attada"
+                    ],
+                    "speaks_1": 28.0,
+                    "ranks_1": 1.0,
+                    "speaks_2": 28.0,
+                    "ranks_2": 2.0,
+                    "speaks_total": 56.0,
+                    "ranks_total": 3.0
+                },
+                "3": {
+                    "side": "gov",
+                    "result": "w",
+                    "opponent": "Chicago CJ",
+                    "judge": [
+                        "Jake Bohman"
+                    ],
+                    "speaks_1": 31.0,
+                    "ranks_1": 1.0,
+                    "speaks_2": 30.0,
+                    "ranks_2": 2.0,
+                    "speaks_total": 61.0,
+                    "ranks_total": 3.0
+                },
+                "4": {
+                    "side": "opp",
+                    "result": "l",
+                    "opponent": "Ranuary Rixth Rommittee",
+                    "judge": [
+                        "Megan Wu"
+                    ],
+                    "speaks_1": 30.0,
+                    "ranks_1": 4.0,
+                    "speaks_2": 30.0,
+                    "ranks_2": 3.0,
+                    "speaks_total": 60.0,
+                    "ranks_total": 7.0
+                },
+                "5": {
+                    "side": "opp",
+                    "result": "l",
+                    "opponent": "Wait, that’s not Pranav!",
+                    "judge": [
+                        "Leon Gold"
+                    ],
+                    "speaks_1": 30.0,
+                    "ranks_1": 3.0,
+                    "speaks_2": 30.0,
+                    "ranks_2": 4.0,
+                    "speaks_total": 60.0,
+                    "ranks_total": 7.0
+                }
+            },
+            "total_wins": 2,
+            "total_speaks_1": 152.0,
+            "total_ranks_1": 11.0,
+            "total_speaks_2": 150.0,
+            "total_ranks_2": 15.0,
+            "total_speaks": 302.0,
+            "total_ranks": 26.0
+        },
+        "Mercedes and Mercedes Esq.": {
+            "debater_1": {
+                "name": "Laura Mercedes",
+                "status": "novice"
+            },
+            "debater_2": {
+                "name": "Ruth Mercedes",
+                "status": "novice"
+            },
+            "rounds": {
+                "1": {
+                    "side": "gov",
+                    "result": "l",
+                    "opponent": "friends with axe",
+                    "judge": [
+                        "Victoria Ajayi"
+                    ],
+                    "speaks_1": 27.0,
+                    "ranks_1": 4.0,
+                    "speaks_2": 28.0,
+                    "ranks_2": 3.0,
+                    "speaks_total": 55.0,
+                    "ranks_total": 7.0
+                },
+                "2": {
+                    "side": "opp",
+                    "result": "l",
+                    "opponent": "Chicago CJ",
+                    "judge": [
+                        "Ethan Quinn"
+                    ],
+                    "speaks_1": 28.0,
+                    "ranks_1": 4.0,
+                    "speaks_2": 28.0,
+                    "ranks_2": 3.0,
+                    "speaks_total": 56.0,
+                    "ranks_total": 7.0
+                },
+                "3": {
+                    "side": "opp",
+                    "result": "w",
+                    "opponent": "cellular desperation",
+                    "judge": [
+                        "Khylan Stubblefield"
+                    ],
+                    "speaks_1": 27.0,
+                    "ranks_1": 2.0,
+                    "speaks_2": 27.0,
+                    "ranks_2": 1.0,
+                    "speaks_total": 54.0,
+                    "ranks_total": 3.0
+                },
+                "4": {
+                    "side": "gov",
+                    "result": "l",
+                    "opponent": "Tight Call Specialists",
+                    "judge": [
+                        "Jake Bohman"
+                    ],
+                    "speaks_1": 26.0,
+                    "ranks_1": 3.0,
+                    "speaks_2": 25.0,
+                    "ranks_2": 4.0,
+                    "speaks_total": 51.0,
+                    "ranks_total": 7.0
+                },
+                "5": {
+                    "side": "opp",
+                    "result": "w",
+                    "opponent": "Khan & Buribayeva",
+                    "judge": [
+                        "Eric Trinh",
+                        "Mia Rojas"
+                    ],
+                    "speaks_1": 29.0,
+                    "ranks_1": 1.0,
+                    "speaks_2": 28.0,
+                    "ranks_2": 2.0,
+                    "speaks_total": 57.0,
+                    "ranks_total": 3.0
+                }
+            },
+            "total_wins": 2,
+            "total_speaks_1": 137.0,
+            "total_ranks_1": 14.0,
+            "total_speaks_2": 136.0,
+            "total_ranks_2": 13.0,
+            "total_speaks": 273.0,
+            "total_ranks": 27.0
+        },
+        "Master and Commander": {
+            "debater_1": {
+                "name": "Ben Fligelman",
+                "status": "novice"
+            },
+            "debater_2": {
+                "name": "Nathan Schechter",
+                "status": "novice"
+            },
+            "rounds": {
+                "1": {
+                    "side": "gov",
+                    "result": "w",
+                    "opponent": "Garvey & Hussain",
+                    "judge": [
+                        "Eliza Morgan"
+                    ],
+                    "speaks_1": 21.0,
+                    "ranks_1": 1.0,
+                    "speaks_2": 20.0,
+                    "ranks_2": 2.0,
+                    "speaks_total": 41.0,
+                    "ranks_total": 3.0
+                },
+                "2": {
+                    "side": "gov",
+                    "result": "l",
+                    "opponent": "Chicago/UVA RS",
+                    "judge": [
+                        "Kai Williams"
+                    ],
+                    "speaks_1": 31.0,
+                    "ranks_1": 3.0,
+                    "speaks_2": 31.0,
+                    "ranks_2": 4.0,
+                    "speaks_total": 62.0,
+                    "ranks_total": 7.0
+                },
+                "3": {
+                    "side": "opp",
+                    "result": "l",
+                    "opponent": "Chicago JL",
+                    "judge": [
+                        "Jay Leeds"
+                    ],
+                    "speaks_1": 24.0,
+                    "ranks_1": 4.0,
+                    "speaks_2": 25.0,
+                    "ranks_2": 3.0,
+                    "speaks_total": 49.0,
+                    "ranks_total": 7.0
+                },
+                "4": {
+                    "side": "opp",
+                    "result": "l",
+                    "opponent": "Due Waivers for Punts",
+                    "judge": [
+                        "Parker Snipes"
+                    ],
+                    "speaks_1": 26.0,
+                    "ranks_1": 3.0,
+                    "speaks_2": 25.0,
+                    "ranks_2": 4.0,
+                    "speaks_total": 51.0,
+                    "ranks_total": 7.0
+                },
+                "5": {
+                    "side": "opp",
+                    "result": "l",
+                    "opponent": "Temple 2",
+                    "judge": [
+                        "Rose West"
+                    ],
+                    "speaks_1": 29.0,
+                    "ranks_1": 2.0,
+                    "speaks_2": 28.0,
+                    "ranks_2": 4.0,
+                    "speaks_total": 57.0,
+                    "ranks_total": 6.0
+                }
+            },
+            "total_wins": 1,
+            "total_speaks_1": 131.0,
+            "total_ranks_1": 13.0,
+            "total_speaks_2": 129.0,
+            "total_ranks_2": 17.0,
+            "total_speaks": 260.0,
+            "total_ranks": 30.0
+        },
+        "Rutgerford": {
+            "debater_1": {
+                "name": "Jocelyn Gao",
+                "status": "novice"
+            },
+            "debater_2": {
+                "name": "Robert Fu",
+                "status": "novice"
+            },
+            "rounds": {
+                "1": {
+                    "side": "opp",
+                    "result": "l",
+                    "opponent": "GWUVA Fishing Trip",
+                    "judge": [
+                        "Eric Trinh"
+                    ],
+                    "speaks_1": 27.0,
+                    "ranks_1": 4.0,
+                    "speaks_2": 27.0,
+                    "ranks_2": 3.0,
+                    "speaks_total": 54.0,
+                    "ranks_total": 7.0
+                },
+                "2": {
+                    "side": "opp",
+                    "result": "l",
+                    "opponent": "Is it too late to soft launch?",
+                    "judge": [
+                        "Leon Gold"
+                    ],
+                    "speaks_1": 32.0,
+                    "ranks_1": 3.0,
+                    "speaks_2": 29.0,
+                    "ranks_2": 4.0,
+                    "speaks_total": 61.0,
+                    "ranks_total": 7.0
+                },
+                "3": {
+                    "side": "gov",
+                    "result": "w",
+                    "opponent": "Khan & Buribayeva",
+                    "judge": [
+                        "Ethan Quinn"
+                    ],
+                    "speaks_1": 22.0,
+                    "ranks_1": 3.0,
+                    "speaks_2": 25.0,
+                    "ranks_2": 1.0,
+                    "speaks_total": 47.0,
+                    "ranks_total": 4.0
+                },
+                "4": {
+                    "side": "opp",
+                    "result": "l",
+                    "opponent": "Chicago CJ",
+                    "judge": [
+                        "Khylan Stubblefield"
+                    ],
+                    "speaks_1": 27.0,
+                    "ranks_1": 4.0,
+                    "speaks_2": 28.0,
+                    "ranks_2": 3.0,
+                    "speaks_total": 55.0,
+                    "ranks_total": 7.0
+                },
+                "5": {
+                    "side": "gov",
+                    "result": "w",
+                    "opponent": "Butter Bloc",
+                    "judge": [
+                        "Jay Leeds"
+                    ],
+                    "speaks_1": 24.0,
+                    "ranks_1": 3.0,
+                    "speaks_2": 27.0,
+                    "ranks_2": 1.0,
+                    "speaks_total": 51.0,
+                    "ranks_total": 4.0
+                }
+            },
+            "total_wins": 2,
+            "total_speaks_1": 132.0,
+            "total_ranks_1": 17.0,
+            "total_speaks_2": 136.0,
+            "total_ranks_2": 12.0,
+            "total_speaks": 268.0,
+            "total_ranks": 29.0
+        },
+        "opp choi-ce": {
+            "debater_1": {
+                "name": "Nathaniel Yoon",
+                "status": "varsity"
+            },
+            "debater_2": {
+                "name": "Seth Choi",
+                "status": "novice"
+            },
+            "rounds": {
+                "1": {
+                    "side": "opp",
+                    "result": "w",
+                    "opponent": "Khan & Buribayeva",
+                    "judge": [
+                        "Kai Williams"
+                    ],
+                    "speaks_1": 31.0,
+                    "ranks_1": 1.0,
+                    "speaks_2": 23.0,
+                    "ranks_2": 3.0,
+                    "speaks_total": 54.0,
+                    "ranks_total": 4.0
+                },
+                "2": {
+                    "side": "gov",
+                    "result": "w",
+                    "opponent": "Tia Tamera",
+                    "judge": [
+                        "Megan Wu"
+                    ],
+                    "speaks_1": 33.0,
+                    "ranks_1": 1.0,
+                    "speaks_2": 29.0,
+                    "ranks_2": 2.0,
+                    "speaks_total": 62.0,
+                    "ranks_total": 3.0
+                },
+                "3": {
+                    "side": "gov",
+                    "result": "w",
+                    "opponent": "put a helmet on that soldier",
+                    "judge": [
+                        "Parker Snipes"
+                    ],
+                    "speaks_1": 33.0,
+                    "ranks_1": 1.0,
+                    "speaks_2": 29.0,
+                    "ranks_2": 2.0,
+                    "speaks_total": 62.0,
+                    "ranks_total": 3.0
+                },
+                "4": {
+                    "side": "opp",
+                    "result": "l",
+                    "opponent": "GWUVA Fishing Trip",
+                    "judge": [
+                        "Mia Rojas",
+                        "Rodda John"
+                    ],
+                    "speaks_1": 31.0,
+                    "ranks_1": 3.0,
+                    "speaks_2": 28.0,
+                    "ranks_2": 4.0,
+                    "speaks_total": 59.0,
+                    "ranks_total": 7.0
+                },
+                "5": {
+                    "side": "gov",
+                    "result": "l",
+                    "opponent": "Dom and APDA Schedule for COTY",
+                    "judge": [
+                        "Max Neuman"
+                    ],
+                    "speaks_1": 25.0,
+                    "ranks_1": 2.0,
+                    "speaks_2": 23.0,
+                    "ranks_2": 4.0,
+                    "speaks_total": 48.0,
+                    "ranks_total": 6.0
+                }
+            },
+            "total_wins": 3,
+            "total_speaks_1": 153.0,
+            "total_ranks_1": 8.0,
+            "total_speaks_2": 132.0,
+            "total_ranks_2": 15.0,
+            "total_speaks": 285.0,
+            "total_ranks": 23.0
+        },
+        "Garvey & Hussain": {
+            "debater_1": {
+                "name": "Cece Garvey",
+                "status": "novice"
+            },
+            "debater_2": {
+                "name": "Hana Hussain",
+                "status": "novice"
+            },
+            "rounds": {
+                "1": {
+                    "side": "opp",
+                    "result": "l",
+                    "opponent": "Master and Commander",
+                    "judge": [
+                        "Eliza Morgan"
+                    ],
+                    "speaks_1": 17.0,
+                    "ranks_1": 4.0,
+                    "speaks_2": 17.0,
+                    "ranks_2": 3.0,
+                    "speaks_total": 34.0,
+                    "ranks_total": 7.0
+                },
+                "2": {
+                    "side": null,
+                    "result": "bye",
+                    "opponent": null,
+                    "judge": null,
+                    "speaks_1": "average",
+                    "ranks_1": "average",
+                    "speaks_2": "average",
+                    "ranks_2": "average",
+                    "speaks_total": "average",
+                    "ranks_total": "average"
+                },
+                "3": {
+                    "side": "gov",
+                    "result": "l",
+                    "opponent": "8:30 minutes no zaza",
+                    "judge": [
+                        "Jonah Paterson"
+                    ],
+                    "speaks_1": 25.0,
+                    "ranks_1": 4.0,
+                    "speaks_2": 25.0,
+                    "ranks_2": 3.0,
+                    "speaks_total": 50.0,
+                    "ranks_total": 7.0
+                },
+                "4": {
+                    "side": "gov",
+                    "result": "l",
+                    "opponent": "friends with axe",
+                    "judge": [
+                        "Jay Leeds"
+                    ],
+                    "speaks_1": 25.0,
+                    "ranks_1": 3.0,
+                    "speaks_2": 25.0,
+                    "ranks_2": 4.0,
+                    "speaks_total": 50.0,
+                    "ranks_total": 7.0
+                },
+                "5": {
+                    "side": "opp",
+                    "result": "w",
+                    "opponent": "Chicago NS",
+                    "judge": [
+                        "Victoria Ajayi"
+                    ],
+                    "speaks_1": 28.0,
+                    "ranks_1": 3.0,
+                    "speaks_2": 29.0,
+                    "ranks_2": 1.0,
+                    "speaks_total": 57.0,
+                    "ranks_total": 4.0
+                }
+            },
+            "total_wins": 2,
+            "total_speaks_1": 118.75,
+            "total_ranks_1": 17.5,
+            "total_speaks_2": 120.0,
+            "total_ranks_2": 13.75,
+            "total_speaks": 238.75,
+            "total_ranks": 31.25
+        },
+        "Khan & Buribayeva": {
+            "debater_1": {
+                "name": "Malika Buribayeva",
+                "status": "novice"
+            },
+            "debater_2": {
+                "name": "Raaid Khan",
+                "status": "novice"
+            },
+            "rounds": {
+                "1": {
+                    "side": "gov",
+                    "result": "l",
+                    "opponent": "opp choi-ce",
+                    "judge": [
+                        "Kai Williams"
+                    ],
+                    "speaks_1": 24.0,
+                    "ranks_1": 2.0,
+                    "speaks_2": 22.0,
+                    "ranks_2": 4.0,
+                    "speaks_total": 46.0,
+                    "ranks_total": 6.0
+                },
+                "2": {
+                    "side": "opp",
+                    "result": "l",
+                    "opponent": "Non-binary ass haircut",
+                    "judge": [
+                        "Adithi Attada"
+                    ],
+                    "speaks_1": 26.0,
+                    "ranks_1": 4.0,
+                    "speaks_2": 26.0,
+                    "ranks_2": 3.0,
+                    "speaks_total": 52.0,
+                    "ranks_total": 7.0
+                },
+                "3": {
+                    "side": "opp",
+                    "result": "l",
+                    "opponent": "Rutgerford",
+                    "judge": [
+                        "Ethan Quinn"
+                    ],
+                    "speaks_1": 22.0,
+                    "ranks_1": 4.0,
+                    "speaks_2": 24.0,
+                    "ranks_2": 2.0,
+                    "speaks_total": 46.0,
+                    "ranks_total": 6.0
+                },
+                "4": {
+                    "side": "opp",
+                    "result": "w",
+                    "opponent": "cellular desperation",
+                    "judge": [
+                        "Rose West"
+                    ],
+                    "speaks_1": 26.0,
+                    "ranks_1": 2.0,
+                    "speaks_2": 26.0,
+                    "ranks_2": 1.0,
+                    "speaks_total": 52.0,
+                    "ranks_total": 3.0
+                },
+                "5": {
+                    "side": "gov",
+                    "result": "l",
+                    "opponent": "Mercedes and Mercedes Esq.",
+                    "judge": [
+                        "Eric Trinh",
+                        "Mia Rojas"
+                    ],
+                    "speaks_1": 26.0,
+                    "ranks_1": 3.0,
+                    "speaks_2": 25.0,
+                    "ranks_2": 4.0,
+                    "speaks_total": 51.0,
+                    "ranks_total": 7.0
+                }
+            },
+            "total_wins": 1,
+            "total_speaks_1": 124.0,
+            "total_ranks_1": 15.0,
+            "total_speaks_2": 123.0,
+            "total_ranks_2": 14.0,
+            "total_speaks": 247.0,
+            "total_ranks": 29.0
+        },
+        "Tia Tamera": {
+            "debater_1": {
+                "name": "Paola Apolinario",
+                "status": "varsity"
+            },
+            "debater_2": {
+                "name": "Rayan Sheikh",
+                "status": "novice"
+            },
+            "rounds": {
+                "1": {
+                    "side": "gov",
+                    "result": "w",
+                    "opponent": "8:30 minutes no zaza",
+                    "judge": [
+                        "Ethan Quinn"
+                    ],
+                    "speaks_1": 31.0,
+                    "ranks_1": 2.0,
+                    "speaks_2": 32.0,
+                    "ranks_2": 1.0,
+                    "speaks_total": 63.0,
+                    "ranks_total": 3.0
+                },
+                "2": {
+                    "side": "opp",
+                    "result": "l",
+                    "opponent": "opp choi-ce",
+                    "judge": [
+                        "Megan Wu"
+                    ],
+                    "speaks_1": 29.0,
+                    "ranks_1": 3.0,
+                    "speaks_2": 29.0,
+                    "ranks_2": 4.0,
+                    "speaks_total": 58.0,
+                    "ranks_total": 7.0
+                },
+                "3": {
+                    "side": "opp",
+                    "result": "l",
+                    "opponent": "Chicago WZ",
+                    "judge": [
+                        "Rose West"
+                    ],
+                    "speaks_1": 30.0,
+                    "ranks_1": 4.0,
+                    "speaks_2": 31.0,
+                    "ranks_2": 2.0,
+                    "speaks_total": 61.0,
+                    "ranks_total": 6.0
+                },
+                "4": {
+                    "side": "gov",
+                    "result": "w",
+                    "opponent": "Temple 2",
+                    "judge": [
+                        "Leon Gold"
+                    ],
+                    "speaks_1": 30.0,
+                    "ranks_1": 2.0,
+                    "speaks_2": 32.0,
+                    "ranks_2": 1.0,
+                    "speaks_total": 62.0,
+                    "ranks_total": 3.0
+                },
+                "5": {
+                    "side": "opp",
+                    "result": "l",
+                    "opponent": "Chicago KS",
+                    "judge": [
+                        "Jennifer He"
+                    ],
+                    "speaks_1": 27.0,
+                    "ranks_1": 3.0,
+                    "speaks_2": 27.0,
+                    "ranks_2": 4.0,
+                    "speaks_total": 54.0,
+                    "ranks_total": 7.0
+                }
+            },
+            "total_wins": 2,
+            "total_speaks_1": 147.0,
+            "total_ranks_1": 14.0,
+            "total_speaks_2": 151.0,
+            "total_ranks_2": 12.0,
+            "total_speaks": 298.0,
+            "total_ranks": 26.0
+        },
+        "cellular desperation": {
+            "debater_1": {
+                "name": "Elise Ko Davis",
+                "status": "novice"
+            },
+            "debater_2": {
+                "name": "Sriya Uttharkar",
+                "status": "novice"
+            },
+            "rounds": {
+                "1": {
+                    "side": "opp",
+                    "result": "l",
+                    "opponent": "Georgetown Enthusiasts",
+                    "judge": [
+                        "Leon Gold"
+                    ],
+                    "speaks_1": 27.0,
+                    "ranks_1": 3.0,
+                    "speaks_2": 25.0,
+                    "ranks_2": 4.0,
+                    "speaks_total": 52.0,
+                    "ranks_total": 7.0
+                },
+                "2": {
+                    "side": "opp",
+                    "result": "l",
+                    "opponent": "8:30 minutes no zaza",
+                    "judge": [
+                        "Eliza Morgan"
+                    ],
+                    "speaks_1": 23.0,
+                    "ranks_1": 4.0,
+                    "speaks_2": 25.0,
+                    "ranks_2": 3.0,
+                    "speaks_total": 48.0,
+                    "ranks_total": 7.0
+                },
+                "3": {
+                    "side": "gov",
+                    "result": "l",
+                    "opponent": "Mercedes and Mercedes Esq.",
+                    "judge": [
+                        "Khylan Stubblefield"
+                    ],
+                    "speaks_1": 26.0,
+                    "ranks_1": 3.0,
+                    "speaks_2": 25.0,
+                    "ranks_2": 4.0,
+                    "speaks_total": 51.0,
+                    "ranks_total": 7.0
+                },
+                "4": {
+                    "side": "gov",
+                    "result": "l",
+                    "opponent": "Khan & Buribayeva",
+                    "judge": [
+                        "Rose West"
+                    ],
+                    "speaks_1": 25.0,
+                    "ranks_1": 4.0,
+                    "speaks_2": 25.0,
+                    "ranks_2": 3.0,
+                    "speaks_total": 50.0,
+                    "ranks_total": 7.0
+                },
+                "5": {
+                    "side": null,
+                    "result": "bye",
+                    "opponent": null,
+                    "judge": null,
+                    "speaks_1": "average",
+                    "ranks_1": "average",
+                    "speaks_2": "average",
+                    "ranks_2": "average",
+                    "speaks_total": "average",
+                    "ranks_total": "average"
+                }
+            },
+            "total_wins": 1,
+            "total_speaks_1": 126.25,
+            "total_ranks_1": 17.5,
+            "total_speaks_2": 125.0,
+            "total_ranks_2": 17.5,
+            "total_speaks": 251.25,
+            "total_ranks": 35.0
+        },
+        "Wait, that’s not Pranav!": {
+            "debater_1": {
+                "name": "Emily Chow",
+                "status": "varsity"
+            },
+            "debater_2": {
+                "name": "Justin Wu",
+                "status": "novice"
+            },
+            "rounds": {
+                "1": {
+                    "side": "opp",
+                    "result": "w",
+                    "opponent": "Due Waivers for Punts",
+                    "judge": [
+                        "Mia Rojas"
+                    ],
+                    "speaks_1": 30.0,
+                    "ranks_1": 2.0,
+                    "speaks_2": 29.0,
+                    "ranks_2": 3.0,
+                    "speaks_total": 59.0,
+                    "ranks_total": 5.0
+                },
+                "2": {
+                    "side": "gov",
+                    "result": "w",
+                    "opponent": "Chicago WZ",
+                    "judge": [
+                        "Parker Snipes"
+                    ],
+                    "speaks_1": 30.0,
+                    "ranks_1": 1.0,
+                    "speaks_2": 29.0,
+                    "ranks_2": 2.0,
+                    "speaks_total": 59.0,
+                    "ranks_total": 3.0
+                },
+                "3": {
+                    "side": "gov",
+                    "result": "l",
+                    "opponent": "Chicago/UVA RS",
+                    "judge": [
+                        "Max Neuman"
+                    ],
+                    "speaks_1": 27.0,
+                    "ranks_1": 4.0,
+                    "speaks_2": 27.0,
+                    "ranks_2": 3.0,
+                    "speaks_total": 54.0,
+                    "ranks_total": 7.0
+                },
+                "4": {
+                    "side": "opp",
+                    "result": "l",
+                    "opponent": "Georgetown Enthusiasts",
+                    "judge": [
+                        "Sarah Wheaton"
+                    ],
+                    "speaks_1": 27.0,
+                    "ranks_1": 4.0,
+                    "speaks_2": 29.0,
+                    "ranks_2": 2.0,
+                    "speaks_total": 56.0,
+                    "ranks_total": 6.0
+                },
+                "5": {
+                    "side": "gov",
+                    "result": "w",
+                    "opponent": "Non-binary ass haircut",
+                    "judge": [
+                        "Leon Gold"
+                    ],
+                    "speaks_1": 32.0,
+                    "ranks_1": 1.0,
+                    "speaks_2": 31.0,
+                    "ranks_2": 2.0,
+                    "speaks_total": 63.0,
+                    "ranks_total": 3.0
+                }
+            },
+            "total_wins": 3,
+            "total_speaks_1": 146.0,
+            "total_ranks_1": 12.0,
+            "total_speaks_2": 145.0,
+            "total_ranks_2": 12.0,
+            "total_speaks": 291.0,
+            "total_ranks": 24.0
+        },
+        "Butter Bloc": {
+            "debater_1": {
+                "name": "Alexander West",
+                "status": "novice"
+            },
+            "debater_2": {
+                "name": "James Currie",
+                "status": "novice"
+            },
+            "rounds": {
+                "1": {
+                    "side": "gov",
+                    "result": "l",
+                    "opponent": "Chicago WZ",
+                    "judge": [
+                        "Jonah Paterson"
+                    ],
+                    "speaks_1": 29.0,
+                    "ranks_1": 4.0,
+                    "speaks_2": 29.0,
+                    "ranks_2": 3.0,
+                    "speaks_total": 58.0,
+                    "ranks_total": 7.0
+                },
+                "2": {
+                    "side": "opp",
+                    "result": "l",
+                    "opponent": "Chicago NS",
+                    "judge": [
+                        "Jake Bohman"
+                    ],
+                    "speaks_1": 25.0,
+                    "ranks_1": 4.0,
+                    "speaks_2": 25.0,
+                    "ranks_2": 3.0,
+                    "speaks_total": 50.0,
+                    "ranks_total": 7.0
+                },
+                "3": {
+                    "side": "opp",
+                    "result": "l",
+                    "opponent": "alyssa edwards tongue pop",
+                    "judge": [
+                        "Mia Rojas"
+                    ],
+                    "speaks_1": 28.0,
+                    "ranks_1": 4.0,
+                    "speaks_2": 29.0,
+                    "ranks_2": 2.0,
+                    "speaks_total": 57.0,
+                    "ranks_total": 6.0
+                },
+                "4": {
+                    "side": null,
+                    "result": "forfeit",
+                    "opponent": null,
+                    "judge": null,
+                    "speaks_1": 0.0,
+                    "ranks_1": 0.0,
+                    "speaks_2": 0.0,
+                    "ranks_2": 0.0,
+                    "speaks_total": 0.0,
+                    "ranks_total": 0.0
+                },
+                "5": {
+                    "side": "opp",
+                    "result": "l",
+                    "opponent": "Rutgerford",
+                    "judge": [
+                        "Jay Leeds"
+                    ],
+                    "speaks_1": 24.0,
+                    "ranks_1": 4.0,
+                    "speaks_2": 25.0,
+                    "ranks_2": 2.0,
+                    "speaks_total": 49.0,
+                    "ranks_total": 6.0
+                }
+            },
+            "total_wins": 0,
+            "total_speaks_1": 106.0,
+            "total_ranks_1": 16.0,
+            "total_speaks_2": 108.0,
+            "total_ranks_2": 10.0,
+            "total_speaks": 214.0,
+            "total_ranks": 26.0
+        },
+        "Temple 2": {
+            "debater_1": {
+                "name": "Nolan Greenways",
+                "status": "novice"
+            },
+            "debater_2": {
+                "name": "Tyler Hugo",
+                "status": "varsity"
+            },
+            "rounds": {
+                "1": {
+                    "side": "gov",
+                    "result": "l",
+                    "opponent": "Southern Hit Squad",
+                    "judge": [
+                        "Megan Wu"
+                    ],
+                    "speaks_1": 27.0,
+                    "ranks_1": 4.0,
+                    "speaks_2": 28.0,
+                    "ranks_2": 3.0,
+                    "speaks_total": 55.0,
+                    "ranks_total": 7.0
+                },
+                "2": {
+                    "side": "opp",
+                    "result": "l",
+                    "opponent": "Tight Call Specialists",
+                    "judge": [
+                        "Mia Rojas"
+                    ],
+                    "speaks_1": 21.0,
+                    "ranks_1": 3.0,
+                    "speaks_2": 20.0,
+                    "ranks_2": 4.0,
+                    "speaks_total": 41.0,
+                    "ranks_total": 7.0
+                },
+                "3": {
+                    "side": null,
+                    "result": "bye",
+                    "opponent": null,
+                    "judge": null,
+                    "speaks_1": "average",
+                    "ranks_1": "average",
+                    "speaks_2": "average",
+                    "ranks_2": "average",
+                    "speaks_total": "average",
+                    "ranks_total": "average"
+                },
+                "4": {
+                    "side": "opp",
+                    "result": "l",
+                    "opponent": "Tia Tamera",
+                    "judge": [
+                        "Leon Gold"
+                    ],
+                    "speaks_1": 29.0,
+                    "ranks_1": 4.0,
+                    "speaks_2": 29.0,
+                    "ranks_2": 3.0,
+                    "speaks_total": 58.0,
+                    "ranks_total": 7.0
+                },
+                "5": {
+                    "side": "gov",
+                    "result": "w",
+                    "opponent": "Master and Commander",
+                    "judge": [
+                        "Rose West"
+                    ],
+                    "speaks_1": 28.0,
+                    "ranks_1": 3.0,
+                    "speaks_2": 30.0,
+                    "ranks_2": 1.0,
+                    "speaks_total": 58.0,
+                    "ranks_total": 4.0
+                }
+            },
+            "total_wins": 2,
+            "total_speaks_1": 131.25,
+            "total_ranks_1": 17.5,
+            "total_speaks_2": 133.75,
+            "total_ranks_2": 13.75,
+            "total_speaks": 265.0,
+            "total_ranks": 31.25
+        },
+        "Ranuary Rixth Rommittee": {
+            "debater_1": {
+                "name": "Ben Koch",
+                "status": "varsity"
+            },
+            "debater_2": {
+                "name": "Ethan Ross",
+                "status": "varsity"
+            },
+            "rounds": {
+                "1": {
+                    "side": "opp",
+                    "result": "w",
+                    "opponent": "Tight Call Specialists",
+                    "judge": [
+                        "Parker Snipes"
+                    ],
+                    "speaks_1": 29.0,
+                    "ranks_1": 3.0,
+                    "speaks_2": 32.0,
+                    "ranks_2": 1.0,
+                    "speaks_total": 61.0,
+                    "ranks_total": 4.0
+                },
+                "2": {
+                    "side": "opp",
+                    "result": "l",
+                    "opponent": "Southern Hit Squad",
+                    "judge": [
+                        "Eric Trinh",
+                        "Khylan Stubblefield"
+                    ],
+                    "speaks_1": 30.0,
+                    "ranks_1": 3.0,
+                    "speaks_2": 31.0,
+                    "ranks_2": 2.0,
+                    "speaks_total": 61.0,
+                    "ranks_total": 5.0
+                },
+                "3": {
+                    "side": "gov",
+                    "result": "w",
+                    "opponent": "Due Waivers for Punts",
+                    "judge": [
+                        "Victoria Ajayi"
+                    ],
+                    "speaks_1": 31.0,
+                    "ranks_1": 1.0,
+                    "speaks_2": 31.0,
+                    "ranks_2": 2.0,
+                    "speaks_total": 62.0,
+                    "ranks_total": 3.0
+                },
+                "4": {
+                    "side": "gov",
+                    "result": "w",
+                    "opponent": "Non-binary ass haircut",
+                    "judge": [
+                        "Megan Wu"
+                    ],
+                    "speaks_1": 31.0,
+                    "ranks_1": 1.0,
+                    "speaks_2": 31.0,
+                    "ranks_2": 2.0,
+                    "speaks_total": 62.0,
+                    "ranks_total": 3.0
+                },
+                "5": {
+                    "side": "gov",
+                    "result": "l",
+                    "opponent": "Is it too late to soft launch?",
+                    "judge": [
+                        "Rodda John"
+                    ],
+                    "speaks_1": 33.0,
+                    "ranks_1": 2.0,
+                    "speaks_2": 31.0,
+                    "ranks_2": 4.0,
+                    "speaks_total": 64.0,
+                    "ranks_total": 6.0
+                }
+            },
+            "total_wins": 3,
+            "total_speaks_1": 154.0,
+            "total_ranks_1": 10.0,
+            "total_speaks_2": 156.0,
+            "total_ranks_2": 11.0,
+            "total_speaks": 310.0,
+            "total_ranks": 21.0
+        },
+        "8:30 minutes no zaza": {
+            "debater_1": {
+                "name": "Ishaan Goel",
+                "status": "varsity"
+            },
+            "debater_2": {
+                "name": "Michael Moran",
+                "status": "varsity"
+            },
+            "rounds": {
+                "1": {
+                    "side": "opp",
+                    "result": "l",
+                    "opponent": "Tia Tamera",
+                    "judge": [
+                        "Ethan Quinn"
+                    ],
+                    "speaks_1": 30.0,
+                    "ranks_1": 3.0,
+                    "speaks_2": 30.0,
+                    "ranks_2": 4.0,
+                    "speaks_total": 60.0,
+                    "ranks_total": 7.0
+                },
+                "2": {
+                    "side": "gov",
+                    "result": "w",
+                    "opponent": "cellular desperation",
+                    "judge": [
+                        "Eliza Morgan"
+                    ],
+                    "speaks_1": 33.0,
+                    "ranks_1": 1.0,
+                    "speaks_2": 33.0,
+                    "ranks_2": 2.0,
+                    "speaks_total": 66.0,
+                    "ranks_total": 3.0
+                },
+                "3": {
+                    "side": "opp",
+                    "result": "w",
+                    "opponent": "Garvey & Hussain",
+                    "judge": [
+                        "Jonah Paterson"
+                    ],
+                    "speaks_1": 26.0,
+                    "ranks_1": 1.0,
+                    "speaks_2": 26.0,
+                    "ranks_2": 2.0,
+                    "speaks_total": 52.0,
+                    "ranks_total": 3.0
+                },
+                "4": {
+                    "side": "gov",
+                    "result": "l",
+                    "opponent": "existentially unretained",
+                    "judge": [
+                        "Eric Trinh"
+                    ],
+                    "speaks_1": 30.0,
+                    "ranks_1": 2.0,
+                    "speaks_2": 29.0,
+                    "ranks_2": 4.0,
+                    "speaks_total": 59.0,
+                    "ranks_total": 6.0
+                },
+                "5": {
+                    "side": "opp",
+                    "result": "l",
+                    "opponent": "put a helmet on that soldier",
+                    "judge": [
+                        "Jake Bohman"
+                    ],
+                    "speaks_1": 29.0,
+                    "ranks_1": 3.0,
+                    "speaks_2": 28.0,
+                    "ranks_2": 4.0,
+                    "speaks_total": 57.0,
+                    "ranks_total": 7.0
+                }
+            },
+            "total_wins": 2,
+            "total_speaks_1": 148.0,
+            "total_ranks_1": 10.0,
+            "total_speaks_2": 146.0,
+            "total_ranks_2": 16.0,
+            "total_speaks": 294.0,
+            "total_ranks": 26.0
+        },
+        "friends with axe": {
+            "debater_1": {
+                "name": "Aidan Shannon",
+                "status": "varsity"
+            },
+            "debater_2": {
+                "name": "Laura Giugno",
+                "status": "varsity"
+            },
+            "rounds": {
+                "1": {
+                    "side": "opp",
+                    "result": "w",
+                    "opponent": "Mercedes and Mercedes Esq.",
+                    "judge": [
+                        "Victoria Ajayi"
+                    ],
+                    "speaks_1": 29.0,
+                    "ranks_1": 2.0,
+                    "speaks_2": 31.0,
+                    "ranks_2": 1.0,
+                    "speaks_total": 60.0,
+                    "ranks_total": 3.0
+                },
+                "2": {
+                    "side": "gov",
+                    "result": "l",
+                    "opponent": "Dom and APDA Schedule for COTY",
+                    "judge": [
+                        "Rose West"
+                    ],
+                    "speaks_1": 29.0,
+                    "ranks_1": 4.0,
+                    "speaks_2": 29.0,
+                    "ranks_2": 2.0,
+                    "speaks_total": 58.0,
+                    "ranks_total": 6.0
+                },
+                "3": {
+                    "side": "gov",
+                    "result": "l",
+                    "opponent": "Georgetown Enthusiasts",
+                    "judge": [
+                        "Eliza Morgan"
+                    ],
+                    "speaks_1": 33.0,
+                    "ranks_1": 4.0,
+                    "speaks_2": 33.0,
+                    "ranks_2": 3.0,
+                    "speaks_total": 66.0,
+                    "ranks_total": 7.0
+                },
+                "4": {
+                    "side": "opp",
+                    "result": "w",
+                    "opponent": "Garvey & Hussain",
+                    "judge": [
+                        "Jay Leeds"
+                    ],
+                    "speaks_1": 29.0,
+                    "ranks_1": 2.0,
+                    "speaks_2": 31.0,
+                    "ranks_2": 1.0,
+                    "speaks_total": 60.0,
+                    "ranks_total": 3.0
+                },
+                "5": {
+                    "side": "gov",
+                    "result": "w",
+                    "opponent": "alyssa edwards tongue pop",
+                    "judge": [
+                        "Jonah Paterson"
+                    ],
+                    "speaks_1": 32.0,
+                    "ranks_1": 4.0,
+                    "speaks_2": 33.0,
+                    "ranks_2": 1.0,
+                    "speaks_total": 65.0,
+                    "ranks_total": 5.0
+                }
+            },
+            "total_wins": 3,
+            "total_speaks_1": 152.0,
+            "total_ranks_1": 16.0,
+            "total_speaks_2": 157.0,
+            "total_ranks_2": 8.0,
+            "total_speaks": 309.0,
+            "total_ranks": 24.0
+        },
+        "Chicago WZ": {
+            "debater_1": {
+                "name": "David Wang",
+                "status": "novice"
+            },
+            "debater_2": {
+                "name": "Zoe Zhu",
+                "status": "novice"
+            },
+            "rounds": {
+                "1": {
+                    "side": "opp",
+                    "result": "w",
+                    "opponent": "Butter Bloc",
+                    "judge": [
+                        "Jonah Paterson"
+                    ],
+                    "speaks_1": 30.0,
+                    "ranks_1": 2.0,
+                    "speaks_2": 32.0,
+                    "ranks_2": 1.0,
+                    "speaks_total": 62.0,
+                    "ranks_total": 3.0
+                },
+                "2": {
+                    "side": "opp",
+                    "result": "l",
+                    "opponent": "Wait, that’s not Pranav!",
+                    "judge": [
+                        "Parker Snipes"
+                    ],
+                    "speaks_1": 28.0,
+                    "ranks_1": 3.0,
+                    "speaks_2": 28.0,
+                    "ranks_2": 4.0,
+                    "speaks_total": 56.0,
+                    "ranks_total": 7.0
+                },
+                "3": {
+                    "side": "gov",
+                    "result": "w",
+                    "opponent": "Tia Tamera",
+                    "judge": [
+                        "Rose West"
+                    ],
+                    "speaks_1": 32.0,
+                    "ranks_1": 1.0,
+                    "speaks_2": 30.0,
+                    "ranks_2": 3.0,
+                    "speaks_total": 62.0,
+                    "ranks_total": 4.0
+                },
+                "4": {
+                    "side": "gov",
+                    "result": "w",
+                    "opponent": "put a helmet on that soldier",
+                    "judge": [
+                        "Max Neuman"
+                    ],
+                    "speaks_1": 31.0,
+                    "ranks_1": 1.0,
+                    "speaks_2": 30.0,
+                    "ranks_2": 2.0,
+                    "speaks_total": 61.0,
+                    "ranks_total": 3.0
+                },
+                "5": {
+                    "side": "opp",
+                    "result": "l",
+                    "opponent": "existentially unretained",
+                    "judge": [
+                        "Sarah Wheaton"
+                    ],
+                    "speaks_1": 29.0,
+                    "ranks_1": 4.0,
+                    "speaks_2": 30.0,
+                    "ranks_2": 3.0,
+                    "speaks_total": 59.0,
+                    "ranks_total": 7.0
+                }
+            },
+            "total_wins": 3,
+            "total_speaks_1": 150.0,
+            "total_ranks_1": 11.0,
+            "total_speaks_2": 150.0,
+            "total_ranks_2": 13.0,
+            "total_speaks": 300.0,
+            "total_ranks": 24.0
+        },
+        "Chicago KS": {
+            "debater_1": {
+                "name": "Aman Sharma",
+                "status": "novice"
+            },
+            "debater_2": {
+                "name": "Daniel Katari",
+                "status": "novice"
+            },
+            "rounds": {
+                "1": {
+                    "side": "gov",
+                    "result": "w",
+                    "opponent": "Is it too late to soft launch?",
+                    "judge": [
+                        "Susan McHarris"
+                    ],
+                    "speaks_1": 29.0,
+                    "ranks_1": 3.0,
+                    "speaks_2": 29.0,
+                    "ranks_2": 1.0,
+                    "speaks_total": 58.0,
+                    "ranks_total": 4.0
+                },
+                "2": {
+                    "side": "opp",
+                    "result": "l",
+                    "opponent": "existentially unretained",
+                    "judge": [
+                        "Max Neuman"
+                    ],
+                    "speaks_1": 25.0,
+                    "ranks_1": 3.0,
+                    "speaks_2": 24.0,
+                    "ranks_2": 4.0,
+                    "speaks_total": 49.0,
+                    "ranks_total": 7.0
+                },
+                "3": {
+                    "side": "gov",
+                    "result": "w",
+                    "opponent": "Tight Call Specialists",
+                    "judge": [
+                        "Adithi Attada"
+                    ],
+                    "speaks_1": 26.0,
+                    "ranks_1": 2.0,
+                    "speaks_2": 27.0,
+                    "ranks_2": 1.0,
+                    "speaks_total": 53.0,
+                    "ranks_total": 3.0
+                },
+                "4": {
+                    "side": "opp",
+                    "result": "l",
+                    "opponent": "Dom and APDA Schedule for COTY",
+                    "judge": [
+                        "Annette Kim"
+                    ],
+                    "speaks_1": 30.0,
+                    "ranks_1": 4.0,
+                    "speaks_2": 32.0,
+                    "ranks_2": 2.0,
+                    "speaks_total": 62.0,
+                    "ranks_total": 6.0
+                },
+                "5": {
+                    "side": "gov",
+                    "result": "w",
+                    "opponent": "Tia Tamera",
+                    "judge": [
+                        "Jennifer He"
+                    ],
+                    "speaks_1": 28.0,
+                    "ranks_1": 2.0,
+                    "speaks_2": 29.0,
+                    "ranks_2": 1.0,
+                    "speaks_total": 57.0,
+                    "ranks_total": 3.0
+                }
+            },
+            "total_wins": 3,
+            "total_speaks_1": 138.0,
+            "total_ranks_1": 14.0,
+            "total_speaks_2": 141.0,
+            "total_ranks_2": 9.0,
+            "total_speaks": 279.0,
+            "total_ranks": 23.0
+        },
+        "Chicago JL": {
+            "debater_1": {
+                "name": "Adam Jensen",
+                "status": "novice"
+            },
+            "debater_2": {
+                "name": "Noam Levinsky",
+                "status": "novice"
+            },
+            "rounds": {
+                "1": {
+                    "side": "gov",
+                    "result": "w",
+                    "opponent": "alyssa edwards tongue pop",
+                    "judge": [
+                        "Jake Bohman"
+                    ],
+                    "speaks_1": 29.0,
+                    "ranks_1": 2.0,
+                    "speaks_2": 31.0,
+                    "ranks_2": 1.0,
+                    "speaks_total": 60.0,
+                    "ranks_total": 3.0
+                },
+                "2": {
+                    "side": "gov",
+                    "result": "l",
+                    "opponent": "put a helmet on that soldier",
+                    "judge": [
+                        "Jonah Paterson"
+                    ],
+                    "speaks_1": 32.0,
+                    "ranks_1": 3.0,
+                    "speaks_2": 32.0,
+                    "ranks_2": 4.0,
+                    "speaks_total": 64.0,
+                    "ranks_total": 7.0
+                },
+                "3": {
+                    "side": "gov",
+                    "result": "w",
+                    "opponent": "Master and Commander",
+                    "judge": [
+                        "Jay Leeds"
+                    ],
+                    "speaks_1": 27.0,
+                    "ranks_1": 2.0,
+                    "speaks_2": 30.0,
+                    "ranks_2": 1.0,
+                    "speaks_total": 57.0,
+                    "ranks_total": 3.0
+                },
+                "4": {
+                    "side": "opp",
+                    "result": "l",
+                    "opponent": "Is it too late to soft launch?",
+                    "judge": [
+                        "Victoria Ajayi"
+                    ],
+                    "speaks_1": 30.0,
+                    "ranks_1": 4.0,
+                    "speaks_2": 31.0,
+                    "ranks_2": 3.0,
+                    "speaks_total": 61.0,
+                    "ranks_total": 7.0
+                },
+                "5": {
+                    "side": "opp",
+                    "result": "l",
+                    "opponent": "Tight Call Specialists",
+                    "judge": [
+                        "Ethan Quinn"
+                    ],
+                    "speaks_1": 30.0,
+                    "ranks_1": 4.0,
+                    "speaks_2": 31.0,
+                    "ranks_2": 3.0,
+                    "speaks_total": 61.0,
+                    "ranks_total": 7.0
+                }
+            },
+            "total_wins": 2,
+            "total_speaks_1": 148.0,
+            "total_ranks_1": 15.0,
+            "total_speaks_2": 155.0,
+            "total_ranks_2": 12.0,
+            "total_speaks": 303.0,
+            "total_ranks": 27.0
+        },
+        "Chicago CJ": {
+            "debater_1": {
+                "name": "Kobi Johnsson",
+                "status": "varsity"
+            },
+            "debater_2": {
+                "name": "Sydney Cook",
+                "status": "novice"
+            },
+            "rounds": {
+                "1": {
+                    "side": "opp",
+                    "result": "l",
+                    "opponent": "put a helmet on that soldier",
+                    "judge": [
+                        "Rose West"
+                    ],
+                    "speaks_1": 29.0,
+                    "ranks_1": 4.0,
+                    "speaks_2": 29.0,
+                    "ranks_2": 3.0,
+                    "speaks_total": 58.0,
+                    "ranks_total": 7.0
+                },
+                "2": {
+                    "side": "gov",
+                    "result": "w",
+                    "opponent": "Mercedes and Mercedes Esq.",
+                    "judge": [
+                        "Ethan Quinn"
+                    ],
+                    "speaks_1": 30.0,
+                    "ranks_1": 1.0,
+                    "speaks_2": 29.0,
+                    "ranks_2": 2.0,
+                    "speaks_total": 59.0,
+                    "ranks_total": 3.0
+                },
+                "3": {
+                    "side": "opp",
+                    "result": "l",
+                    "opponent": "Non-binary ass haircut",
+                    "judge": [
+                        "Jake Bohman"
+                    ],
+                    "speaks_1": 29.0,
+                    "ranks_1": 3.0,
+                    "speaks_2": 28.0,
+                    "ranks_2": 4.0,
+                    "speaks_total": 57.0,
+                    "ranks_total": 7.0
+                },
+                "4": {
+                    "side": "gov",
+                    "result": "w",
+                    "opponent": "Rutgerford",
+                    "judge": [
+                        "Khylan Stubblefield"
+                    ],
+                    "speaks_1": 31.0,
+                    "ranks_1": 1.0,
+                    "speaks_2": 30.0,
+                    "ranks_2": 2.0,
+                    "speaks_total": 61.0,
+                    "ranks_total": 3.0
+                },
+                "5": {
+                    "side": "opp",
+                    "result": "l",
+                    "opponent": "Due Waivers for Punts",
+                    "judge": [
+                        "Megan Wu"
+                    ],
+                    "speaks_1": 29.0,
+                    "ranks_1": 2.0,
+                    "speaks_2": 29.0,
+                    "ranks_2": 4.0,
+                    "speaks_total": 58.0,
+                    "ranks_total": 6.0
+                }
+            },
+            "total_wins": 2,
+            "total_speaks_1": 148.0,
+            "total_ranks_1": 11.0,
+            "total_speaks_2": 145.0,
+            "total_ranks_2": 15.0,
+            "total_speaks": 293.0,
+            "total_ranks": 26.0
+        },
+        "Chicago NS": {
+            "debater_1": {
+                "name": "Margaret Nakiganda",
+                "status": "novice"
+            },
+            "debater_2": {
+                "name": "Nikola Simon",
+                "status": "novice"
+            },
+            "rounds": {
+                "1": {
+                    "side": "gov",
+                    "result": "l",
+                    "opponent": "existentially unretained",
+                    "judge": [
+                        "Annette Kim"
+                    ],
+                    "speaks_1": 28.0,
+                    "ranks_1": 3.0,
+                    "speaks_2": 26.0,
+                    "ranks_2": 4.0,
+                    "speaks_total": 54.0,
+                    "ranks_total": 7.0
+                },
+                "2": {
+                    "side": "gov",
+                    "result": "w",
+                    "opponent": "Butter Bloc",
+                    "judge": [
+                        "Jake Bohman"
+                    ],
+                    "speaks_1": 28.0,
+                    "ranks_1": 2.0,
+                    "speaks_2": 29.0,
+                    "ranks_2": 1.0,
+                    "speaks_total": 57.0,
+                    "ranks_total": 3.0
+                },
+                "3": {
+                    "side": "opp",
+                    "result": "l",
+                    "opponent": "Is it too late to soft launch?",
+                    "judge": [
+                        "Eric Trinh"
+                    ],
+                    "speaks_1": 27.0,
+                    "ranks_1": 3.0,
+                    "speaks_2": 27.0,
+                    "ranks_2": 4.0,
+                    "speaks_total": 54.0,
+                    "ranks_total": 7.0
+                },
+                "4": {
+                    "side": "opp",
+                    "result": "l",
+                    "opponent": "alyssa edwards tongue pop",
+                    "judge": [
+                        "Ethan Quinn"
+                    ],
+                    "speaks_1": 27.0,
+                    "ranks_1": 3.0,
+                    "speaks_2": 27.0,
+                    "ranks_2": 4.0,
+                    "speaks_total": 54.0,
+                    "ranks_total": 7.0
+                },
+                "5": {
+                    "side": "gov",
+                    "result": "l",
+                    "opponent": "Garvey & Hussain",
+                    "judge": [
+                        "Victoria Ajayi"
+                    ],
+                    "speaks_1": 27.0,
+                    "ranks_1": 4.0,
+                    "speaks_2": 28.0,
+                    "ranks_2": 2.0,
+                    "speaks_total": 55.0,
+                    "ranks_total": 6.0
+                }
+            },
+            "total_wins": 1,
+            "total_speaks_1": 137.0,
+            "total_ranks_1": 15.0,
+            "total_speaks_2": 137.0,
+            "total_ranks_2": 15.0,
+            "total_speaks": 274.0,
+            "total_ranks": 30.0
+        },
+        "Chicago/UVA RS": {
+            "debater_1": {
+                "name": "Joey Rubas",
+                "status": "novice"
+            },
+            "debater_2": {
+                "name": "Nish Sinha",
+                "status": "varsity"
+            },
+            "rounds": {
+                "1": {
+                    "side": "gov",
+                    "result": "w",
+                    "opponent": "Non-binary ass haircut",
+                    "judge": [
+                        "Rodda John"
+                    ],
+                    "speaks_1": 33.0,
+                    "ranks_1": 1.0,
+                    "speaks_2": 33.0,
+                    "ranks_2": 3.0,
+                    "speaks_total": 66.0,
+                    "ranks_total": 4.0
+                },
+                "2": {
+                    "side": "opp",
+                    "result": "w",
+                    "opponent": "Master and Commander",
+                    "judge": [
+                        "Kai Williams"
+                    ],
+                    "speaks_1": 31.0,
+                    "ranks_1": 1.0,
+                    "speaks_2": 31.0,
+                    "ranks_2": 2.0,
+                    "speaks_total": 62.0,
+                    "ranks_total": 3.0
+                },
+                "3": {
+                    "side": "opp",
+                    "result": "w",
+                    "opponent": "Wait, that’s not Pranav!",
+                    "judge": [
+                        "Max Neuman"
+                    ],
+                    "speaks_1": 28.0,
+                    "ranks_1": 1.0,
+                    "speaks_2": 28.0,
+                    "ranks_2": 2.0,
+                    "speaks_total": 56.0,
+                    "ranks_total": 3.0
+                },
+                "4": {
+                    "side": "gov",
+                    "result": "l",
+                    "opponent": "Southern Hit Squad",
+                    "judge": [
+                        "Jonah Paterson"
+                    ],
+                    "speaks_1": 32.0,
+                    "ranks_1": 3.0,
+                    "speaks_2": 31.0,
+                    "ranks_2": 4.0,
+                    "speaks_total": 63.0,
+                    "ranks_total": 7.0
+                },
+                "5": {
+                    "side": "gov",
+                    "result": "w",
+                    "opponent": "Georgetown Enthusiasts",
+                    "judge": [
+                        "Annette Kim"
+                    ],
+                    "speaks_1": 29.0,
+                    "ranks_1": 2.0,
+                    "speaks_2": 30.0,
+                    "ranks_2": 1.0,
+                    "speaks_total": 59.0,
+                    "ranks_total": 3.0
+                }
+            },
+            "total_wins": 4,
+            "total_speaks_1": 153.0,
+            "total_ranks_1": 8.0,
+            "total_speaks_2": 153.0,
+            "total_ranks_2": 12.0,
+            "total_speaks": 306.0,
+            "total_ranks": 20.0
+        }
+    },
+    "rounds": {
+        "1": [
+            {
+                "bye": "Dom and APDA Schedule for COTY",
+                "bracket": 0
+            },
+            {
+                "gov_team": "Georgetown Enthusiasts",
+                "gov_bracket": 0,
+                "gov_result": "w",
+                "gov_1": "Devin Bae",
+                "gov_1_speaks": 30.0,
+                "gov_1_ranks": 2.0,
+                "gov_2": "Samuel Watkins",
+                "gov_2_speaks": 31.0,
+                "gov_2_ranks": 1.0,
+                "opp_team": "cellular desperation",
+                "opp_bracket": 0,
+                "opp_result": "l",
+                "opp_1": "Elise Ko Davis",
+                "opp_1_speaks": 27.0,
+                "opp_1_ranks": 3.0,
+                "opp_2": "Sriya Uttharkar",
+                "opp_2_speaks": 25.0,
+                "opp_2_ranks": 4.0,
+                "judge": "Leon Gold"
+            },
+            {
+                "gov_team": "Chicago KS",
+                "gov_bracket": 0,
+                "gov_result": "w",
+                "gov_1": "Aman Sharma",
+                "gov_1_speaks": 29.0,
+                "gov_1_ranks": 3.0,
+                "gov_2": "Daniel Katari",
+                "gov_2_speaks": 29.0,
+                "gov_2_ranks": 1.0,
+                "opp_team": "Is it too late to soft launch?",
+                "opp_bracket": 0,
+                "opp_result": "l",
+                "opp_1": "Jackson Neme",
+                "opp_1_speaks": 29.0,
+                "opp_1_ranks": 4.0,
+                "opp_2": "Lindsey Gradowski",
+                "opp_2_speaks": 29.0,
+                "opp_2_ranks": 2.0,
+                "judge": "Susan McHarris"
+            },
+            {
+                "gov_team": "Due Waivers for Punts",
+                "gov_bracket": 0,
+                "gov_result": "l",
+                "gov_1": "Aidan Gillies",
+                "gov_1_speaks": 31.0,
+                "gov_1_ranks": 1.0,
+                "gov_2": "Maddie Naisbitt",
+                "gov_2_speaks": 28.0,
+                "gov_2_ranks": 4.0,
+                "opp_team": "Wait, that’s not Pranav!",
+                "opp_bracket": 0,
+                "opp_result": "w",
+                "opp_1": "Emily Chow",
+                "opp_1_speaks": 30.0,
+                "opp_1_ranks": 2.0,
+                "opp_2": "Justin Wu",
+                "opp_2_speaks": 29.0,
+                "opp_2_ranks": 3.0,
+                "judge": "Mia Rojas"
+            },
+            {
+                "gov_team": "Tight Call Specialists",
+                "gov_bracket": 0,
+                "gov_result": "l",
+                "gov_1": "Gordon McNeill",
+                "gov_1_speaks": 29.0,
+                "gov_1_ranks": 2.0,
+                "gov_2": "Omesh Dhar Dwivedi",
+                "gov_2_speaks": 28.0,
+                "gov_2_ranks": 4.0,
+                "opp_team": "Ranuary Rixth Rommittee",
+                "opp_bracket": 0,
+                "opp_result": "w",
+                "opp_1": "Ben Koch",
+                "opp_1_speaks": 29.0,
+                "opp_1_ranks": 3.0,
+                "opp_2": "Ethan Ross",
+                "opp_2_speaks": 32.0,
+                "opp_2_ranks": 1.0,
+                "judge": "Parker Snipes"
+            },
+            {
+                "gov_team": "Temple 2",
+                "gov_bracket": 0,
+                "gov_result": "l",
+                "gov_1": "Nolan Greenways",
+                "gov_1_speaks": 27.0,
+                "gov_1_ranks": 4.0,
+                "gov_2": "Tyler Hugo",
+                "gov_2_speaks": 28.0,
+                "gov_2_ranks": 3.0,
+                "opp_team": "Southern Hit Squad",
+                "opp_bracket": 0,
+                "opp_result": "w",
+                "opp_1": "Muzzi Godil",
+                "opp_1_speaks": 29.0,
+                "opp_1_ranks": 2.0,
+                "opp_2": "Patrick Han",
+                "opp_2_speaks": 31.0,
+                "opp_2_ranks": 1.0,
+                "judge": "Megan Wu"
+            },
+            {
+                "gov_team": "put a helmet on that soldier",
+                "gov_bracket": 0,
+                "gov_result": "w",
+                "gov_1": "Sarah Miller",
+                "gov_1_speaks": 31.0,
+                "gov_1_ranks": 1.0,
+                "gov_2": "Zaid Hintzman",
+                "gov_2_speaks": 30.0,
+                "gov_2_ranks": 2.0,
+                "opp_team": "Chicago CJ",
+                "opp_bracket": 0,
+                "opp_result": "l",
+                "opp_1": "Kobi Johnsson",
+                "opp_1_speaks": 29.0,
+                "opp_1_ranks": 4.0,
+                "opp_2": "Sydney Cook",
+                "opp_2_speaks": 29.0,
+                "opp_2_ranks": 3.0,
+                "judge": "Rose West"
+            },
+            {
+                "gov_team": "Chicago NS",
+                "gov_bracket": 0,
+                "gov_result": "l",
+                "gov_1": "Margaret Nakiganda",
+                "gov_1_speaks": 28.0,
+                "gov_1_ranks": 3.0,
+                "gov_2": "Nikola Simon",
+                "gov_2_speaks": 26.0,
+                "gov_2_ranks": 4.0,
+                "opp_team": "existentially unretained",
+                "opp_bracket": 0,
+                "opp_result": "w",
+                "opp_1": "Anna Pinkerton",
+                "opp_1_speaks": 31.0,
+                "opp_1_ranks": 2.0,
+                "opp_2": "Vivienne Monteiro",
+                "opp_2_speaks": 32.0,
+                "opp_2_ranks": 1.0,
+                "judge": "Annette Kim"
+            },
+            {
+                "gov_team": "GWUVA Fishing Trip",
+                "gov_bracket": 0,
+                "gov_result": "w",
+                "gov_1": "Alex Hanna",
+                "gov_1_speaks": 30.0,
+                "gov_1_ranks": 1.0,
+                "gov_2": "Ryan Tiedemann",
+                "gov_2_speaks": 29.0,
+                "gov_2_ranks": 2.0,
+                "opp_team": "Rutgerford",
+                "opp_bracket": 0,
+                "opp_result": "l",
+                "opp_1": "Jocelyn Gao",
+                "opp_1_speaks": 27.0,
+                "opp_1_ranks": 4.0,
+                "opp_2": "Robert Fu",
+                "opp_2_speaks": 27.0,
+                "opp_2_ranks": 3.0,
+                "judge": "Eric Trinh"
+            },
+            {
+                "gov_team": "Chicago JL",
+                "gov_bracket": 0,
+                "gov_result": "w",
+                "gov_1": "Adam Jensen",
+                "gov_1_speaks": 29.0,
+                "gov_1_ranks": 2.0,
+                "gov_2": "Noam Levinsky",
+                "gov_2_speaks": 31.0,
+                "gov_2_ranks": 1.0,
+                "opp_team": "alyssa edwards tongue pop",
+                "opp_bracket": 0,
+                "opp_result": "l",
+                "opp_1": "Brandon Burton",
+                "opp_1_speaks": 26.0,
+                "opp_1_ranks": 4.0,
+                "opp_2": "Lizzie Waters",
+                "opp_2_speaks": 27.0,
+                "opp_2_ranks": 3.0,
+                "judge": "Jake Bohman"
+            },
+            {
+                "gov_team": "Chicago/UVA RS",
+                "gov_bracket": 0,
+                "gov_result": "w",
+                "gov_1": "Joey Rubas",
+                "gov_1_speaks": 33.0,
+                "gov_1_ranks": 1.0,
+                "gov_2": "Nish Sinha",
+                "gov_2_speaks": 33.0,
+                "gov_2_ranks": 3.0,
+                "opp_team": "Non-binary ass haircut",
+                "opp_bracket": 0,
+                "opp_result": "l",
+                "opp_1": "Maggie Mooney",
+                "opp_1_speaks": 33.0,
+                "opp_1_ranks": 2.0,
+                "opp_2": "Maiya Little",
+                "opp_2_speaks": 32.0,
+                "opp_2_ranks": 4.0,
+                "judge": "Rodda John"
+            },
+            {
+                "gov_team": "Mercedes and Mercedes Esq.",
+                "gov_bracket": 0,
+                "gov_result": "l",
+                "gov_1": "Laura Mercedes",
+                "gov_1_speaks": 27.0,
+                "gov_1_ranks": 4.0,
+                "gov_2": "Ruth Mercedes",
+                "gov_2_speaks": 28.0,
+                "gov_2_ranks": 3.0,
+                "opp_team": "friends with axe",
+                "opp_bracket": 0,
+                "opp_result": "w",
+                "opp_1": "Aidan Shannon",
+                "opp_1_speaks": 29.0,
+                "opp_1_ranks": 2.0,
+                "opp_2": "Laura Giugno",
+                "opp_2_speaks": 31.0,
+                "opp_2_ranks": 1.0,
+                "judge": "Victoria Ajayi"
+            },
+            {
+                "gov_team": "Master and Commander",
+                "gov_bracket": 0,
+                "gov_result": "w",
+                "gov_1": "Ben Fligelman",
+                "gov_1_speaks": 21.0,
+                "gov_1_ranks": 1.0,
+                "gov_2": "Nathan Schechter",
+                "gov_2_speaks": 20.0,
+                "gov_2_ranks": 2.0,
+                "opp_team": "Garvey & Hussain",
+                "opp_bracket": 0,
+                "opp_result": "l",
+                "opp_1": "Cece Garvey",
+                "opp_1_speaks": 17.0,
+                "opp_1_ranks": 4.0,
+                "opp_2": "Hana Hussain",
+                "opp_2_speaks": 17.0,
+                "opp_2_ranks": 3.0,
+                "judge": "Eliza Morgan"
+            },
+            {
+                "gov_team": "Khan & Buribayeva",
+                "gov_bracket": 0,
+                "gov_result": "l",
+                "gov_1": "Malika Buribayeva",
+                "gov_1_speaks": 24.0,
+                "gov_1_ranks": 2.0,
+                "gov_2": "Raaid Khan",
+                "gov_2_speaks": 22.0,
+                "gov_2_ranks": 4.0,
+                "opp_team": "opp choi-ce",
+                "opp_bracket": 0,
+                "opp_result": "w",
+                "opp_1": "Nathaniel Yoon",
+                "opp_1_speaks": 31.0,
+                "opp_1_ranks": 1.0,
+                "opp_2": "Seth Choi",
+                "opp_2_speaks": 23.0,
+                "opp_2_ranks": 3.0,
+                "judge": "Kai Williams"
+            },
+            {
+                "gov_team": "Tia Tamera",
+                "gov_bracket": 0,
+                "gov_result": "w",
+                "gov_1": "Paola Apolinario",
+                "gov_1_speaks": 31.0,
+                "gov_1_ranks": 2.0,
+                "gov_2": "Rayan Sheikh",
+                "gov_2_speaks": 32.0,
+                "gov_2_ranks": 1.0,
+                "opp_team": "8:30 minutes no zaza",
+                "opp_bracket": 0,
+                "opp_result": "l",
+                "opp_1": "Ishaan Goel",
+                "opp_1_speaks": 30.0,
+                "opp_1_ranks": 3.0,
+                "opp_2": "Michael Moran",
+                "opp_2_speaks": 30.0,
+                "opp_2_ranks": 4.0,
+                "judge": "Ethan Quinn"
+            },
+            {
+                "gov_team": "Butter Bloc",
+                "gov_bracket": 0,
+                "gov_result": "l",
+                "gov_1": "Alexander West",
+                "gov_1_speaks": 29.0,
+                "gov_1_ranks": 4.0,
+                "gov_2": "James Currie",
+                "gov_2_speaks": 29.0,
+                "gov_2_ranks": 3.0,
+                "opp_team": "Chicago WZ",
+                "opp_bracket": 0,
+                "opp_result": "w",
+                "opp_1": "David Wang",
+                "opp_1_speaks": 30.0,
+                "opp_1_ranks": 2.0,
+                "opp_2": "Zoe Zhu",
+                "opp_2_speaks": 32.0,
+                "opp_2_ranks": 1.0,
+                "judge": "Jonah Paterson"
+            }
+        ],
+        "2": [
+            {
+                "bye": "Garvey & Hussain",
+                "bracket": 0
+            },
+            {
+                "gov_team": "Georgetown Enthusiasts",
+                "gov_bracket": 1,
+                "gov_result": "l",
+                "gov_1": "Devin Bae",
+                "gov_1_speaks": 30.0,
+                "gov_1_ranks": 3.0,
+                "gov_2": "Samuel Watkins",
+                "gov_2_speaks": 30.0,
+                "gov_2_ranks": 4.0,
+                "opp_team": "GWUVA Fishing Trip",
+                "opp_bracket": 1,
+                "opp_result": "w",
+                "opp_1": "Alex Hanna",
+                "opp_1_speaks": 34.0,
+                "opp_1_ranks": 1.0,
+                "opp_2": "Ryan Tiedemann",
+                "opp_2_speaks": 34.0,
+                "opp_2_ranks": 2.0,
+                "judge": "Victoria Ajayi"
+            },
+            {
+                "gov_team": "friends with axe",
+                "gov_bracket": 1,
+                "gov_result": "l",
+                "gov_1": "Aidan Shannon",
+                "gov_1_speaks": 29.0,
+                "gov_1_ranks": 4.0,
+                "gov_2": "Laura Giugno",
+                "gov_2_speaks": 29.0,
+                "gov_2_ranks": 2.0,
+                "opp_team": "Dom and APDA Schedule for COTY",
+                "opp_bracket": 1,
+                "opp_result": "w",
+                "opp_1": "Dominic DeRamo",
+                "opp_1_speaks": 29.0,
+                "opp_1_ranks": 3.0,
+                "opp_2": "Sebastian Cardena",
+                "opp_2_speaks": 30.0,
+                "opp_2_ranks": 1.0,
+                "judge": "Rose West"
+            },
+            {
+                "gov_team": "Is it too late to soft launch?",
+                "gov_bracket": 0,
+                "gov_result": "w",
+                "gov_1": "Jackson Neme",
+                "gov_1_speaks": 33.0,
+                "gov_1_ranks": 1.0,
+                "gov_2": "Lindsey Gradowski",
+                "gov_2_speaks": 32.0,
+                "gov_2_ranks": 2.0,
+                "opp_team": "Rutgerford",
+                "opp_bracket": 0,
+                "opp_result": "l",
+                "opp_1": "Jocelyn Gao",
+                "opp_1_speaks": 32.0,
+                "opp_1_ranks": 3.0,
+                "opp_2": "Robert Fu",
+                "opp_2_speaks": 29.0,
+                "opp_2_ranks": 4.0,
+                "judge": "Leon Gold"
+            },
+            {
+                "gov_team": "alyssa edwards tongue pop",
+                "gov_bracket": 0,
+                "gov_result": "l",
+                "gov_1": "Brandon Burton",
+                "gov_1_speaks": 27.0,
+                "gov_1_ranks": 3.0,
+                "gov_2": "Lizzie Waters",
+                "gov_2_speaks": 27.0,
+                "gov_2_ranks": 4.0,
+                "opp_team": "Due Waivers for Punts",
+                "opp_bracket": 0,
+                "opp_result": "w",
+                "opp_1": "Aidan Gillies",
+                "opp_1_speaks": 29.0,
+                "opp_1_ranks": 2.0,
+                "opp_2": "Maddie Naisbitt",
+                "opp_2_speaks": 29.0,
+                "opp_2_ranks": 1.0,
+                "judge": "Jay Leeds"
+            },
+            {
+                "gov_team": "Tight Call Specialists",
+                "gov_bracket": 0,
+                "gov_result": "w",
+                "gov_1": "Gordon McNeill",
+                "gov_1_speaks": 32.0,
+                "gov_1_ranks": 2.0,
+                "gov_2": "Omesh Dhar Dwivedi",
+                "gov_2_speaks": 32.0,
+                "gov_2_ranks": 1.0,
+                "opp_team": "Temple 2",
+                "opp_bracket": 0,
+                "opp_result": "l",
+                "opp_1": "Nolan Greenways",
+                "opp_1_speaks": 21.0,
+                "opp_1_ranks": 3.0,
+                "opp_2": "Tyler Hugo",
+                "opp_2_speaks": 20.0,
+                "opp_2_ranks": 4.0,
+                "judge": "Mia Rojas"
+            },
+            {
+                "gov_team": "Southern Hit Squad",
+                "gov_bracket": 1,
+                "gov_result": "w",
+                "gov_1": "Muzzi Godil",
+                "gov_1_speaks": 31.0,
+                "gov_1_ranks": 1.0,
+                "gov_2": "Patrick Han",
+                "gov_2_speaks": 30.0,
+                "gov_2_ranks": 4.0,
+                "opp_team": "Ranuary Rixth Rommittee",
+                "opp_bracket": 1,
+                "opp_result": "l",
+                "opp_1": "Ben Koch",
+                "opp_1_speaks": 30.0,
+                "opp_1_ranks": 3.0,
+                "opp_2": "Ethan Ross",
+                "opp_2_speaks": 31.0,
+                "opp_2_ranks": 2.0,
+                "judge": "Eric Trinh, Khylan Stubblefield"
+            },
+            {
+                "gov_team": "Chicago JL",
+                "gov_bracket": 1,
+                "gov_result": "l",
+                "gov_1": "Adam Jensen",
+                "gov_1_speaks": 32.0,
+                "gov_1_ranks": 3.0,
+                "gov_2": "Noam Levinsky",
+                "gov_2_speaks": 32.0,
+                "gov_2_ranks": 4.0,
+                "opp_team": "put a helmet on that soldier",
+                "opp_bracket": 1,
+                "opp_result": "w",
+                "opp_1": "Sarah Miller",
+                "opp_1_speaks": 33.0,
+                "opp_1_ranks": 2.0,
+                "opp_2": "Zaid Hintzman",
+                "opp_2_speaks": 35.0,
+                "opp_2_ranks": 1.0,
+                "judge": "Jonah Paterson"
+            },
+            {
+                "gov_team": "existentially unretained",
+                "gov_bracket": 1,
+                "gov_result": "w",
+                "gov_1": "Anna Pinkerton",
+                "gov_1_speaks": 28.0,
+                "gov_1_ranks": 2.0,
+                "gov_2": "Vivienne Monteiro",
+                "gov_2_speaks": 33.0,
+                "gov_2_ranks": 1.0,
+                "opp_team": "Chicago KS",
+                "opp_bracket": 1,
+                "opp_result": "l",
+                "opp_1": "Aman Sharma",
+                "opp_1_speaks": 25.0,
+                "opp_1_ranks": 3.0,
+                "opp_2": "Daniel Katari",
+                "opp_2_speaks": 24.0,
+                "opp_2_ranks": 4.0,
+                "judge": "Max Neuman"
+            },
+            {
+                "gov_team": "Non-binary ass haircut",
+                "gov_bracket": 0,
+                "gov_result": "w",
+                "gov_1": "Maggie Mooney",
+                "gov_1_speaks": 28.0,
+                "gov_1_ranks": 1.0,
+                "gov_2": "Maiya Little",
+                "gov_2_speaks": 28.0,
+                "gov_2_ranks": 2.0,
+                "opp_team": "Khan & Buribayeva",
+                "opp_bracket": 0,
+                "opp_result": "l",
+                "opp_1": "Malika Buribayeva",
+                "opp_1_speaks": 26.0,
+                "opp_1_ranks": 4.0,
+                "opp_2": "Raaid Khan",
+                "opp_2_speaks": 26.0,
+                "opp_2_ranks": 3.0,
+                "judge": "Adithi Attada"
+            },
+            {
+                "gov_team": "Chicago CJ",
+                "gov_bracket": 0,
+                "gov_result": "w",
+                "gov_1": "Kobi Johnsson",
+                "gov_1_speaks": 30.0,
+                "gov_1_ranks": 1.0,
+                "gov_2": "Sydney Cook",
+                "gov_2_speaks": 29.0,
+                "gov_2_ranks": 2.0,
+                "opp_team": "Mercedes and Mercedes Esq.",
+                "opp_bracket": 0,
+                "opp_result": "l",
+                "opp_1": "Laura Mercedes",
+                "opp_1_speaks": 28.0,
+                "opp_1_ranks": 4.0,
+                "opp_2": "Ruth Mercedes",
+                "opp_2_speaks": 28.0,
+                "opp_2_ranks": 3.0,
+                "judge": "Ethan Quinn"
+            },
+            {
+                "gov_team": "Master and Commander",
+                "gov_bracket": 1,
+                "gov_result": "l",
+                "gov_1": "Ben Fligelman",
+                "gov_1_speaks": 31.0,
+                "gov_1_ranks": 3.0,
+                "gov_2": "Nathan Schechter",
+                "gov_2_speaks": 31.0,
+                "gov_2_ranks": 4.0,
+                "opp_team": "Chicago/UVA RS",
+                "opp_bracket": 1,
+                "opp_result": "w",
+                "opp_1": "Joey Rubas",
+                "opp_1_speaks": 31.0,
+                "opp_1_ranks": 1.0,
+                "opp_2": "Nish Sinha",
+                "opp_2_speaks": 31.0,
+                "opp_2_ranks": 2.0,
+                "judge": "Kai Williams"
+            },
+            {
+                "gov_team": "opp choi-ce",
+                "gov_bracket": 1,
+                "gov_result": "w",
+                "gov_1": "Nathaniel Yoon",
+                "gov_1_speaks": 33.0,
+                "gov_1_ranks": 1.0,
+                "gov_2": "Seth Choi",
+                "gov_2_speaks": 29.0,
+                "gov_2_ranks": 2.0,
+                "opp_team": "Tia Tamera",
+                "opp_bracket": 1,
+                "opp_result": "l",
+                "opp_1": "Paola Apolinario",
+                "opp_1_speaks": 29.0,
+                "opp_1_ranks": 3.0,
+                "opp_2": "Rayan Sheikh",
+                "opp_2_speaks": 29.0,
+                "opp_2_ranks": 4.0,
+                "judge": "Megan Wu"
+            },
+            {
+                "gov_team": "8:30 minutes no zaza",
+                "gov_bracket": 0,
+                "gov_result": "w",
+                "gov_1": "Ishaan Goel",
+                "gov_1_speaks": 33.0,
+                "gov_1_ranks": 1.0,
+                "gov_2": "Michael Moran",
+                "gov_2_speaks": 33.0,
+                "gov_2_ranks": 2.0,
+                "opp_team": "cellular desperation",
+                "opp_bracket": 0,
+                "opp_result": "l",
+                "opp_1": "Elise Ko Davis",
+                "opp_1_speaks": 23.0,
+                "opp_1_ranks": 4.0,
+                "opp_2": "Sriya Uttharkar",
+                "opp_2_speaks": 25.0,
+                "opp_2_ranks": 3.0,
+                "judge": "Eliza Morgan"
+            },
+            {
+                "gov_team": "Wait, that’s not Pranav!",
+                "gov_bracket": 1,
+                "gov_result": "w",
+                "gov_1": "Emily Chow",
+                "gov_1_speaks": 30.0,
+                "gov_1_ranks": 1.0,
+                "gov_2": "Justin Wu",
+                "gov_2_speaks": 29.0,
+                "gov_2_ranks": 2.0,
+                "opp_team": "Chicago WZ",
+                "opp_bracket": 1,
+                "opp_result": "l",
+                "opp_1": "David Wang",
+                "opp_1_speaks": 28.0,
+                "opp_1_ranks": 3.0,
+                "opp_2": "Zoe Zhu",
+                "opp_2_speaks": 28.0,
+                "opp_2_ranks": 4.0,
+                "judge": "Parker Snipes"
+            },
+            {
+                "gov_team": "Chicago NS",
+                "gov_bracket": 0,
+                "gov_result": "w",
+                "gov_1": "Margaret Nakiganda",
+                "gov_1_speaks": 28.0,
+                "gov_1_ranks": 2.0,
+                "gov_2": "Nikola Simon",
+                "gov_2_speaks": 29.0,
+                "gov_2_ranks": 1.0,
+                "opp_team": "Butter Bloc",
+                "opp_bracket": 0,
+                "opp_result": "l",
+                "opp_1": "Alexander West",
+                "opp_1_speaks": 25.0,
+                "opp_1_ranks": 4.0,
+                "opp_2": "James Currie",
+                "opp_2_speaks": 25.0,
+                "opp_2_ranks": 3.0,
+                "judge": "Jake Bohman"
+            }
+        ],
+        "3": [
+            {
+                "bye": "Temple 2",
+                "bracket": 0
+            },
+            {
+                "gov_team": "friends with axe",
+                "gov_bracket": 1,
+                "gov_result": "l",
+                "gov_1": "Aidan Shannon",
+                "gov_1_speaks": 33.0,
+                "gov_1_ranks": 4.0,
+                "gov_2": "Laura Giugno",
+                "gov_2_speaks": 33.0,
+                "gov_2_ranks": 3.0,
+                "opp_team": "Georgetown Enthusiasts",
+                "opp_bracket": 1,
+                "opp_result": "w",
+                "opp_1": "Devin Bae",
+                "opp_1_speaks": 34.0,
+                "opp_1_ranks": 2.0,
+                "opp_2": "Samuel Watkins",
+                "opp_2_speaks": 34.0,
+                "opp_2_ranks": 1.0,
+                "judge": "Eliza Morgan"
+            },
+            {
+                "gov_team": "Dom and APDA Schedule for COTY",
+                "gov_bracket": 2,
+                "gov_result": "l",
+                "gov_1": "Dominic DeRamo",
+                "gov_1_speaks": 34.0,
+                "gov_1_ranks": 4.0,
+                "gov_2": "Sebastian Cardena",
+                "gov_2_speaks": 34.0,
+                "gov_2_ranks": 3.0,
+                "opp_team": "GWUVA Fishing Trip",
+                "opp_bracket": 2,
+                "opp_result": "w",
+                "opp_1": "Alex Hanna",
+                "opp_1_speaks": 34.0,
+                "opp_1_ranks": 2.0,
+                "opp_2": "Ryan Tiedemann",
+                "opp_2_speaks": 35.0,
+                "opp_2_ranks": 1.0,
+                "judge": "Megan Wu"
+            },
+            {
+                "gov_team": "Is it too late to soft launch?",
+                "gov_bracket": 1,
+                "gov_result": "w",
+                "gov_1": "Jackson Neme",
+                "gov_1_speaks": 30.0,
+                "gov_1_ranks": 2.0,
+                "gov_2": "Lindsey Gradowski",
+                "gov_2_speaks": 30.0,
+                "gov_2_ranks": 1.0,
+                "opp_team": "Chicago NS",
+                "opp_bracket": 1,
+                "opp_result": "l",
+                "opp_1": "Margaret Nakiganda",
+                "opp_1_speaks": 27.0,
+                "opp_1_ranks": 3.0,
+                "opp_2": "Nikola Simon",
+                "opp_2_speaks": 27.0,
+                "opp_2_ranks": 4.0,
+                "judge": "Eric Trinh"
+            },
+            {
+                "gov_team": "Ranuary Rixth Rommittee",
+                "gov_bracket": 1,
+                "gov_result": "w",
+                "gov_1": "Ben Koch",
+                "gov_1_speaks": 31.0,
+                "gov_1_ranks": 1.0,
+                "gov_2": "Ethan Ross",
+                "gov_2_speaks": 31.0,
+                "gov_2_ranks": 2.0,
+                "opp_team": "Due Waivers for Punts",
+                "opp_bracket": 1,
+                "opp_result": "l",
+                "opp_1": "Aidan Gillies",
+                "opp_1_speaks": 30.0,
+                "opp_1_ranks": 3.0,
+                "opp_2": "Maddie Naisbitt",
+                "opp_2_speaks": 29.0,
+                "opp_2_ranks": 4.0,
+                "judge": "Victoria Ajayi"
+            },
+            {
+                "gov_team": "Chicago KS",
+                "gov_bracket": 1,
+                "gov_result": "w",
+                "gov_1": "Aman Sharma",
+                "gov_1_speaks": 26.0,
+                "gov_1_ranks": 2.0,
+                "gov_2": "Daniel Katari",
+                "gov_2_speaks": 27.0,
+                "gov_2_ranks": 1.0,
+                "opp_team": "Tight Call Specialists",
+                "opp_bracket": 1,
+                "opp_result": "l",
+                "opp_1": "Gordon McNeill",
+                "opp_1_speaks": 25.0,
+                "opp_1_ranks": 4.0,
+                "opp_2": "Omesh Dhar Dwivedi",
+                "opp_2_speaks": 26.0,
+                "opp_2_ranks": 3.0,
+                "judge": "Adithi Attada"
+            },
+            {
+                "gov_team": "existentially unretained",
+                "gov_bracket": 2,
+                "gov_result": "l",
+                "gov_1": "Anna Pinkerton",
+                "gov_1_speaks": 31.0,
+                "gov_1_ranks": 4.0,
+                "gov_2": "Vivienne Monteiro",
+                "gov_2_speaks": 33.0,
+                "gov_2_ranks": 2.0,
+                "opp_team": "Southern Hit Squad",
+                "opp_bracket": 2,
+                "opp_result": "w",
+                "opp_1": "Muzzi Godil",
+                "opp_1_speaks": 34.0,
+                "opp_1_ranks": 1.0,
+                "opp_2": "Patrick Han",
+                "opp_2_speaks": 32.0,
+                "opp_2_ranks": 3.0,
+                "judge": "Leon Gold"
+            },
+            {
+                "gov_team": "opp choi-ce",
+                "gov_bracket": 2,
+                "gov_result": "w",
+                "gov_1": "Nathaniel Yoon",
+                "gov_1_speaks": 33.0,
+                "gov_1_ranks": 1.0,
+                "gov_2": "Seth Choi",
+                "gov_2_speaks": 29.0,
+                "gov_2_ranks": 2.0,
+                "opp_team": "put a helmet on that soldier",
+                "opp_bracket": 2,
+                "opp_result": "l",
+                "opp_1": "Sarah Miller",
+                "opp_1_speaks": 28.0,
+                "opp_1_ranks": 3.0,
+                "opp_2": "Zaid Hintzman",
+                "opp_2_speaks": 28.0,
+                "opp_2_ranks": 4.0,
+                "judge": "Parker Snipes"
+            },
+            {
+                "gov_team": "alyssa edwards tongue pop",
+                "gov_bracket": 0,
+                "gov_result": "w",
+                "gov_1": "Brandon Burton",
+                "gov_1_speaks": 30.0,
+                "gov_1_ranks": 1.0,
+                "gov_2": "Lizzie Waters",
+                "gov_2_speaks": 29.0,
+                "gov_2_ranks": 3.0,
+                "opp_team": "Butter Bloc",
+                "opp_bracket": 0,
+                "opp_result": "l",
+                "opp_1": "Alexander West",
+                "opp_1_speaks": 28.0,
+                "opp_1_ranks": 4.0,
+                "opp_2": "James Currie",
+                "opp_2_speaks": 29.0,
+                "opp_2_ranks": 2.0,
+                "judge": "Mia Rojas"
+            },
+            {
+                "gov_team": "Non-binary ass haircut",
+                "gov_bracket": 1,
+                "gov_result": "w",
+                "gov_1": "Maggie Mooney",
+                "gov_1_speaks": 31.0,
+                "gov_1_ranks": 1.0,
+                "gov_2": "Maiya Little",
+                "gov_2_speaks": 30.0,
+                "gov_2_ranks": 2.0,
+                "opp_team": "Chicago CJ",
+                "opp_bracket": 1,
+                "opp_result": "l",
+                "opp_1": "Kobi Johnsson",
+                "opp_1_speaks": 29.0,
+                "opp_1_ranks": 3.0,
+                "opp_2": "Sydney Cook",
+                "opp_2_speaks": 28.0,
+                "opp_2_ranks": 4.0,
+                "judge": "Jake Bohman"
+            },
+            {
+                "gov_team": "cellular desperation",
+                "gov_bracket": 0,
+                "gov_result": "l",
+                "gov_1": "Elise Ko Davis",
+                "gov_1_speaks": 26.0,
+                "gov_1_ranks": 3.0,
+                "gov_2": "Sriya Uttharkar",
+                "gov_2_speaks": 25.0,
+                "gov_2_ranks": 4.0,
+                "opp_team": "Mercedes and Mercedes Esq.",
+                "opp_bracket": 0,
+                "opp_result": "w",
+                "opp_1": "Laura Mercedes",
+                "opp_1_speaks": 27.0,
+                "opp_1_ranks": 2.0,
+                "opp_2": "Ruth Mercedes",
+                "opp_2_speaks": 27.0,
+                "opp_2_ranks": 1.0,
+                "judge": "Khylan Stubblefield"
+            },
+            {
+                "gov_team": "Chicago JL",
+                "gov_bracket": 1,
+                "gov_result": "w",
+                "gov_1": "Adam Jensen",
+                "gov_1_speaks": 27.0,
+                "gov_1_ranks": 2.0,
+                "gov_2": "Noam Levinsky",
+                "gov_2_speaks": 30.0,
+                "gov_2_ranks": 1.0,
+                "opp_team": "Master and Commander",
+                "opp_bracket": 1,
+                "opp_result": "l",
+                "opp_1": "Ben Fligelman",
+                "opp_1_speaks": 24.0,
+                "opp_1_ranks": 4.0,
+                "opp_2": "Nathan Schechter",
+                "opp_2_speaks": 25.0,
+                "opp_2_ranks": 3.0,
+                "judge": "Jay Leeds"
+            },
+            {
+                "gov_team": "Rutgerford",
+                "gov_bracket": 0,
+                "gov_result": "w",
+                "gov_1": "Jocelyn Gao",
+                "gov_1_speaks": 22.0,
+                "gov_1_ranks": 3.0,
+                "gov_2": "Robert Fu",
+                "gov_2_speaks": 25.0,
+                "gov_2_ranks": 1.0,
+                "opp_team": "Khan & Buribayeva",
+                "opp_bracket": 0,
+                "opp_result": "l",
+                "opp_1": "Malika Buribayeva",
+                "opp_1_speaks": 22.0,
+                "opp_1_ranks": 4.0,
+                "opp_2": "Raaid Khan",
+                "opp_2_speaks": 24.0,
+                "opp_2_ranks": 2.0,
+                "judge": "Ethan Quinn"
+            },
+            {
+                "gov_team": "Garvey & Hussain",
+                "gov_bracket": 1,
+                "gov_result": "l",
+                "gov_1": "Cece Garvey",
+                "gov_1_speaks": 25.0,
+                "gov_1_ranks": 4.0,
+                "gov_2": "Hana Hussain",
+                "gov_2_speaks": 25.0,
+                "gov_2_ranks": 3.0,
+                "opp_team": "8:30 minutes no zaza",
+                "opp_bracket": 1,
+                "opp_result": "w",
+                "opp_1": "Ishaan Goel",
+                "opp_1_speaks": 26.0,
+                "opp_1_ranks": 1.0,
+                "opp_2": "Michael Moran",
+                "opp_2_speaks": 26.0,
+                "opp_2_ranks": 2.0,
+                "judge": "Jonah Paterson"
+            },
+            {
+                "gov_team": "Chicago WZ",
+                "gov_bracket": 1,
+                "gov_result": "w",
+                "gov_1": "David Wang",
+                "gov_1_speaks": 32.0,
+                "gov_1_ranks": 1.0,
+                "gov_2": "Zoe Zhu",
+                "gov_2_speaks": 30.0,
+                "gov_2_ranks": 3.0,
+                "opp_team": "Tia Tamera",
+                "opp_bracket": 1,
+                "opp_result": "l",
+                "opp_1": "Paola Apolinario",
+                "opp_1_speaks": 30.0,
+                "opp_1_ranks": 4.0,
+                "opp_2": "Rayan Sheikh",
+                "opp_2_speaks": 31.0,
+                "opp_2_ranks": 2.0,
+                "judge": "Rose West"
+            },
+            {
+                "gov_team": "Wait, that’s not Pranav!",
+                "gov_bracket": 2,
+                "gov_result": "l",
+                "gov_1": "Emily Chow",
+                "gov_1_speaks": 27.0,
+                "gov_1_ranks": 4.0,
+                "gov_2": "Justin Wu",
+                "gov_2_speaks": 27.0,
+                "gov_2_ranks": 3.0,
+                "opp_team": "Chicago/UVA RS",
+                "opp_bracket": 2,
+                "opp_result": "w",
+                "opp_1": "Joey Rubas",
+                "opp_1_speaks": 28.0,
+                "opp_1_ranks": 1.0,
+                "opp_2": "Nish Sinha",
+                "opp_2_speaks": 28.0,
+                "opp_2_ranks": 2.0,
+                "judge": "Max Neuman"
+            }
+        ],
+        "4": [
+            {
+                "gov_team": "Georgetown Enthusiasts",
+                "gov_bracket": 2,
+                "gov_result": "w",
+                "gov_1": "Devin Bae",
+                "gov_1_speaks": 28.0,
+                "gov_1_ranks": 3.0,
+                "gov_2": "Samuel Watkins",
+                "gov_2_speaks": 29.0,
+                "gov_2_ranks": 1.0,
+                "opp_team": "Wait, that’s not Pranav!",
+                "opp_bracket": 2,
+                "opp_result": "l",
+                "opp_1": "Emily Chow",
+                "opp_1_speaks": 27.0,
+                "opp_1_ranks": 4.0,
+                "opp_2": "Justin Wu",
+                "opp_2_speaks": 29.0,
+                "opp_2_ranks": 2.0,
+                "judge": "Sarah Wheaton"
+            },
+            {
+                "gov_team": "Dom and APDA Schedule for COTY",
+                "gov_bracket": 2,
+                "gov_result": "w",
+                "gov_1": "Dominic DeRamo",
+                "gov_1_speaks": 33.0,
+                "gov_1_ranks": 1.0,
+                "gov_2": "Sebastian Cardena",
+                "gov_2_speaks": 31.0,
+                "gov_2_ranks": 3.0,
+                "opp_team": "Chicago KS",
+                "opp_bracket": 2,
+                "opp_result": "l",
+                "opp_1": "Aman Sharma",
+                "opp_1_speaks": 30.0,
+                "opp_1_ranks": 4.0,
+                "opp_2": "Daniel Katari",
+                "opp_2_speaks": 32.0,
+                "opp_2_ranks": 2.0,
+                "judge": "Annette Kim"
+            },
+            {
+                "gov_team": "Is it too late to soft launch?",
+                "gov_bracket": 2,
+                "gov_result": "w",
+                "gov_1": "Jackson Neme",
+                "gov_1_speaks": 31.0,
+                "gov_1_ranks": 2.0,
+                "gov_2": "Lindsey Gradowski",
+                "gov_2_speaks": 33.0,
+                "gov_2_ranks": 1.0,
+                "opp_team": "Chicago JL",
+                "opp_bracket": 2,
+                "opp_result": "l",
+                "opp_1": "Adam Jensen",
+                "opp_1_speaks": 30.0,
+                "opp_1_ranks": 4.0,
+                "opp_2": "Noam Levinsky",
+                "opp_2_speaks": 31.0,
+                "opp_2_ranks": 3.0,
+                "judge": "Victoria Ajayi"
+            },
+            {
+                "gov_team": "Due Waivers for Punts",
+                "gov_bracket": 1,
+                "gov_result": "w",
+                "gov_1": "Aidan Gillies",
+                "gov_1_speaks": 30.0,
+                "gov_1_ranks": 1.0,
+                "gov_2": "Maddie Naisbitt",
+                "gov_2_speaks": 28.0,
+                "gov_2_ranks": 2.0,
+                "opp_team": "Master and Commander",
+                "opp_bracket": 1,
+                "opp_result": "l",
+                "opp_1": "Ben Fligelman",
+                "opp_1_speaks": 26.0,
+                "opp_1_ranks": 3.0,
+                "opp_2": "Nathan Schechter",
+                "opp_2_speaks": 25.0,
+                "opp_2_ranks": 4.0,
+                "judge": "Parker Snipes"
+            },
+            {
+                "gov_team": "Mercedes and Mercedes Esq.",
+                "gov_bracket": 1,
+                "gov_result": "l",
+                "gov_1": "Laura Mercedes",
+                "gov_1_speaks": 26.0,
+                "gov_1_ranks": 3.0,
+                "gov_2": "Ruth Mercedes",
+                "gov_2_speaks": 25.0,
+                "gov_2_ranks": 4.0,
+                "opp_team": "Tight Call Specialists",
+                "opp_bracket": 1,
+                "opp_result": "w",
+                "opp_1": "Gordon McNeill",
+                "opp_1_speaks": 29.0,
+                "opp_1_ranks": 1.0,
+                "opp_2": "Omesh Dhar Dwivedi",
+                "opp_2_speaks": 28.0,
+                "opp_2_ranks": 2.0,
+                "judge": "Jake Bohman"
+            },
+            {
+                "gov_team": "Chicago/UVA RS",
+                "gov_bracket": 3,
+                "gov_result": "l",
+                "gov_1": "Joey Rubas",
+                "gov_1_speaks": 32.0,
+                "gov_1_ranks": 3.0,
+                "gov_2": "Nish Sinha",
+                "gov_2_speaks": 31.0,
+                "gov_2_ranks": 4.0,
+                "opp_team": "Southern Hit Squad",
+                "opp_bracket": 3,
+                "opp_result": "w",
+                "opp_1": "Muzzi Godil",
+                "opp_1_speaks": 32.0,
+                "opp_1_ranks": 2.0,
+                "opp_2": "Patrick Han",
+                "opp_2_speaks": 33.0,
+                "opp_2_ranks": 1.0,
+                "judge": "Jonah Paterson"
+            },
+            {
+                "gov_team": "Chicago WZ",
+                "gov_bracket": 2,
+                "gov_result": "w",
+                "gov_1": "David Wang",
+                "gov_1_speaks": 31.0,
+                "gov_1_ranks": 1.0,
+                "gov_2": "Zoe Zhu",
+                "gov_2_speaks": 30.0,
+                "gov_2_ranks": 2.0,
+                "opp_team": "put a helmet on that soldier",
+                "opp_bracket": 2,
+                "opp_result": "l",
+                "opp_1": "Sarah Miller",
+                "opp_1_speaks": 29.0,
+                "opp_1_ranks": 3.0,
+                "opp_2": "Zaid Hintzman",
+                "opp_2_speaks": 27.0,
+                "opp_2_ranks": 4.0,
+                "judge": "Max Neuman"
+            },
+            {
+                "gov_team": "8:30 minutes no zaza",
+                "gov_bracket": 2,
+                "gov_result": "l",
+                "gov_1": "Ishaan Goel",
+                "gov_1_speaks": 30.0,
+                "gov_1_ranks": 2.0,
+                "gov_2": "Michael Moran",
+                "gov_2_speaks": 29.0,
+                "gov_2_ranks": 4.0,
+                "opp_team": "existentially unretained",
+                "opp_bracket": 2,
+                "opp_result": "w",
+                "opp_1": "Anna Pinkerton",
+                "opp_1_speaks": 31.0,
+                "opp_1_ranks": 1.0,
+                "opp_2": "Vivienne Monteiro",
+                "opp_2_speaks": 30.0,
+                "opp_2_ranks": 3.0,
+                "judge": "Eric Trinh"
+            },
+            {
+                "gov_team": "GWUVA Fishing Trip",
+                "gov_bracket": 3,
+                "gov_result": "w",
+                "gov_1": "Alex Hanna",
+                "gov_1_speaks": 33.0,
+                "gov_1_ranks": 2.0,
+                "gov_2": "Ryan Tiedemann",
+                "gov_2_speaks": 34.0,
+                "gov_2_ranks": 1.0,
+                "opp_team": "opp choi-ce",
+                "opp_bracket": 3,
+                "opp_result": "l",
+                "opp_1": "Nathaniel Yoon",
+                "opp_1_speaks": 31.0,
+                "opp_1_ranks": 3.0,
+                "opp_2": "Seth Choi",
+                "opp_2_speaks": 28.0,
+                "opp_2_ranks": 4.0,
+                "judge": "Mia Rojas, Rodda John"
+            },
+            {
+                "gov_team": "alyssa edwards tongue pop",
+                "gov_bracket": 1,
+                "gov_result": "w",
+                "gov_1": "Brandon Burton",
+                "gov_1_speaks": 28.0,
+                "gov_1_ranks": 2.0,
+                "gov_2": "Lizzie Waters",
+                "gov_2_speaks": 29.0,
+                "gov_2_ranks": 1.0,
+                "opp_team": "Chicago NS",
+                "opp_bracket": 1,
+                "opp_result": "l",
+                "opp_1": "Margaret Nakiganda",
+                "opp_1_speaks": 27.0,
+                "opp_1_ranks": 3.0,
+                "opp_2": "Nikola Simon",
+                "opp_2_speaks": 27.0,
+                "opp_2_ranks": 4.0,
+                "judge": "Ethan Quinn"
+            },
+            {
+                "gov_team": "Ranuary Rixth Rommittee",
+                "gov_bracket": 2,
+                "gov_result": "w",
+                "gov_1": "Ben Koch",
+                "gov_1_speaks": 31.0,
+                "gov_1_ranks": 1.0,
+                "gov_2": "Ethan Ross",
+                "gov_2_speaks": 31.0,
+                "gov_2_ranks": 2.0,
+                "opp_team": "Non-binary ass haircut",
+                "opp_bracket": 2,
+                "opp_result": "l",
+                "opp_1": "Maggie Mooney",
+                "opp_1_speaks": 30.0,
+                "opp_1_ranks": 4.0,
+                "opp_2": "Maiya Little",
+                "opp_2_speaks": 30.0,
+                "opp_2_ranks": 3.0,
+                "judge": "Megan Wu"
+            },
+            {
+                "gov_team": "Chicago CJ",
+                "gov_bracket": 1,
+                "gov_result": "w",
+                "gov_1": "Kobi Johnsson",
+                "gov_1_speaks": 31.0,
+                "gov_1_ranks": 1.0,
+                "gov_2": "Sydney Cook",
+                "gov_2_speaks": 30.0,
+                "gov_2_ranks": 2.0,
+                "opp_team": "Rutgerford",
+                "opp_bracket": 1,
+                "opp_result": "l",
+                "opp_1": "Jocelyn Gao",
+                "opp_1_speaks": 27.0,
+                "opp_1_ranks": 4.0,
+                "opp_2": "Robert Fu",
+                "opp_2_speaks": 28.0,
+                "opp_2_ranks": 3.0,
+                "judge": "Khylan Stubblefield"
+            },
+            {
+                "gov_team": "Garvey & Hussain",
+                "gov_bracket": 1,
+                "gov_result": "l",
+                "gov_1": "Cece Garvey",
+                "gov_1_speaks": 25.0,
+                "gov_1_ranks": 3.0,
+                "gov_2": "Hana Hussain",
+                "gov_2_speaks": 25.0,
+                "gov_2_ranks": 4.0,
+                "opp_team": "friends with axe",
+                "opp_bracket": 1,
+                "opp_result": "w",
+                "opp_1": "Aidan Shannon",
+                "opp_1_speaks": 29.0,
+                "opp_1_ranks": 2.0,
+                "opp_2": "Laura Giugno",
+                "opp_2_speaks": 31.0,
+                "opp_2_ranks": 1.0,
+                "judge": "Jay Leeds"
+            },
+            {
+                "gov_team": "cellular desperation",
+                "gov_bracket": 0,
+                "gov_result": "l",
+                "gov_1": "Elise Ko Davis",
+                "gov_1_speaks": 25.0,
+                "gov_1_ranks": 4.0,
+                "gov_2": "Sriya Uttharkar",
+                "gov_2_speaks": 25.0,
+                "gov_2_ranks": 3.0,
+                "opp_team": "Khan & Buribayeva",
+                "opp_bracket": 0,
+                "opp_result": "w",
+                "opp_1": "Malika Buribayeva",
+                "opp_1_speaks": 26.0,
+                "opp_1_ranks": 2.0,
+                "opp_2": "Raaid Khan",
+                "opp_2_speaks": 26.0,
+                "opp_2_ranks": 1.0,
+                "judge": "Rose West"
+            },
+            {
+                "gov_team": "Tia Tamera",
+                "gov_bracket": 1,
+                "gov_result": "w",
+                "gov_1": "Paola Apolinario",
+                "gov_1_speaks": 30.0,
+                "gov_1_ranks": 2.0,
+                "gov_2": "Rayan Sheikh",
+                "gov_2_speaks": 32.0,
+                "gov_2_ranks": 1.0,
+                "opp_team": "Temple 2",
+                "opp_bracket": 1,
+                "opp_result": "l",
+                "opp_1": "Nolan Greenways",
+                "opp_1_speaks": 29.0,
+                "opp_1_ranks": 4.0,
+                "opp_2": "Tyler Hugo",
+                "opp_2_speaks": 29.0,
+                "opp_2_ranks": 3.0,
+                "judge": "Leon Gold"
+            }
+        ],
+        "5": [
+            {
+                "bye": "cellular desperation",
+                "bracket": 0
+            },
+            {
+                "gov_team": "Chicago/UVA RS",
+                "gov_bracket": 3,
+                "gov_result": "w",
+                "gov_1": "Joey Rubas",
+                "gov_1_speaks": 29.0,
+                "gov_1_ranks": 2.0,
+                "gov_2": "Nish Sinha",
+                "gov_2_speaks": 30.0,
+                "gov_2_ranks": 1.0,
+                "opp_team": "Georgetown Enthusiasts",
+                "opp_bracket": 3,
+                "opp_result": "l",
+                "opp_1": "Devin Bae",
+                "opp_1_speaks": 28.0,
+                "opp_1_ranks": 4.0,
+                "opp_2": "Samuel Watkins",
+                "opp_2_speaks": 29.0,
+                "opp_2_ranks": 3.0,
+                "judge": "Annette Kim"
+            },
+            {
+                "gov_team": "opp choi-ce",
+                "gov_bracket": 3,
+                "gov_result": "l",
+                "gov_1": "Nathaniel Yoon",
+                "gov_1_speaks": 25.0,
+                "gov_1_ranks": 2.0,
+                "gov_2": "Seth Choi",
+                "gov_2_speaks": 23.0,
+                "gov_2_ranks": 4.0,
+                "opp_team": "Dom and APDA Schedule for COTY",
+                "opp_bracket": 3,
+                "opp_result": "w",
+                "opp_1": "Dominic DeRamo",
+                "opp_1_speaks": 26.0,
+                "opp_1_ranks": 1.0,
+                "opp_2": "Sebastian Cardena",
+                "opp_2_speaks": 24.0,
+                "opp_2_ranks": 3.0,
+                "judge": "Max Neuman"
+            },
+            {
+                "gov_team": "Ranuary Rixth Rommittee",
+                "gov_bracket": 3,
+                "gov_result": "l",
+                "gov_1": "Ben Koch",
+                "gov_1_speaks": 33.0,
+                "gov_1_ranks": 2.0,
+                "gov_2": "Ethan Ross",
+                "gov_2_speaks": 31.0,
+                "gov_2_ranks": 4.0,
+                "opp_team": "Is it too late to soft launch?",
+                "opp_bracket": 3,
+                "opp_result": "w",
+                "opp_1": "Jackson Neme",
+                "opp_1_speaks": 33.0,
+                "opp_1_ranks": 1.0,
+                "opp_2": "Lindsey Gradowski",
+                "opp_2_speaks": 31.0,
+                "opp_2_ranks": 3.0,
+                "judge": "Rodda John"
+            },
+            {
+                "gov_team": "Due Waivers for Punts",
+                "gov_bracket": 2,
+                "gov_result": "w",
+                "gov_1": "Aidan Gillies",
+                "gov_1_speaks": 29.0,
+                "gov_1_ranks": 3.0,
+                "gov_2": "Maddie Naisbitt",
+                "gov_2_speaks": 29.0,
+                "gov_2_ranks": 1.0,
+                "opp_team": "Chicago CJ",
+                "opp_bracket": 2,
+                "opp_result": "l",
+                "opp_1": "Kobi Johnsson",
+                "opp_1_speaks": 29.0,
+                "opp_1_ranks": 2.0,
+                "opp_2": "Sydney Cook",
+                "opp_2_speaks": 29.0,
+                "opp_2_ranks": 4.0,
+                "judge": "Megan Wu"
+            },
+            {
+                "gov_team": "Tight Call Specialists",
+                "gov_bracket": 2,
+                "gov_result": "w",
+                "gov_1": "Gordon McNeill",
+                "gov_1_speaks": 33.0,
+                "gov_1_ranks": 1.0,
+                "gov_2": "Omesh Dhar Dwivedi",
+                "gov_2_speaks": 32.0,
+                "gov_2_ranks": 2.0,
+                "opp_team": "Chicago JL",
+                "opp_bracket": 2,
+                "opp_result": "l",
+                "opp_1": "Adam Jensen",
+                "opp_1_speaks": 30.0,
+                "opp_1_ranks": 4.0,
+                "opp_2": "Noam Levinsky",
+                "opp_2_speaks": 31.0,
+                "opp_2_ranks": 3.0,
+                "judge": "Ethan Quinn"
+            },
+            {
+                "gov_team": "Southern Hit Squad",
+                "gov_bracket": 4,
+                "gov_result": "l",
+                "gov_1": "Muzzi Godil",
+                "gov_1_speaks": 32.0,
+                "gov_1_ranks": 2.0,
+                "gov_2": "Patrick Han",
+                "gov_2_speaks": 29.0,
+                "gov_2_ranks": 4.0,
+                "opp_team": "GWUVA Fishing Trip",
+                "opp_bracket": 4,
+                "opp_result": "w",
+                "opp_1": "Alex Hanna",
+                "opp_1_speaks": 31.0,
+                "opp_1_ranks": 3.0,
+                "opp_2": "Ryan Tiedemann",
+                "opp_2_speaks": 33.0,
+                "opp_2_ranks": 1.0,
+                "judge": "Parker Snipes"
+            },
+            {
+                "gov_team": "put a helmet on that soldier",
+                "gov_bracket": 2,
+                "gov_result": "w",
+                "gov_1": "Sarah Miller",
+                "gov_1_speaks": 31.0,
+                "gov_1_ranks": 2.0,
+                "gov_2": "Zaid Hintzman",
+                "gov_2_speaks": 32.0,
+                "gov_2_ranks": 1.0,
+                "opp_team": "8:30 minutes no zaza",
+                "opp_bracket": 2,
+                "opp_result": "l",
+                "opp_1": "Ishaan Goel",
+                "opp_1_speaks": 29.0,
+                "opp_1_ranks": 3.0,
+                "opp_2": "Michael Moran",
+                "opp_2_speaks": 28.0,
+                "opp_2_ranks": 4.0,
+                "judge": "Jake Bohman"
+            },
+            {
+                "gov_team": "existentially unretained",
+                "gov_bracket": 3,
+                "gov_result": "w",
+                "gov_1": "Anna Pinkerton",
+                "gov_1_speaks": 32.0,
+                "gov_1_ranks": 1.0,
+                "gov_2": "Vivienne Monteiro",
+                "gov_2_speaks": 31.0,
+                "gov_2_ranks": 2.0,
+                "opp_team": "Chicago WZ",
+                "opp_bracket": 3,
+                "opp_result": "l",
+                "opp_1": "David Wang",
+                "opp_1_speaks": 29.0,
+                "opp_1_ranks": 4.0,
+                "opp_2": "Zoe Zhu",
+                "opp_2_speaks": 30.0,
+                "opp_2_ranks": 3.0,
+                "judge": "Sarah Wheaton"
+            },
+            {
+                "gov_team": "friends with axe",
+                "gov_bracket": 2,
+                "gov_result": "w",
+                "gov_1": "Aidan Shannon",
+                "gov_1_speaks": 32.0,
+                "gov_1_ranks": 4.0,
+                "gov_2": "Laura Giugno",
+                "gov_2_speaks": 33.0,
+                "gov_2_ranks": 1.0,
+                "opp_team": "alyssa edwards tongue pop",
+                "opp_bracket": 2,
+                "opp_result": "l",
+                "opp_1": "Brandon Burton",
+                "opp_1_speaks": 33.0,
+                "opp_1_ranks": 2.0,
+                "opp_2": "Lizzie Waters",
+                "opp_2_speaks": 32.0,
+                "opp_2_ranks": 3.0,
+                "judge": "Jonah Paterson"
+            },
+            {
+                "gov_team": "Wait, that’s not Pranav!",
+                "gov_bracket": 2,
+                "gov_result": "w",
+                "gov_1": "Emily Chow",
+                "gov_1_speaks": 32.0,
+                "gov_1_ranks": 1.0,
+                "gov_2": "Justin Wu",
+                "gov_2_speaks": 31.0,
+                "gov_2_ranks": 2.0,
+                "opp_team": "Non-binary ass haircut",
+                "opp_bracket": 2,
+                "opp_result": "l",
+                "opp_1": "Maggie Mooney",
+                "opp_1_speaks": 30.0,
+                "opp_1_ranks": 3.0,
+                "opp_2": "Maiya Little",
+                "opp_2_speaks": 30.0,
+                "opp_2_ranks": 4.0,
+                "judge": "Leon Gold"
+            },
+            {
+                "gov_team": "Khan & Buribayeva",
+                "gov_bracket": 1,
+                "gov_result": "l",
+                "gov_1": "Malika Buribayeva",
+                "gov_1_speaks": 26.0,
+                "gov_1_ranks": 3.0,
+                "gov_2": "Raaid Khan",
+                "gov_2_speaks": 25.0,
+                "gov_2_ranks": 4.0,
+                "opp_team": "Mercedes and Mercedes Esq.",
+                "opp_bracket": 1,
+                "opp_result": "w",
+                "opp_1": "Laura Mercedes",
+                "opp_1_speaks": 29.0,
+                "opp_1_ranks": 1.0,
+                "opp_2": "Ruth Mercedes",
+                "opp_2_speaks": 28.0,
+                "opp_2_ranks": 2.0,
+                "judge": "Eric Trinh, Mia Rojas"
+            },
+            {
+                "gov_team": "Temple 2",
+                "gov_bracket": 1,
+                "gov_result": "w",
+                "gov_1": "Nolan Greenways",
+                "gov_1_speaks": 28.0,
+                "gov_1_ranks": 3.0,
+                "gov_2": "Tyler Hugo",
+                "gov_2_speaks": 30.0,
+                "gov_2_ranks": 1.0,
+                "opp_team": "Master and Commander",
+                "opp_bracket": 1,
+                "opp_result": "l",
+                "opp_1": "Ben Fligelman",
+                "opp_1_speaks": 29.0,
+                "opp_1_ranks": 2.0,
+                "opp_2": "Nathan Schechter",
+                "opp_2_speaks": 28.0,
+                "opp_2_ranks": 4.0,
+                "judge": "Rose West"
+            },
+            {
+                "gov_team": "Rutgerford",
+                "gov_bracket": 1,
+                "gov_result": "w",
+                "gov_1": "Jocelyn Gao",
+                "gov_1_speaks": 24.0,
+                "gov_1_ranks": 3.0,
+                "gov_2": "Robert Fu",
+                "gov_2_speaks": 27.0,
+                "gov_2_ranks": 1.0,
+                "opp_team": "Butter Bloc",
+                "opp_bracket": 0,
+                "opp_result": "l",
+                "opp_1": "Alexander West",
+                "opp_1_speaks": 24.0,
+                "opp_1_ranks": 4.0,
+                "opp_2": "James Currie",
+                "opp_2_speaks": 25.0,
+                "opp_2_ranks": 2.0,
+                "judge": "Jay Leeds"
+            },
+            {
+                "gov_team": "Chicago NS",
+                "gov_bracket": 1,
+                "gov_result": "l",
+                "gov_1": "Margaret Nakiganda",
+                "gov_1_speaks": 27.0,
+                "gov_1_ranks": 4.0,
+                "gov_2": "Nikola Simon",
+                "gov_2_speaks": 28.0,
+                "gov_2_ranks": 2.0,
+                "opp_team": "Garvey & Hussain",
+                "opp_bracket": 1,
+                "opp_result": "w",
+                "opp_1": "Cece Garvey",
+                "opp_1_speaks": 28.0,
+                "opp_1_ranks": 3.0,
+                "opp_2": "Hana Hussain",
+                "opp_2_speaks": 29.0,
+                "opp_2_ranks": 1.0,
+                "judge": "Victoria Ajayi"
+            },
+            {
+                "gov_team": "Chicago KS",
+                "gov_bracket": 2,
+                "gov_result": "w",
+                "gov_1": "Aman Sharma",
+                "gov_1_speaks": 28.0,
+                "gov_1_ranks": 2.0,
+                "gov_2": "Daniel Katari",
+                "gov_2_speaks": 29.0,
+                "gov_2_ranks": 1.0,
+                "opp_team": "Tia Tamera",
+                "opp_bracket": 2,
+                "opp_result": "l",
+                "opp_1": "Paola Apolinario",
+                "opp_1_speaks": 27.0,
+                "opp_1_ranks": 3.0,
+                "opp_2": "Rayan Sheikh",
+                "opp_2_speaks": 27.0,
+                "opp_2_ranks": 4.0,
+                "judge": "Jennifer He"
+            }
+        ]
+    }
+}

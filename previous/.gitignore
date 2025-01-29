@@ -1,0 +1,6 @@
+node_modules/
+dist/
+functions/
+.wrangler/
+.vite/
+__pycache__/

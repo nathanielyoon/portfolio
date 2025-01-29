@@ -1,0 +1,694 @@
+{
+    "1": {
+        "name": "Columbia",
+        "apda_member": true
+    },
+    "2": {
+        "name": "Johns Hopkins",
+        "apda_member": true
+    },
+    "3": {
+        "name": "UMBC",
+        "apda_member": true
+    },
+    "4": {
+        "name": "Smith",
+        "apda_member": true
+    },
+    "5": {
+        "name": "Swarthmore",
+        "apda_member": true
+    },
+    "6": {
+        "name": "Boston University",
+        "apda_member": true
+    },
+    "7": {
+        "name": "Harvard",
+        "apda_member": true
+    },
+    "8": {
+        "name": "Maryland",
+        "apda_member": true
+    },
+    "9": {
+        "name": "Wesleyan",
+        "apda_member": true
+    },
+    "10": {
+        "name": "Yale",
+        "apda_member": true
+    },
+    "11": {
+        "name": "George Washington",
+        "apda_member": true
+    },
+    "12": {
+        "name": "Cornell",
+        "apda_member": true
+    },
+    "14": {
+        "name": "Tufts",
+        "apda_member": true
+    },
+    "15": {
+        "name": "Fordham",
+        "apda_member": true
+    },
+    "16": {
+        "name": "Bucknell",
+        "apda_member": true
+    },
+    "17": {
+        "name": "MIT",
+        "apda_member": true
+    },
+    "18": {
+        "name": "American",
+        "apda_member": true
+    },
+    "19": {
+        "name": "William and Mary",
+        "apda_member": true
+    },
+    "20": {
+        "name": "Princeton",
+        "apda_member": true
+    },
+    "21": {
+        "name": "Brandeis",
+        "apda_member": true
+    },
+    "22": {
+        "name": "NYU",
+        "apda_member": true
+    },
+    "23": {
+        "name": "Hamilton",
+        "apda_member": true
+    },
+    "24": {
+        "name": "Hobart and William Smith",
+        "apda_member": true
+    },
+    "25": {
+        "name": "Vassar",
+        "apda_member": true
+    },
+    "26": {
+        "name": "Mount Holyoke",
+        "apda_member": true
+    },
+    "27": {
+        "name": "Williams",
+        "apda_member": true
+    },
+    "28": {
+        "name": "Penn",
+        "apda_member": true
+    },
+    "29": {
+        "name": "Middlebury",
+        "apda_member": true
+    },
+    "30": {
+        "name": "Brown",
+        "apda_member": true
+    },
+    "31": {
+        "name": "Dartmouth",
+        "apda_member": true
+    },
+    "33": {
+        "name": "Bryn Mawr",
+        "apda_member": true
+    },
+    "34": {
+        "name": "Bates",
+        "apda_member": true
+    },
+    "35": {
+        "name": "University of Chicago",
+        "apda_member": true
+    },
+    "36": {
+        "name": "Clark",
+        "apda_member": true
+    },
+    "37": {
+        "name": "University of Virginia",
+        "apda_member": true
+    },
+    "39": {
+        "name": "Duke",
+        "apda_member": true
+    },
+    "40": {
+        "name": "Temple",
+        "apda_member": true
+    },
+    "41": {
+        "name": "Bowdoin College",
+        "apda_member": true
+    },
+    "42": {
+        "name": "Rutgers",
+        "apda_member": true
+    },
+    "43": {
+        "name": "Amherst",
+        "apda_member": true
+    },
+    "44": {
+        "name": "Stanford",
+        "apda_member": true
+    },
+    "45": {
+        "name": "Haverford",
+        "apda_member": true
+    },
+    "46": {
+        "name": "Skidmore",
+        "apda_member": true
+    },
+    "47": {
+        "name": "Wellesley",
+        "apda_member": true
+    },
+    "48": {
+        "name": "West Point",
+        "apda_member": true
+    },
+    "49": {
+        "name": "Franklin Pierce College",
+        "apda_member": true
+    },
+    "51": {
+        "name": "Boston College",
+        "apda_member": true
+    },
+    "52": {
+        "name": "Colgate",
+        "apda_member": true
+    },
+    "53": {
+        "name": "Fairfield",
+        "apda_member": true
+    },
+    "54": {
+        "name": "FIU",
+        "apda_member": true
+    },
+    "55": {
+        "name": "Oxford",
+        "apda_member": false
+    },
+    "56": {
+        "name": "Providence College",
+        "apda_member": true
+    },
+    "57": {
+        "name": "Simon's Rock College",
+        "apda_member": true
+    },
+    "58": {
+        "name": "St. Andrews",
+        "apda_member": false
+    },
+    "59": {
+        "name": "University of Minnesota",
+        "apda_member": true
+    },
+    "62": {
+        "name": "Northeastern",
+        "apda_member": true
+    },
+    "64": {
+        "name": "Hart House",
+        "apda_member": false
+    },
+    "65": {
+        "name": "McGill",
+        "apda_member": false
+    },
+    "66": {
+        "name": "Columbia Law",
+        "apda_member": true
+    },
+    "67": {
+        "name": "Harvard Law",
+        "apda_member": true
+    },
+    "68": {
+        "name": "St. Johns",
+        "apda_member": true
+    },
+    "69": {
+        "name": "Syracuse",
+        "apda_member": true
+    },
+    "70": {
+        "name": "Union",
+        "apda_member": true
+    },
+    "71": {
+        "name": "Emmanuel",
+        "apda_member": true
+    },
+    "72": {
+        "name": "RIT",
+        "apda_member": true
+    },
+    "73": {
+        "name": "Franklin and Marshall",
+        "apda_member": true
+    },
+    "74": {
+        "name": "Loyola Marymount",
+        "apda_member": true
+    },
+    "76": {
+        "name": "Georgetown",
+        "apda_member": true
+    },
+    "77": {
+        "name": "Tulsa",
+        "apda_member": true
+    },
+    "78": {
+        "name": "Cambridge",
+        "apda_member": false
+    },
+    "79": {
+        "name": "York University",
+        "apda_member": false
+    },
+    "81": {
+        "name": "University of Pittsburgh",
+        "apda_member": true
+    },
+    "82": {
+        "name": "University of British Columbia",
+        "apda_member": false
+    },
+    "83": {
+        "name": "Queen's University",
+        "apda_member": false
+    },
+    "84": {
+        "name": "Wilfred Laurier University",
+        "apda_member": true
+    },
+    "86": {
+        "name": "UConn",
+        "apda_member": true
+    },
+    "88": {
+        "name": "Catholic University",
+        "apda_member": true
+    },
+    "90": {
+        "name": "Odette",
+        "apda_member": true
+    },
+    "104": {
+        "name": "DePaul",
+        "apda_member": true
+    },
+    "105": {
+        "name": "The College of New Jersey",
+        "apda_member": true
+    },
+    "106": {
+        "name": "University of Waterloo",
+        "apda_member": false
+    },
+    "107": {
+        "name": "University of Guelph",
+        "apda_member": false
+    },
+    "108": {
+        "name": "Santa Clara",
+        "apda_member": true
+    },
+    "109": {
+        "name": "University of Albany",
+        "apda_member": true
+    },
+    "111": {
+        "name": "Florida State University",
+        "apda_member": true
+    },
+    "113": {
+        "name": "Mount Saint Vincent",
+        "apda_member": true
+    },
+    "114": {
+        "name": "Eastern Connecticut",
+        "apda_member": true
+    },
+    "115": {
+        "name": "Morehouse College",
+        "apda_member": true
+    },
+    "116": {
+        "name": "Mater Ecclesiae College",
+        "apda_member": true
+    },
+    "117": {
+        "name": "Harold Washington College",
+        "apda_member": true
+    },
+    "118": {
+        "name": "Utica College",
+        "apda_member": true
+    },
+    "119": {
+        "name": "University of Delaware",
+        "apda_member": true
+    },
+    "121": {
+        "name": "Berkeley",
+        "apda_member": true
+    },
+    "123": {
+        "name": "South Carolina",
+        "apda_member": true
+    },
+    "124": {
+        "name": "Grinnell",
+        "apda_member": true
+    },
+    "125": {
+        "name": "George Mason",
+        "apda_member": true
+    },
+    "128": {
+        "name": "Alma College",
+        "apda_member": true
+    },
+    "129": {
+        "name": "Colby Sawyer",
+        "apda_member": true
+    },
+    "130": {
+        "name": "Carnegie Mellon",
+        "apda_member": true
+    },
+    "131": {
+        "name": "Binghamton University",
+        "apda_member": true
+    },
+    "134": {
+        "name": "Penn State",
+        "apda_member": true
+    },
+    "135": {
+        "name": "University of Vermont",
+        "apda_member": true
+    },
+    "136": {
+        "name": "Dalhousie",
+        "apda_member": true
+    },
+    "137": {
+        "name": "CCSF",
+        "apda_member": true
+    },
+    "139": {
+        "name": "University of Denver",
+        "apda_member": true
+    },
+    "140": {
+        "name": "BGC",
+        "apda_member": true
+    },
+    "142": {
+        "name": "Moody Bible Institute",
+        "apda_member": true
+    },
+    "143": {
+        "name": "Bryant University",
+        "apda_member": true
+    },
+    "144": {
+        "name": "Plymouth State",
+        "apda_member": true
+    },
+    "145": {
+        "name": "Western",
+        "apda_member": false
+    },
+    "146": {
+        "name": "Worlds (Chennai)",
+        "apda_member": false
+    },
+    "147": {
+        "name": "Babson College",
+        "apda_member": true
+    },
+    "148": {
+        "name": "Raritan Valley Community College",
+        "apda_member": true
+    },
+    "149": {
+        "name": "University of North Carolina",
+        "apda_member": true
+    },
+    "150": {
+        "name": "University of Sydney",
+        "apda_member": false
+    },
+    "151": {
+        "name": "Glasgow",
+        "apda_member": false
+    },
+    "153": {
+        "name": "Trinity",
+        "apda_member": false
+    },
+    "155": {
+        "name": "Washington University in St. Louis",
+        "apda_member": true
+    },
+    "156": {
+        "name": "University of Michigan",
+        "apda_member": true
+    },
+    "157": {
+        "name": "WSCC",
+        "apda_member": true
+    },
+    "159": {
+        "name": "Unaffiliated",
+        "apda_member": false
+    },
+    "160": {
+        "name": "San Jose State",
+        "apda_member": true
+    },
+    "161": {
+        "name": "BPP",
+        "apda_member": false
+    },
+    "162": {
+        "name": "Notre Dame",
+        "apda_member": true
+    },
+    "163": {
+        "name": "CUNY",
+        "apda_member": true
+    },
+    "164": {
+        "name": "UCD L&H",
+        "apda_member": false
+    },
+    "166": {
+        "name": "RPI",
+        "apda_member": true
+    },
+    "168": {
+        "name": "University of Massachusetts",
+        "apda_member": true
+    },
+    "169": {
+        "name": "Rochester",
+        "apda_member": true
+    },
+    "170": {
+        "name": "Emory",
+        "apda_member": true
+    },
+    "171": {
+        "name": "University of the People",
+        "apda_member": true
+    },
+    "172": {
+        "name": "CUNY (BMCC)",
+        "apda_member": true
+    },
+    "174": {
+        "name": "Bard",
+        "apda_member": true
+    },
+    "175": {
+        "name": "Patrick Henry",
+        "apda_member": true
+    },
+    "176": {
+        "name": "Adelphi",
+        "apda_member": true
+    },
+    "177": {
+        "name": "Kings",
+        "apda_member": true
+    },
+    "178": {
+        "name": "Quakers",
+        "apda_member": true
+    },
+    "179": {
+        "name": "Claremont",
+        "apda_member": true
+    },
+    "180": {
+        "name": "Tulane",
+        "apda_member": true
+    },
+    "184": {
+        "name": "University of Alaska Anchorage",
+        "apda_member": true
+    },
+    "185": {
+        "name": "University of Hawaii at Manoa",
+        "apda_member": true
+    },
+    "186": {
+        "name": "Northwestern",
+        "apda_member": true
+    },
+    "187": {
+        "name": "University of Calgary",
+        "apda_member": false
+    },
+    "188": {
+        "name": "TESU",
+        "apda_member": true
+    },
+    "189": {
+        "name": "Spelman",
+        "apda_member": true
+    },
+    "190": {
+        "name": "UCLA",
+        "apda_member": true
+    },
+    "191": {
+        "name": "Mexico",
+        "apda_member": false
+    },
+    "193": {
+        "name": "Morehouse",
+        "apda_member": true
+    },
+    "194": {
+        "name": "Test",
+        "apda_member": false
+    },
+    "195": {
+        "name": "Sydney",
+        "apda_member": false
+    },
+    "196": {
+        "name": "Tel Aviv",
+        "apda_member": false
+    },
+    "197": {
+        "name": "Durham",
+        "apda_member": false
+    },
+    "198": {
+        "name": "IBA-DU",
+        "apda_member": false
+    },
+    "199": {
+        "name": "IIUM",
+        "apda_member": false
+    },
+    "200": {
+        "name": "University of New South Wales",
+        "apda_member": false
+    },
+    "203": {
+        "name": "Carleton",
+        "apda_member": false
+    },
+    "204": {
+        "name": "Ottawa",
+        "apda_member": false
+    },
+    "205": {
+        "name": "Smith/Amherst",
+        "apda_member": true
+    },
+    "207": {
+        "name": "La Verne",
+        "apda_member": true
+    },
+    "211": {
+        "name": "Loyola University Chicago",
+        "apda_member": true
+    },
+    "212": {
+        "name": "Villanova",
+        "apda_member": true
+    },
+    "213": {
+        "name": "Thailand",
+        "apda_member": false
+    },
+    "214": {
+        "name": "Stony Brook University",
+        "apda_member": true
+    },
+    "216": {
+        "name": "a",
+        "apda_member": true
+    },
+    "218": {
+        "name": "Blank School",
+        "apda_member": true
+    },
+    "219": {
+        "name": "Simon Fraser University",
+        "apda_member": false
+    },
+    "220": {
+        "name": "Kwame Nkrumah University of Science and Technology",
+        "apda_member": false
+    },
+    "221": {
+        "name": "University of Southern California",
+        "apda_member": true
+    },
+    "222": {
+        "name": "Denison",
+        "apda_member": true
+    },
+    "223": {
+        "name": "Drexel",
+        "apda_member": true
+    },
+    "224": {
+        "name": "Madrid",
+        "apda_member": false
+    },
+    "224": {
+        "name": "Madrid",
+        "apda_member": false
+    },
+    "225": {
+        "name": "Bentley University",
+        "apda_member": true
+    }
+}

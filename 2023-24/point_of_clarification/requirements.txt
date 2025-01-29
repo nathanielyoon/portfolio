@@ -1,0 +1,8 @@
+python-dotenv
+pydantic
+fastapi
+typing_extensions
+jinja2
+aiohttp
+selenium
+beautifulsoup4

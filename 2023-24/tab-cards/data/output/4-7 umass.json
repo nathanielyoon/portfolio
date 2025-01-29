@@ -1,0 +1,3529 @@
+{
+    "teams": {
+        "jenga-style warrants": {
+            "debater_1": {
+                "name": "Paola Apolinario",
+                "status": "varsity"
+            },
+            "debater_2": {
+                "name": "Sebastian Cardena",
+                "status": "novice"
+            },
+            "rounds": {
+                "1": {
+                    "side": "opp",
+                    "result": "l",
+                    "opponent": "yeasty beats",
+                    "judge": [
+                        "David Williams",
+                        "Ruth Tony Alabi"
+                    ],
+                    "speaks_1": 28.0,
+                    "ranks_1": 4.0,
+                    "speaks_2": 28.0,
+                    "ranks_2": 3.0,
+                    "speaks_total": 56.0,
+                    "ranks_total": 7.0
+                },
+                "2": {
+                    "side": "gov",
+                    "result": "w",
+                    "opponent": "2kool2BU",
+                    "judge": [
+                        "John Albonczy",
+                        "Mary Tran"
+                    ],
+                    "speaks_1": 28.0,
+                    "ranks_1": 1.0,
+                    "speaks_2": 27.0,
+                    "ranks_2": 3.0,
+                    "speaks_total": 55.0,
+                    "ranks_total": 4.0
+                },
+                "3": {
+                    "side": "gov",
+                    "result": "l",
+                    "opponent": "Yale Shit List",
+                    "judge": [
+                        "Hannah Ditmars",
+                        "Sophia Farinella"
+                    ],
+                    "speaks_1": 24.0,
+                    "ranks_1": 4.0,
+                    "speaks_2": 25.0,
+                    "ranks_2": 3.0,
+                    "speaks_total": 49.0,
+                    "ranks_total": 7.0
+                },
+                "4": {
+                    "side": "gov",
+                    "result": "l",
+                    "opponent": "Thayer St. Freeze Out",
+                    "judge": [
+                        "Neftali Reynoso"
+                    ],
+                    "speaks_1": 32.0,
+                    "ranks_1": 2.0,
+                    "speaks_2": 30.0,
+                    "ranks_2": 4.0,
+                    "speaks_total": 62.0,
+                    "ranks_total": 6.0
+                },
+                "5": {
+                    "side": "opp",
+                    "result": "l",
+                    "opponent": "Defer to Rishven",
+                    "judge": [
+                        "Owen Mullins"
+                    ],
+                    "speaks_1": 26.0,
+                    "ranks_1": 3.0,
+                    "speaks_2": 25.0,
+                    "ranks_2": 4.0,
+                    "speaks_total": 51.0,
+                    "ranks_total": 7.0
+                }
+            },
+            "total_wins": 1,
+            "total_speaks_1": 138.0,
+            "total_ranks_1": 14.0,
+            "total_speaks_2": 135.0,
+            "total_ranks_2": 17.0,
+            "total_speaks": 273.0,
+            "total_ranks": 31.0
+        },
+        "corned beefs": {
+            "debater_1": {
+                "name": "Elise Ko Davis",
+                "status": "novice"
+            },
+            "debater_2": {
+                "name": "Emily Chow",
+                "status": "varsity"
+            },
+            "rounds": {
+                "1": {
+                    "side": null,
+                    "result": "bye",
+                    "opponent": null,
+                    "judge": null,
+                    "speaks_1": "average",
+                    "ranks_1": "average",
+                    "speaks_2": "average",
+                    "ranks_2": "average",
+                    "speaks_total": "average",
+                    "ranks_total": "average"
+                },
+                "2": {
+                    "side": "opp",
+                    "result": "l",
+                    "opponent": "Caulipower",
+                    "judge": [
+                        "Hannah Ditmars",
+                        "Neftali Reynoso"
+                    ],
+                    "speaks_1": 28.0,
+                    "ranks_1": 4.0,
+                    "speaks_2": 30.0,
+                    "ranks_2": 3.0,
+                    "speaks_total": 58.0,
+                    "ranks_total": 7.0
+                },
+                "3": {
+                    "side": "gov",
+                    "result": "w",
+                    "opponent": "Walll Breakers",
+                    "judge": [
+                        "David Williams",
+                        "Owen Mullins"
+                    ],
+                    "speaks_1": 29.0,
+                    "ranks_1": 2.0,
+                    "speaks_2": 31.0,
+                    "ranks_2": 1.0,
+                    "speaks_total": 60.0,
+                    "ranks_total": 3.0
+                },
+                "4": {
+                    "side": "gov",
+                    "result": "w",
+                    "opponent": "Victims of Communism",
+                    "judge": [
+                        "Alina Antropova",
+                        "Sarah Moore"
+                    ],
+                    "speaks_1": 29.0,
+                    "ranks_1": 3.0,
+                    "speaks_2": 30.0,
+                    "ranks_2": 1.0,
+                    "speaks_total": 59.0,
+                    "ranks_total": 4.0
+                },
+                "5": {
+                    "side": "opp",
+                    "result": "l",
+                    "opponent": "yeasty beats",
+                    "judge": [
+                        "Sophia Farinella"
+                    ],
+                    "speaks_1": 25.0,
+                    "ranks_1": 4.0,
+                    "speaks_2": 26.0,
+                    "ranks_2": 3.0,
+                    "speaks_total": 51.0,
+                    "ranks_total": 7.0
+                }
+            },
+            "total_wins": 3,
+            "total_speaks_1": 138.75,
+            "total_ranks_1": 16.25,
+            "total_speaks_2": 146.25,
+            "total_ranks_2": 10.0,
+            "total_speaks": 285.0,
+            "total_ranks": 26.25
+        },
+        "Walll Breakers": {
+            "debater_1": {
+                "name": "Evan Steinberg",
+                "status": "novice"
+            },
+            "debater_2": {
+                "name": "Sam Sulzinsky",
+                "status": "novice"
+            },
+            "rounds": {
+                "1": {
+                    "side": "gov",
+                    "result": "l",
+                    "opponent": "Gyges' Cock Ring",
+                    "judge": [
+                        "Hai Tran",
+                        "Neftali Reynoso"
+                    ],
+                    "speaks_1": 28.0,
+                    "ranks_1": 4.0,
+                    "speaks_2": 29.0,
+                    "ranks_2": 3.0,
+                    "speaks_total": 57.0,
+                    "ranks_total": 7.0
+                },
+                "2": {
+                    "side": "gov",
+                    "result": "w",
+                    "opponent": "Defer to Rishven",
+                    "judge": [
+                        "Eric Trueswell",
+                        "Himanshu Padnani"
+                    ],
+                    "speaks_1": 28.0,
+                    "ranks_1": 1.0,
+                    "speaks_2": 25.0,
+                    "ranks_2": 3.0,
+                    "speaks_total": 53.0,
+                    "ranks_total": 4.0
+                },
+                "3": {
+                    "side": "opp",
+                    "result": "l",
+                    "opponent": "corned beefs",
+                    "judge": [
+                        "David Williams",
+                        "Owen Mullins"
+                    ],
+                    "speaks_1": 29.0,
+                    "ranks_1": 3.0,
+                    "speaks_2": 28.0,
+                    "ranks_2": 4.0,
+                    "speaks_total": 57.0,
+                    "ranks_total": 7.0
+                },
+                "4": {
+                    "side": "gov",
+                    "result": "w",
+                    "opponent": "terriers",
+                    "judge": [
+                        "John Albonczy"
+                    ],
+                    "speaks_1": 28.0,
+                    "ranks_1": 1.0,
+                    "speaks_2": 28.0,
+                    "ranks_2": 2.0,
+                    "speaks_total": 56.0,
+                    "ranks_total": 3.0
+                },
+                "5": {
+                    "side": "opp",
+                    "result": "l",
+                    "opponent": "Herpes",
+                    "judge": [
+                        "Alina Antropova",
+                        "Hannah Ditmars"
+                    ],
+                    "speaks_1": 27.0,
+                    "ranks_1": 3.0,
+                    "speaks_2": 26.0,
+                    "ranks_2": 4.0,
+                    "speaks_total": 53.0,
+                    "ranks_total": 7.0
+                }
+            },
+            "total_wins": 2,
+            "total_speaks_1": 140.0,
+            "total_ranks_1": 12.0,
+            "total_speaks_2": 136.0,
+            "total_ranks_2": 16.0,
+            "total_speaks": 276.0,
+            "total_ranks": 28.0
+        },
+        "Uncle Tom and Cousin Vinny": {
+            "debater_1": {
+                "name": "Ahmad Howard",
+                "status": "varsity"
+            },
+            "debater_2": {
+                "name": "Nick DeVito",
+                "status": "varsity"
+            },
+            "rounds": {
+                "1": {
+                    "side": "opp",
+                    "result": "w",
+                    "opponent": "philosophical Rhinos",
+                    "judge": [
+                        "Sam Hano",
+                        "Thibaut Juneja"
+                    ],
+                    "speaks_1": 31.0,
+                    "ranks_1": 2.0,
+                    "speaks_2": 32.0,
+                    "ranks_2": 1.0,
+                    "speaks_total": 63.0,
+                    "ranks_total": 3.0
+                },
+                "2": {
+                    "side": "gov",
+                    "result": "w",
+                    "opponent": "Yale TL",
+                    "judge": [
+                        "Sarah Moore"
+                    ],
+                    "speaks_1": 30.0,
+                    "ranks_1": 1.0,
+                    "speaks_2": 29.0,
+                    "ranks_2": 2.0,
+                    "speaks_total": 59.0,
+                    "ranks_total": 3.0
+                },
+                "3": {
+                    "side": "opp",
+                    "result": "w",
+                    "opponent": "yeasty beats",
+                    "judge": [
+                        "Elizabeth Carroll"
+                    ],
+                    "speaks_1": 32.0,
+                    "ranks_1": 2.0,
+                    "speaks_2": 33.0,
+                    "ranks_2": 1.0,
+                    "speaks_total": 65.0,
+                    "ranks_total": 3.0
+                },
+                "4": {
+                    "side": "gov",
+                    "result": "w",
+                    "opponent": "Naked Green Machine",
+                    "judge": [
+                        "Armaan Sheth",
+                        "Owen Mullins"
+                    ],
+                    "speaks_1": 30.0,
+                    "ranks_1": 1.0,
+                    "speaks_2": 28.0,
+                    "ranks_2": 3.0,
+                    "speaks_total": 58.0,
+                    "ranks_total": 4.0
+                },
+                "5": {
+                    "side": "gov",
+                    "result": "l",
+                    "opponent": "Live, Laugh, Dumb",
+                    "judge": [
+                        "Presley Forrest"
+                    ],
+                    "speaks_1": 32.0,
+                    "ranks_1": 4.0,
+                    "speaks_2": 33.0,
+                    "ranks_2": 3.0,
+                    "speaks_total": 65.0,
+                    "ranks_total": 7.0
+                }
+            },
+            "total_wins": 4,
+            "total_speaks_1": 155.0,
+            "total_ranks_1": 10.0,
+            "total_speaks_2": 155.0,
+            "total_ranks_2": 10.0,
+            "total_speaks": 310.0,
+            "total_ranks": 20.0
+        },
+        "girlies in the city": {
+            "debater_1": {
+                "name": "Katrina Hotaling",
+                "status": "varsity"
+            },
+            "debater_2": {
+                "name": "Matt Mauriello",
+                "status": "varsity"
+            },
+            "rounds": {
+                "1": {
+                    "side": "opp",
+                    "result": "w",
+                    "opponent": "2kool2BU",
+                    "judge": [
+                        "Irina Znamirowski"
+                    ],
+                    "speaks_1": 31.0,
+                    "ranks_1": 2.0,
+                    "speaks_2": 32.0,
+                    "ranks_2": 1.0,
+                    "speaks_total": 63.0,
+                    "ranks_total": 3.0
+                },
+                "2": {
+                    "side": "opp",
+                    "result": "l",
+                    "opponent": "perseus and peg-a-sus",
+                    "judge": [
+                        "Sam Hano"
+                    ],
+                    "speaks_1": 32.0,
+                    "ranks_1": 2.0,
+                    "speaks_2": 29.0,
+                    "ranks_2": 4.0,
+                    "speaks_total": 61.0,
+                    "ranks_total": 6.0
+                },
+                "3": {
+                    "side": "gov",
+                    "result": "w",
+                    "opponent": "Thayer St. Freeze Out",
+                    "judge": [
+                        "Sarah Moore"
+                    ],
+                    "speaks_1": 32.0,
+                    "ranks_1": 1.0,
+                    "speaks_2": 31.0,
+                    "ranks_2": 2.0,
+                    "speaks_total": 63.0,
+                    "ranks_total": 3.0
+                },
+                "4": {
+                    "side": "gov",
+                    "result": "w",
+                    "opponent": "Defer to Rishven",
+                    "judge": [
+                        "Bryan McDonough",
+                        "Presley Forrest"
+                    ],
+                    "speaks_1": 27.0,
+                    "ranks_1": 3.0,
+                    "speaks_2": 29.0,
+                    "ranks_2": 1.0,
+                    "speaks_total": 56.0,
+                    "ranks_total": 4.0
+                },
+                "5": {
+                    "side": "gov",
+                    "result": "l",
+                    "opponent": "Yale Shit List",
+                    "judge": [
+                        "Hai Tran",
+                        "Ruth Tony-Alabi"
+                    ],
+                    "speaks_1": 28.0,
+                    "ranks_1": 4.0,
+                    "speaks_2": 29.0,
+                    "ranks_2": 3.0,
+                    "speaks_total": 57.0,
+                    "ranks_total": 7.0
+                }
+            },
+            "total_wins": 3,
+            "total_speaks_1": 150.0,
+            "total_ranks_1": 12.0,
+            "total_speaks_2": 150.0,
+            "total_ranks_2": 11.0,
+            "total_speaks": 300.0,
+            "total_ranks": 23.0
+        },
+        "Gyges' Cock Ring": {
+            "debater_1": {
+                "name": "Aiden Zhang",
+                "status": "varsity"
+            },
+            "debater_2": {
+                "name": "Jehan Chanmugam",
+                "status": "varsity"
+            },
+            "rounds": {
+                "1": {
+                    "side": "opp",
+                    "result": "w",
+                    "opponent": "Walll Breakers",
+                    "judge": [
+                        "Hai Tran",
+                        "Neftali Reynoso"
+                    ],
+                    "speaks_1": 30.0,
+                    "ranks_1": 1.0,
+                    "speaks_2": 30.0,
+                    "ranks_2": 2.0,
+                    "speaks_total": 60.0,
+                    "ranks_total": 3.0
+                },
+                "2": {
+                    "side": "gov",
+                    "result": "w",
+                    "opponent": "twink death eulogists",
+                    "judge": [
+                        "David Williams",
+                        "Owen Mullins"
+                    ],
+                    "speaks_1": 32.0,
+                    "ranks_1": 1.0,
+                    "speaks_2": 30.0,
+                    "ranks_2": 3.0,
+                    "speaks_total": 62.0,
+                    "ranks_total": 4.0
+                },
+                "3": {
+                    "side": "opp",
+                    "result": "w",
+                    "opponent": "Caulipower",
+                    "judge": [
+                        "Presley Forrest",
+                        "Ruth Tony-Alabi"
+                    ],
+                    "speaks_1": 32.0,
+                    "ranks_1": 1.0,
+                    "speaks_2": 30.0,
+                    "ranks_2": 3.0,
+                    "speaks_total": 62.0,
+                    "ranks_total": 4.0
+                },
+                "4": {
+                    "side": "gov",
+                    "result": "l",
+                    "opponent": "Live, Laugh, Dumb",
+                    "judge": [
+                        "Sam Hano",
+                        "Sophia Farinella"
+                    ],
+                    "speaks_1": 30.0,
+                    "ranks_1": 4.0,
+                    "speaks_2": 31.0,
+                    "ranks_2": 3.0,
+                    "speaks_total": 61.0,
+                    "ranks_total": 7.0
+                },
+                "5": {
+                    "side": "opp",
+                    "result": "w",
+                    "opponent": "2kool2BU",
+                    "judge": [
+                        "Elizabeth Carroll"
+                    ],
+                    "speaks_1": 33.0,
+                    "ranks_1": 1.0,
+                    "speaks_2": 32.0,
+                    "ranks_2": 2.0,
+                    "speaks_total": 65.0,
+                    "ranks_total": 3.0
+                }
+            },
+            "total_wins": 4,
+            "total_speaks_1": 157.0,
+            "total_ranks_1": 8.0,
+            "total_speaks_2": 153.0,
+            "total_ranks_2": 13.0,
+            "total_speaks": 310.0,
+            "total_ranks": 21.0
+        },
+        "yeasty beats": {
+            "debater_1": {
+                "name": "Audrey Higley",
+                "status": "varsity"
+            },
+            "debater_2": {
+                "name": "Eugenie Park",
+                "status": "varsity"
+            },
+            "rounds": {
+                "1": {
+                    "side": "gov",
+                    "result": "w",
+                    "opponent": "jenga-style warrants",
+                    "judge": [
+                        "David Williams",
+                        "Ruth Tony-Alabi"
+                    ],
+                    "speaks_1": 30.0,
+                    "ranks_1": 2.0,
+                    "speaks_2": 31.0,
+                    "ranks_2": 1.0,
+                    "speaks_total": 61.0,
+                    "ranks_total": 3.0
+                },
+                "2": {
+                    "side": "opp",
+                    "result": "w",
+                    "opponent": "Yale Shit List",
+                    "judge": [
+                        "Armaan Sheth",
+                        "Ina Rahalkar"
+                    ],
+                    "speaks_1": 29.0,
+                    "ranks_1": 1.0,
+                    "speaks_2": 28.0,
+                    "ranks_2": 2.0,
+                    "speaks_total": 57.0,
+                    "ranks_total": 3.0
+                },
+                "3": {
+                    "side": "gov",
+                    "result": "l",
+                    "opponent": "Uncle Tom and Cousin Vinny",
+                    "judge": [
+                        "Elizabeth Carroll"
+                    ],
+                    "speaks_1": 29.0,
+                    "ranks_1": 4.0,
+                    "speaks_2": 31.0,
+                    "ranks_2": 3.0,
+                    "speaks_total": 60.0,
+                    "ranks_total": 7.0
+                },
+                "4": {
+                    "side": "opp",
+                    "result": "w",
+                    "opponent": "Herpes",
+                    "judge": [
+                        "Irina Znamirowski"
+                    ],
+                    "speaks_1": 32.0,
+                    "ranks_1": 1.0,
+                    "speaks_2": 32.0,
+                    "ranks_2": 2.0,
+                    "speaks_total": 64.0,
+                    "ranks_total": 3.0
+                },
+                "5": {
+                    "side": "gov",
+                    "result": "w",
+                    "opponent": "corned beefs",
+                    "judge": [
+                        "Sophia Farinella"
+                    ],
+                    "speaks_1": 28.0,
+                    "ranks_1": 2.0,
+                    "speaks_2": 30.0,
+                    "ranks_2": 1.0,
+                    "speaks_total": 58.0,
+                    "ranks_total": 3.0
+                }
+            },
+            "total_wins": 4,
+            "total_speaks_1": 148.0,
+            "total_ranks_1": 10.0,
+            "total_speaks_2": 152.0,
+            "total_ranks_2": 9.0,
+            "total_speaks": 300.0,
+            "total_ranks": 19.0
+        },
+        "we <3 sexy dads": {
+            "debater_1": {
+                "name": "Catie Mccauley",
+                "status": "novice"
+            },
+            "debater_2": {
+                "name": "Lillie Godinez",
+                "status": "novice"
+            },
+            "rounds": {
+                "1": {
+                    "side": "gov",
+                    "result": "l",
+                    "opponent": "Herpes",
+                    "judge": [
+                        "Eric Trueswell",
+                        "Ina Rahalkar"
+                    ],
+                    "speaks_1": 27.0,
+                    "ranks_1": 3.0,
+                    "speaks_2": 26.0,
+                    "ranks_2": 4.0,
+                    "speaks_total": 53.0,
+                    "ranks_total": 7.0
+                },
+                "2": {
+                    "side": "opp",
+                    "result": "w",
+                    "opponent": "mochi",
+                    "judge": [
+                        "Alina Antropova",
+                        "Bryan McDonough"
+                    ],
+                    "speaks_1": 28.0,
+                    "ranks_1": 2.0,
+                    "speaks_2": 29.0,
+                    "ranks_2": 1.0,
+                    "speaks_total": 57.0,
+                    "ranks_total": 3.0
+                },
+                "3": {
+                    "side": "opp",
+                    "result": "l",
+                    "opponent": "Victims of Communism",
+                    "judge": [
+                        "Neftali Reynoso",
+                        "Thibaut Juneja"
+                    ],
+                    "speaks_1": 27.0,
+                    "ranks_1": 3.0,
+                    "speaks_2": 26.0,
+                    "ranks_2": 4.0,
+                    "speaks_total": 53.0,
+                    "ranks_total": 7.0
+                },
+                "4": {
+                    "side": "gov",
+                    "result": "l",
+                    "opponent": "2kool2BU",
+                    "judge": [
+                        "Ruth Tony-Alabi"
+                    ],
+                    "speaks_1": 26.0,
+                    "ranks_1": 4.0,
+                    "speaks_2": 28.0,
+                    "ranks_2": 2.0,
+                    "speaks_total": 54.0,
+                    "ranks_total": 6.0
+                },
+                "5": {
+                    "side": "opp",
+                    "result": "l",
+                    "opponent": "Caulipower",
+                    "judge": [
+                        "Irina Znamirowski"
+                    ],
+                    "speaks_1": 27.0,
+                    "ranks_1": 4.0,
+                    "speaks_2": 28.0,
+                    "ranks_2": 3.0,
+                    "speaks_total": 55.0,
+                    "ranks_total": 7.0
+                }
+            },
+            "total_wins": 1,
+            "total_speaks_1": 135.0,
+            "total_ranks_1": 16.0,
+            "total_speaks_2": 137.0,
+            "total_ranks_2": 14.0,
+            "total_speaks": 272.0,
+            "total_ranks": 30.0
+        },
+        "Thayer St. Freeze Out": {
+            "debater_1": {
+                "name": "Christopher Vanderpool",
+                "status": "varsity"
+            },
+            "debater_2": {
+                "name": "James Afford",
+                "status": "novice"
+            },
+            "rounds": {
+                "1": {
+                    "side": "gov",
+                    "result": "l",
+                    "opponent": "twink death eulogists",
+                    "judge": [
+                        "Armaan Sheth",
+                        "Hannah Ditmars"
+                    ],
+                    "speaks_1": 28.0,
+                    "ranks_1": 3.0,
+                    "speaks_2": 27.0,
+                    "ranks_2": 4.0,
+                    "speaks_total": 55.0,
+                    "ranks_total": 7.0
+                },
+                "2": {
+                    "side": "gov",
+                    "result": "w",
+                    "opponent": "The Raging Poets",
+                    "judge": [
+                        "Sophia Farinella"
+                    ],
+                    "speaks_1": 26.0,
+                    "ranks_1": 3.0,
+                    "speaks_2": 28.0,
+                    "ranks_2": 1.0,
+                    "speaks_total": 54.0,
+                    "ranks_total": 4.0
+                },
+                "3": {
+                    "side": "opp",
+                    "result": "l",
+                    "opponent": "girlies in the city",
+                    "judge": [
+                        "Sarah Moore"
+                    ],
+                    "speaks_1": 27.0,
+                    "ranks_1": 4.0,
+                    "speaks_2": 28.0,
+                    "ranks_2": 3.0,
+                    "speaks_total": 55.0,
+                    "ranks_total": 7.0
+                },
+                "4": {
+                    "side": "opp",
+                    "result": "w",
+                    "opponent": "jenga-style warrants",
+                    "judge": [
+                        "Neftali Reynoso"
+                    ],
+                    "speaks_1": 32.0,
+                    "ranks_1": 1.0,
+                    "speaks_2": 31.0,
+                    "ranks_2": 3.0,
+                    "speaks_total": 63.0,
+                    "ranks_total": 4.0
+                },
+                "5": {
+                    "side": "gov",
+                    "result": "l",
+                    "opponent": "Victims of Communism",
+                    "judge": [
+                        "David Williams",
+                        "Himanshu Padnani"
+                    ],
+                    "speaks_1": 28.0,
+                    "ranks_1": 3.0,
+                    "speaks_2": 27.0,
+                    "ranks_2": 4.0,
+                    "speaks_total": 55.0,
+                    "ranks_total": 7.0
+                }
+            },
+            "total_wins": 2,
+            "total_speaks_1": 141.0,
+            "total_ranks_1": 14.0,
+            "total_speaks_2": 141.0,
+            "total_ranks_2": 15.0,
+            "total_speaks": 282.0,
+            "total_ranks": 29.0
+        },
+        "Caulipower": {
+            "debater_1": {
+                "name": "Jessica Tuchin",
+                "status": "novice"
+            },
+            "debater_2": {
+                "name": "Toby Arment",
+                "status": "varsity"
+            },
+            "rounds": {
+                "1": {
+                    "side": "opp",
+                    "result": "w",
+                    "opponent": "terriers",
+                    "judge": [
+                        "Himanshu Padnani",
+                        "Mary Tran"
+                    ],
+                    "speaks_1": 29.0,
+                    "ranks_1": 2.0,
+                    "speaks_2": 30.0,
+                    "ranks_2": 1.0,
+                    "speaks_total": 59.0,
+                    "ranks_total": 3.0
+                },
+                "2": {
+                    "side": "gov",
+                    "result": "w",
+                    "opponent": "corned beefs",
+                    "judge": [
+                        "Hannah Ditmars",
+                        "Neftali Reynoso"
+                    ],
+                    "speaks_1": 30.0,
+                    "ranks_1": 2.0,
+                    "speaks_2": 31.0,
+                    "ranks_2": 1.0,
+                    "speaks_total": 61.0,
+                    "ranks_total": 3.0
+                },
+                "3": {
+                    "side": "gov",
+                    "result": "l",
+                    "opponent": "Gyges' Cock Ring",
+                    "judge": [
+                        "Presley Forrest",
+                        "Ruth Tony-Alabi"
+                    ],
+                    "speaks_1": 29.0,
+                    "ranks_1": 4.0,
+                    "speaks_2": 31.0,
+                    "ranks_2": 2.0,
+                    "speaks_total": 60.0,
+                    "ranks_total": 6.0
+                },
+                "4": {
+                    "side": "opp",
+                    "result": "l",
+                    "opponent": "Yale Shit List",
+                    "judge": [
+                        "David Williams"
+                    ],
+                    "speaks_1": 28.0,
+                    "ranks_1": 4.0,
+                    "speaks_2": 30.0,
+                    "ranks_2": 3.0,
+                    "speaks_total": 58.0,
+                    "ranks_total": 7.0
+                },
+                "5": {
+                    "side": "gov",
+                    "result": "w",
+                    "opponent": "we <3 sexy dads",
+                    "judge": [
+                        "Irina Znamirowski"
+                    ],
+                    "speaks_1": 29.0,
+                    "ranks_1": 2.0,
+                    "speaks_2": 30.0,
+                    "ranks_2": 1.0,
+                    "speaks_total": 59.0,
+                    "ranks_total": 3.0
+                }
+            },
+            "total_wins": 3,
+            "total_speaks_1": 145.0,
+            "total_ranks_1": 14.0,
+            "total_speaks_2": 152.0,
+            "total_ranks_2": 8.0,
+            "total_speaks": 297.0,
+            "total_ranks": 22.0
+        },
+        "Naked Green Machine": {
+            "debater_1": {
+                "name": "Gabe Ritter",
+                "status": "varsity"
+            },
+            "debater_2": {
+                "name": "Mac Hays",
+                "status": "varsity"
+            },
+            "rounds": {
+                "1": {
+                    "side": "opp",
+                    "result": "w",
+                    "opponent": "Victims of Communism",
+                    "judge": [
+                        "Elizabeth Carroll"
+                    ],
+                    "speaks_1": 31.0,
+                    "ranks_1": 2.0,
+                    "speaks_2": 32.0,
+                    "ranks_2": 1.0,
+                    "speaks_total": 63.0,
+                    "ranks_total": 3.0
+                },
+                "2": {
+                    "side": "opp",
+                    "result": "w",
+                    "opponent": "Rutgers FucK",
+                    "judge": [
+                        "Irina Znamirowski",
+                        "Ruth Tony-Alabi"
+                    ],
+                    "speaks_1": 31.0,
+                    "ranks_1": 2.0,
+                    "speaks_2": 32.0,
+                    "ranks_2": 1.0,
+                    "speaks_total": 63.0,
+                    "ranks_total": 3.0
+                },
+                "3": {
+                    "side": "gov",
+                    "result": "w",
+                    "opponent": "perseus and peg-a-sus",
+                    "judge": [
+                        "Bryan McDonough"
+                    ],
+                    "speaks_1": 29.0,
+                    "ranks_1": 1.0,
+                    "speaks_2": 29.0,
+                    "ranks_2": 2.0,
+                    "speaks_total": 58.0,
+                    "ranks_total": 3.0
+                },
+                "4": {
+                    "side": "opp",
+                    "result": "l",
+                    "opponent": "Uncle Tom and Cousin Vinny",
+                    "judge": [
+                        "Armaan Sheth",
+                        "Owen Mullins"
+                    ],
+                    "speaks_1": 27.0,
+                    "ranks_1": 4.0,
+                    "speaks_2": 29.0,
+                    "ranks_2": 2.0,
+                    "speaks_total": 56.0,
+                    "ranks_total": 6.0
+                },
+                "5": {
+                    "side": "gov",
+                    "result": "w",
+                    "opponent": "twink death eulogists",
+                    "judge": [
+                        "Sarah Moore"
+                    ],
+                    "speaks_1": 33.0,
+                    "ranks_1": 3.0,
+                    "speaks_2": 33.0,
+                    "ranks_2": 1.0,
+                    "speaks_total": 66.0,
+                    "ranks_total": 4.0
+                }
+            },
+            "total_wins": 4,
+            "total_speaks_1": 151.0,
+            "total_ranks_1": 12.0,
+            "total_speaks_2": 155.0,
+            "total_ranks_2": 7.0,
+            "total_speaks": 306.0,
+            "total_ranks": 19.0
+        },
+        "perseus and peg-a-sus": {
+            "debater_1": {
+                "name": "Melanie Zhang",
+                "status": "novice"
+            },
+            "debater_2": {
+                "name": "Sierra Rodriguez",
+                "status": "varsity"
+            },
+            "rounds": {
+                "1": {
+                    "side": "opp",
+                    "result": "w",
+                    "opponent": "The Raging Poets",
+                    "judge": [
+                        "Presley Forrest"
+                    ],
+                    "speaks_1": 26.0,
+                    "ranks_1": 4.0,
+                    "speaks_2": 29.0,
+                    "ranks_2": 1.0,
+                    "speaks_total": 55.0,
+                    "ranks_total": 5.0
+                },
+                "2": {
+                    "side": "gov",
+                    "result": "w",
+                    "opponent": "girlies in the city",
+                    "judge": [
+                        "Sam Hano"
+                    ],
+                    "speaks_1": 30.0,
+                    "ranks_1": 3.0,
+                    "speaks_2": 33.0,
+                    "ranks_2": 1.0,
+                    "speaks_total": 63.0,
+                    "ranks_total": 4.0
+                },
+                "3": {
+                    "side": "opp",
+                    "result": "l",
+                    "opponent": "Naked Green Machine",
+                    "judge": [
+                        "Bryan McDonough"
+                    ],
+                    "speaks_1": 29.0,
+                    "ranks_1": 4.0,
+                    "speaks_2": 29.0,
+                    "ranks_2": 3.0,
+                    "speaks_total": 58.0,
+                    "ranks_total": 7.0
+                },
+                "4": {
+                    "side": "opp",
+                    "result": "l",
+                    "opponent": "twink death eulogists",
+                    "judge": [
+                        "Elizabeth Carroll"
+                    ],
+                    "speaks_1": 30.0,
+                    "ranks_1": 4.0,
+                    "speaks_2": 31.0,
+                    "ranks_2": 2.0,
+                    "speaks_total": 61.0,
+                    "ranks_total": 6.0
+                },
+                "5": {
+                    "side": "gov",
+                    "result": "w",
+                    "opponent": "Yale TL",
+                    "judge": [
+                        "John Albonczy",
+                        "Neftali Reynoso"
+                    ],
+                    "speaks_1": 32.0,
+                    "ranks_1": 2.0,
+                    "speaks_2": 33.0,
+                    "ranks_2": 1.0,
+                    "speaks_total": 65.0,
+                    "ranks_total": 3.0
+                }
+            },
+            "total_wins": 3,
+            "total_speaks_1": 147.0,
+            "total_ranks_1": 17.0,
+            "total_speaks_2": 155.0,
+            "total_ranks_2": 8.0,
+            "total_speaks": 302.0,
+            "total_ranks": 25.0
+        },
+        "Live, Laugh, Dumb": {
+            "debater_1": {
+                "name": "Aadhav Raviarasan",
+                "status": "varsity"
+            },
+            "debater_2": {
+                "name": "Udheesh Gaddipati",
+                "status": "varsity"
+            },
+            "rounds": {
+                "1": {
+                    "side": "gov",
+                    "result": "w",
+                    "opponent": "mochi",
+                    "judge": [
+                        "Sarah Moore"
+                    ],
+                    "speaks_1": 31.0,
+                    "ranks_1": 1.0,
+                    "speaks_2": 31.0,
+                    "ranks_2": 2.0,
+                    "speaks_total": 62.0,
+                    "ranks_total": 3.0
+                },
+                "2": {
+                    "side": "opp",
+                    "result": "w",
+                    "opponent": "Herpes",
+                    "judge": [
+                        "Elizabeth Carroll",
+                        "Thibaut Juneja"
+                    ],
+                    "speaks_1": 33.0,
+                    "ranks_1": 2.0,
+                    "speaks_2": 34.0,
+                    "ranks_2": 1.0,
+                    "speaks_total": 67.0,
+                    "ranks_total": 3.0
+                },
+                "3": {
+                    "side": "gov",
+                    "result": "w",
+                    "opponent": "philosophical Rhinos",
+                    "judge": [
+                        "Alina Antropova",
+                        "Irina Znamirowski"
+                    ],
+                    "speaks_1": 34.0,
+                    "ranks_1": 1.0,
+                    "speaks_2": 34.0,
+                    "ranks_2": 2.0,
+                    "speaks_total": 68.0,
+                    "ranks_total": 3.0
+                },
+                "4": {
+                    "side": "opp",
+                    "result": "w",
+                    "opponent": "Gyges' Cock Ring",
+                    "judge": [
+                        "Sam Hano",
+                        "Sophia Farinella"
+                    ],
+                    "speaks_1": 33.0,
+                    "ranks_1": 1.0,
+                    "speaks_2": 32.0,
+                    "ranks_2": 2.0,
+                    "speaks_total": 65.0,
+                    "ranks_total": 3.0
+                },
+                "5": {
+                    "side": "opp",
+                    "result": "w",
+                    "opponent": "Uncle Tom and Cousin Vinny",
+                    "judge": [
+                        "Presley Forrest"
+                    ],
+                    "speaks_1": 35.0,
+                    "ranks_1": 1.0,
+                    "speaks_2": 34.0,
+                    "ranks_2": 2.0,
+                    "speaks_total": 69.0,
+                    "ranks_total": 3.0
+                }
+            },
+            "total_wins": 5,
+            "total_speaks_1": 166.0,
+            "total_ranks_1": 6.0,
+            "total_speaks_2": 165.0,
+            "total_ranks_2": 9.0,
+            "total_speaks": 331.0,
+            "total_ranks": 15.0
+        },
+        "Victims of Communism": {
+            "debater_1": {
+                "name": "Cecilia Granda Scott",
+                "status": "novice"
+            },
+            "debater_2": {
+                "name": "Phuong Doan",
+                "status": "novice"
+            },
+            "rounds": {
+                "1": {
+                    "side": "gov",
+                    "result": "l",
+                    "opponent": "Naked Green Machine",
+                    "judge": [
+                        "Elizabeth Carroll"
+                    ],
+                    "speaks_1": 29.0,
+                    "ranks_1": 4.0,
+                    "speaks_2": 29.0,
+                    "ranks_2": 3.0,
+                    "speaks_total": 58.0,
+                    "ranks_total": 7.0
+                },
+                "2": {
+                    "side": "opp",
+                    "result": "w",
+                    "opponent": "terriers",
+                    "judge": [
+                        "Hai Tran",
+                        "Presley Forrest"
+                    ],
+                    "speaks_1": 29.0,
+                    "ranks_1": 1.0,
+                    "speaks_2": 28.0,
+                    "ranks_2": 2.0,
+                    "speaks_total": 57.0,
+                    "ranks_total": 3.0
+                },
+                "3": {
+                    "side": "gov",
+                    "result": "w",
+                    "opponent": "we <3 sexy dads",
+                    "judge": [
+                        "Neftali Reynoso",
+                        "Thibaut Juneja"
+                    ],
+                    "speaks_1": 28.0,
+                    "ranks_1": 2.0,
+                    "speaks_2": 29.0,
+                    "ranks_2": 1.0,
+                    "speaks_total": 57.0,
+                    "ranks_total": 3.0
+                },
+                "4": {
+                    "side": "opp",
+                    "result": "l",
+                    "opponent": "corned beefs",
+                    "judge": [
+                        "Alina Antropova",
+                        "Sarah Moore"
+                    ],
+                    "speaks_1": 30.0,
+                    "ranks_1": 2.0,
+                    "speaks_2": 29.0,
+                    "ranks_2": 4.0,
+                    "speaks_total": 59.0,
+                    "ranks_total": 6.0
+                },
+                "5": {
+                    "side": "opp",
+                    "result": "w",
+                    "opponent": "Thayer St. Freeze Out",
+                    "judge": [
+                        "David Williams",
+                        "Himanshu Padnani"
+                    ],
+                    "speaks_1": 31.0,
+                    "ranks_1": 1.0,
+                    "speaks_2": 30.0,
+                    "ranks_2": 2.0,
+                    "speaks_total": 61.0,
+                    "ranks_total": 3.0
+                }
+            },
+            "total_wins": 3,
+            "total_speaks_1": 147.0,
+            "total_ranks_1": 10.0,
+            "total_speaks_2": 145.0,
+            "total_ranks_2": 12.0,
+            "total_speaks": 292.0,
+            "total_ranks": 22.0
+        },
+        "Herpes": {
+            "debater_1": {
+                "name": "Chloe Yim",
+                "status": "novice"
+            },
+            "debater_2": {
+                "name": "Tristan Moore",
+                "status": "varsity"
+            },
+            "rounds": {
+                "1": {
+                    "side": "opp",
+                    "result": "w",
+                    "opponent": "we <3 sexy dads",
+                    "judge": [
+                        "Eric Trueswell",
+                        "Ina Rahalkar"
+                    ],
+                    "speaks_1": 29.0,
+                    "ranks_1": 1.0,
+                    "speaks_2": 28.0,
+                    "ranks_2": 2.0,
+                    "speaks_total": 57.0,
+                    "ranks_total": 3.0
+                },
+                "2": {
+                    "side": "gov",
+                    "result": "l",
+                    "opponent": "Live, Laugh, Dumb",
+                    "judge": [
+                        "Elizabeth Carroll",
+                        "Thibaut Juneja"
+                    ],
+                    "speaks_1": 29.0,
+                    "ranks_1": 4.0,
+                    "speaks_2": 31.0,
+                    "ranks_2": 3.0,
+                    "speaks_total": 60.0,
+                    "ranks_total": 7.0
+                },
+                "3": {
+                    "side": "opp",
+                    "result": "w",
+                    "opponent": "Yale TL",
+                    "judge": [
+                        "Armaan Sheth",
+                        "Sean Roth"
+                    ],
+                    "speaks_1": 27.0,
+                    "ranks_1": 2.0,
+                    "speaks_2": 28.0,
+                    "ranks_2": 1.0,
+                    "speaks_total": 55.0,
+                    "ranks_total": 3.0
+                },
+                "4": {
+                    "side": "gov",
+                    "result": "l",
+                    "opponent": "yeasty beats",
+                    "judge": [
+                        "Irina Znamirowski"
+                    ],
+                    "speaks_1": 31.0,
+                    "ranks_1": 3.0,
+                    "speaks_2": 30.0,
+                    "ranks_2": 4.0,
+                    "speaks_total": 61.0,
+                    "ranks_total": 7.0
+                },
+                "5": {
+                    "side": "gov",
+                    "result": "w",
+                    "opponent": "Walll Breakers",
+                    "judge": [
+                        "Alina Antropova",
+                        "Hannah Ditmars"
+                    ],
+                    "speaks_1": 27.0,
+                    "ranks_1": 2.0,
+                    "speaks_2": 28.0,
+                    "ranks_2": 1.0,
+                    "speaks_total": 55.0,
+                    "ranks_total": 3.0
+                }
+            },
+            "total_wins": 3,
+            "total_speaks_1": 143.0,
+            "total_ranks_1": 12.0,
+            "total_speaks_2": 145.0,
+            "total_ranks_2": 11.0,
+            "total_speaks": 288.0,
+            "total_ranks": 23.0
+        },
+        "The Raging Poets": {
+            "debater_1": {
+                "name": "Arnold Miao",
+                "status": "novice"
+            },
+            "debater_2": {
+                "name": "Neil Kapur",
+                "status": "novice"
+            },
+            "rounds": {
+                "1": {
+                    "side": "gov",
+                    "result": "l",
+                    "opponent": "perseus and peg-a-sus",
+                    "judge": [
+                        "Presley Forrest"
+                    ],
+                    "speaks_1": 27.0,
+                    "ranks_1": 3.0,
+                    "speaks_2": 28.0,
+                    "ranks_2": 2.0,
+                    "speaks_total": 55.0,
+                    "ranks_total": 5.0
+                },
+                "2": {
+                    "side": "opp",
+                    "result": "l",
+                    "opponent": "Thayer St. Freeze Out",
+                    "judge": [
+                        "Sophia Farinella"
+                    ],
+                    "speaks_1": 25.0,
+                    "ranks_1": 4.0,
+                    "speaks_2": 26.0,
+                    "ranks_2": 2.0,
+                    "speaks_total": 51.0,
+                    "ranks_total": 6.0
+                },
+                "3": {
+                    "side": "gov",
+                    "result": "l",
+                    "opponent": "2kool2BU",
+                    "judge": [
+                        "Eric Trueswell",
+                        "Himanshu Padnani"
+                    ],
+                    "speaks_1": 24.0,
+                    "ranks_1": 4.0,
+                    "speaks_2": 26.0,
+                    "ranks_2": 2.0,
+                    "speaks_total": 50.0,
+                    "ranks_total": 6.0
+                },
+                "4": {
+                    "side": null,
+                    "result": "forfeit",
+                    "opponent": null,
+                    "judge": null,
+                    "speaks_1": 0.0,
+                    "ranks_1": 0.0,
+                    "speaks_2": 0.0,
+                    "ranks_2": 0.0,
+                    "speaks_total": 0.0,
+                    "ranks_total": 0.0
+                },
+                "5": {
+                    "side": null,
+                    "result": "forfeit",
+                    "opponent": null,
+                    "judge": null,
+                    "speaks_1": 0.0,
+                    "ranks_1": 0.0,
+                    "speaks_2": 0.0,
+                    "ranks_2": 0.0,
+                    "speaks_total": 0.0,
+                    "ranks_total": 0.0
+                }
+            },
+            "total_wins": 0,
+            "total_speaks_1": 76.0,
+            "total_ranks_1": 11.0,
+            "total_speaks_2": 80.0,
+            "total_ranks_2": 6.0,
+            "total_speaks": 156.0,
+            "total_ranks": 17.0
+        },
+        "Defer to Rishven": {
+            "debater_1": {
+                "name": "Muxi Yu",
+                "status": "novice"
+            },
+            "debater_2": {
+                "name": "Rishven Pravin",
+                "status": "varsity"
+            },
+            "rounds": {
+                "1": {
+                    "side": "gov",
+                    "result": "l",
+                    "opponent": "Yale Shit List",
+                    "judge": [
+                        "Alina Antropova",
+                        "John Albonczy"
+                    ],
+                    "speaks_1": 27.0,
+                    "ranks_1": 4.0,
+                    "speaks_2": 27.0,
+                    "ranks_2": 3.0,
+                    "speaks_total": 54.0,
+                    "ranks_total": 7.0
+                },
+                "2": {
+                    "side": "opp",
+                    "result": "l",
+                    "opponent": "Walll Breakers",
+                    "judge": [
+                        "Eric Trueswell",
+                        "Himanshu Padnani"
+                    ],
+                    "speaks_1": 24.0,
+                    "ranks_1": 4.0,
+                    "speaks_2": 26.0,
+                    "ranks_2": 2.0,
+                    "speaks_total": 50.0,
+                    "ranks_total": 6.0
+                },
+                "3": {
+                    "side": null,
+                    "result": "bye",
+                    "opponent": null,
+                    "judge": null,
+                    "speaks_1": "average",
+                    "ranks_1": "average",
+                    "speaks_2": "average",
+                    "ranks_2": "average",
+                    "speaks_total": "average",
+                    "ranks_total": "average"
+                },
+                "4": {
+                    "side": "opp",
+                    "result": "l",
+                    "opponent": "girlies in the city",
+                    "judge": [
+                        "Bryan McDonough",
+                        "Presley Forrest"
+                    ],
+                    "speaks_1": 27.0,
+                    "ranks_1": 4.0,
+                    "speaks_2": 29.0,
+                    "ranks_2": 2.0,
+                    "speaks_total": 56.0,
+                    "ranks_total": 6.0
+                },
+                "5": {
+                    "side": "gov",
+                    "result": "w",
+                    "opponent": "jenga-style warrants",
+                    "judge": [
+                        "Owen Mullins"
+                    ],
+                    "speaks_1": 28.0,
+                    "ranks_1": 2.0,
+                    "speaks_2": 29.0,
+                    "ranks_2": 1.0,
+                    "speaks_total": 57.0,
+                    "ranks_total": 3.0
+                }
+            },
+            "total_wins": 2,
+            "total_speaks_1": 132.5,
+            "total_ranks_1": 17.5,
+            "total_speaks_2": 138.75,
+            "total_ranks_2": 10.0,
+            "total_speaks": 271.25,
+            "total_ranks": 27.5
+        },
+        "2kool2BU": {
+            "debater_1": {
+                "name": "Joe Clark",
+                "status": "novice"
+            },
+            "debater_2": {
+                "name": "Thibaut Stussi",
+                "status": "varsity"
+            },
+            "rounds": {
+                "1": {
+                    "side": "gov",
+                    "result": "l",
+                    "opponent": "girlies in the city",
+                    "judge": [
+                        "Irina Znamirowski"
+                    ],
+                    "speaks_1": 26.0,
+                    "ranks_1": 4.0,
+                    "speaks_2": 29.0,
+                    "ranks_2": 3.0,
+                    "speaks_total": 55.0,
+                    "ranks_total": 7.0
+                },
+                "2": {
+                    "side": "opp",
+                    "result": "l",
+                    "opponent": "jenga-style warrants",
+                    "judge": [
+                        "John Albonczy",
+                        "Mary Tran"
+                    ],
+                    "speaks_1": 26.0,
+                    "ranks_1": 4.0,
+                    "speaks_2": 27.0,
+                    "ranks_2": 2.0,
+                    "speaks_total": 53.0,
+                    "ranks_total": 6.0
+                },
+                "3": {
+                    "side": "opp",
+                    "result": "w",
+                    "opponent": "The Raging Poets",
+                    "judge": [
+                        "Eric Trueswell",
+                        "Himanshu Padnani"
+                    ],
+                    "speaks_1": 25.0,
+                    "ranks_1": 3.0,
+                    "speaks_2": 27.0,
+                    "ranks_2": 1.0,
+                    "speaks_total": 52.0,
+                    "ranks_total": 4.0
+                },
+                "4": {
+                    "side": "opp",
+                    "result": "w",
+                    "opponent": "we <3 sexy dads",
+                    "judge": [
+                        "Ruth Tony-Alabi"
+                    ],
+                    "speaks_1": 27.0,
+                    "ranks_1": 3.0,
+                    "speaks_2": 29.0,
+                    "ranks_2": 1.0,
+                    "speaks_total": 56.0,
+                    "ranks_total": 4.0
+                },
+                "5": {
+                    "side": "gov",
+                    "result": "l",
+                    "opponent": "Gyges' Cock Ring",
+                    "judge": [
+                        "Elizabeth Carroll"
+                    ],
+                    "speaks_1": 28.0,
+                    "ranks_1": 4.0,
+                    "speaks_2": 31.0,
+                    "ranks_2": 3.0,
+                    "speaks_total": 59.0,
+                    "ranks_total": 7.0
+                }
+            },
+            "total_wins": 2,
+            "total_speaks_1": 132.0,
+            "total_ranks_1": 18.0,
+            "total_speaks_2": 143.0,
+            "total_ranks_2": 10.0,
+            "total_speaks": 275.0,
+            "total_ranks": 28.0
+        },
+        "mochi": {
+            "debater_1": {
+                "name": "Franklin Wibisono",
+                "status": "novice"
+            },
+            "debater_2": {
+                "name": "Rachel Liu",
+                "status": "varsity"
+            },
+            "rounds": {
+                "1": {
+                    "side": "opp",
+                    "result": "l",
+                    "opponent": "Live, Laugh, Dumb",
+                    "judge": [
+                        "Sarah Moore"
+                    ],
+                    "speaks_1": 29.0,
+                    "ranks_1": 4.0,
+                    "speaks_2": 30.0,
+                    "ranks_2": 3.0,
+                    "speaks_total": 59.0,
+                    "ranks_total": 7.0
+                },
+                "2": {
+                    "side": "gov",
+                    "result": "l",
+                    "opponent": "we <3 sexy dads",
+                    "judge": [
+                        "Alina Antropova",
+                        "Bryan McDonough"
+                    ],
+                    "speaks_1": 28.0,
+                    "ranks_1": 3.0,
+                    "speaks_2": 27.0,
+                    "ranks_2": 4.0,
+                    "speaks_total": 55.0,
+                    "ranks_total": 7.0
+                },
+                "3": {
+                    "side": "gov",
+                    "result": "w",
+                    "opponent": "Rutgers FucK",
+                    "judge": [
+                        "Hai Tran",
+                        "John Albonczy"
+                    ],
+                    "speaks_1": 28.0,
+                    "ranks_1": 1.0,
+                    "speaks_2": 28.0,
+                    "ranks_2": 2.0,
+                    "speaks_total": 56.0,
+                    "ranks_total": 3.0
+                },
+                "4": {
+                    "side": null,
+                    "result": "forfeit",
+                    "opponent": null,
+                    "judge": null,
+                    "speaks_1": 0.0,
+                    "ranks_1": 0.0,
+                    "speaks_2": 0.0,
+                    "ranks_2": 0.0,
+                    "speaks_total": 0.0,
+                    "ranks_total": 0.0
+                },
+                "5": {
+                    "side": null,
+                    "result": "forfeit",
+                    "opponent": null,
+                    "judge": null,
+                    "speaks_1": 0.0,
+                    "ranks_1": 0.0,
+                    "speaks_2": 0.0,
+                    "ranks_2": 0.0,
+                    "speaks_total": 0.0,
+                    "ranks_total": 0.0
+                }
+            },
+            "total_wins": 1,
+            "total_speaks_1": 85.0,
+            "total_ranks_1": 8.0,
+            "total_speaks_2": 85.0,
+            "total_ranks_2": 9.0,
+            "total_speaks": 170.0,
+            "total_ranks": 17.0
+        },
+        "philosophical Rhinos": {
+            "debater_1": {
+                "name": "Alice Merchant",
+                "status": "novice"
+            },
+            "debater_2": {
+                "name": "Clemente Nicado Yelmente",
+                "status": "novice"
+            },
+            "rounds": {
+                "1": {
+                    "side": "gov",
+                    "result": "l",
+                    "opponent": "Uncle Tom and Cousin Vinny",
+                    "judge": [
+                        "Sam Hano",
+                        "Thibaut Juneja"
+                    ],
+                    "speaks_1": 25.0,
+                    "ranks_1": 4.0,
+                    "speaks_2": 27.0,
+                    "ranks_2": 3.0,
+                    "speaks_total": 52.0,
+                    "ranks_total": 7.0
+                },
+                "2": {
+                    "side": null,
+                    "result": "bye",
+                    "opponent": null,
+                    "judge": null,
+                    "speaks_1": "average",
+                    "ranks_1": "average",
+                    "speaks_2": "average",
+                    "ranks_2": "average",
+                    "speaks_total": "average",
+                    "ranks_total": "average"
+                },
+                "3": {
+                    "side": "opp",
+                    "result": "l",
+                    "opponent": "Live, Laugh, Dumb",
+                    "judge": [
+                        "Alina Antropova",
+                        "Irina Znamirowski"
+                    ],
+                    "speaks_1": 25.0,
+                    "ranks_1": 4.0,
+                    "speaks_2": 32.0,
+                    "ranks_2": 3.0,
+                    "speaks_total": 57.0,
+                    "ranks_total": 7.0
+                },
+                "4": {
+                    "side": "gov",
+                    "result": "l",
+                    "opponent": "Yale TL",
+                    "judge": [
+                        "Himanshu Padnani"
+                    ],
+                    "speaks_1": 25.0,
+                    "ranks_1": 4.0,
+                    "speaks_2": 27.0,
+                    "ranks_2": 3.0,
+                    "speaks_total": 52.0,
+                    "ranks_total": 7.0
+                },
+                "5": {
+                    "side": "opp",
+                    "result": "l",
+                    "opponent": "Rutgers FucK",
+                    "judge": [
+                        "Armaan Sheth"
+                    ],
+                    "speaks_1": 24.0,
+                    "ranks_1": 4.0,
+                    "speaks_2": 25.0,
+                    "ranks_2": 3.0,
+                    "speaks_total": 49.0,
+                    "ranks_total": 7.0
+                }
+            },
+            "total_wins": 1,
+            "total_speaks_1": 123.75,
+            "total_ranks_1": 20.0,
+            "total_speaks_2": 138.75,
+            "total_ranks_2": 15.0,
+            "total_speaks": 262.5,
+            "total_ranks": 35.0
+        },
+        "terriers": {
+            "debater_1": {
+                "name": "Meichi Yu",
+                "status": "novice"
+            },
+            "debater_2": {
+                "name": "Rui Gong",
+                "status": "novice"
+            },
+            "rounds": {
+                "1": {
+                    "side": "gov",
+                    "result": "l",
+                    "opponent": "Caulipower",
+                    "judge": [
+                        "Himanshu Padnani",
+                        "Mary Tran"
+                    ],
+                    "speaks_1": 26.0,
+                    "ranks_1": 3.0,
+                    "speaks_2": 26.0,
+                    "ranks_2": 4.0,
+                    "speaks_total": 52.0,
+                    "ranks_total": 7.0
+                },
+                "2": {
+                    "side": "gov",
+                    "result": "l",
+                    "opponent": "Victims of Communism",
+                    "judge": [
+                        "Hai Tran",
+                        "Presley Forrest"
+                    ],
+                    "speaks_1": 25.0,
+                    "ranks_1": 3.0,
+                    "speaks_2": 24.0,
+                    "ranks_2": 4.0,
+                    "speaks_total": 49.0,
+                    "ranks_total": 7.0
+                },
+                "3": {
+                    "side": "opp",
+                    "result": "l",
+                    "opponent": "twink death eulogists",
+                    "judge": [
+                        "Ina Rahalkar",
+                        "Sam Hano"
+                    ],
+                    "speaks_1": 24.0,
+                    "ranks_1": 4.0,
+                    "speaks_2": 25.0,
+                    "ranks_2": 3.0,
+                    "speaks_total": 49.0,
+                    "ranks_total": 7.0
+                },
+                "4": {
+                    "side": "opp",
+                    "result": "l",
+                    "opponent": "Walll Breakers",
+                    "judge": [
+                        "John Albonczy"
+                    ],
+                    "speaks_1": 26.0,
+                    "ranks_1": 4.0,
+                    "speaks_2": 27.0,
+                    "ranks_2": 3.0,
+                    "speaks_total": 53.0,
+                    "ranks_total": 7.0
+                },
+                "5": {
+                    "side": null,
+                    "result": "bye",
+                    "opponent": null,
+                    "judge": null,
+                    "speaks_1": "average",
+                    "ranks_1": "average",
+                    "speaks_2": "average",
+                    "ranks_2": "average",
+                    "speaks_total": "average",
+                    "ranks_total": "average"
+                }
+            },
+            "total_wins": 1,
+            "total_speaks_1": 126.25,
+            "total_ranks_1": 17.5,
+            "total_speaks_2": 127.5,
+            "total_ranks_2": 17.5,
+            "total_speaks": 253.75,
+            "total_ranks": 35.0
+        },
+        "twink death eulogists": {
+            "debater_1": {
+                "name": "Eva Bruce",
+                "status": "varsity"
+            },
+            "debater_2": {
+                "name": "Shyla Summers",
+                "status": "varsity"
+            },
+            "rounds": {
+                "1": {
+                    "side": "opp",
+                    "result": "w",
+                    "opponent": "Thayer St. Freeze Out",
+                    "judge": [
+                        "Armaan Sheth",
+                        "Hannah Ditmars"
+                    ],
+                    "speaks_1": 30.0,
+                    "ranks_1": 1.0,
+                    "speaks_2": 29.0,
+                    "ranks_2": 2.0,
+                    "speaks_total": 59.0,
+                    "ranks_total": 3.0
+                },
+                "2": {
+                    "side": "opp",
+                    "result": "l",
+                    "opponent": "Gyges' Cock Ring",
+                    "judge": [
+                        "David Williams",
+                        "Owen Mullins"
+                    ],
+                    "speaks_1": 31.0,
+                    "ranks_1": 2.0,
+                    "speaks_2": 30.0,
+                    "ranks_2": 4.0,
+                    "speaks_total": 61.0,
+                    "ranks_total": 6.0
+                },
+                "3": {
+                    "side": "gov",
+                    "result": "w",
+                    "opponent": "terriers",
+                    "judge": [
+                        "Ina Rahalkar",
+                        "Sam Hano"
+                    ],
+                    "speaks_1": 27.0,
+                    "ranks_1": 1.0,
+                    "speaks_2": 26.0,
+                    "ranks_2": 2.0,
+                    "speaks_total": 53.0,
+                    "ranks_total": 3.0
+                },
+                "4": {
+                    "side": "gov",
+                    "result": "w",
+                    "opponent": "perseus and peg-a-sus",
+                    "judge": [
+                        "Elizabeth Carroll"
+                    ],
+                    "speaks_1": 32.0,
+                    "ranks_1": 1.0,
+                    "speaks_2": 31.0,
+                    "ranks_2": 3.0,
+                    "speaks_total": 63.0,
+                    "ranks_total": 4.0
+                },
+                "5": {
+                    "side": "opp",
+                    "result": "l",
+                    "opponent": "Naked Green Machine",
+                    "judge": [
+                        "Sarah Moore"
+                    ],
+                    "speaks_1": 33.0,
+                    "ranks_1": 2.0,
+                    "speaks_2": 33.0,
+                    "ranks_2": 4.0,
+                    "speaks_total": 66.0,
+                    "ranks_total": 6.0
+                }
+            },
+            "total_wins": 3,
+            "total_speaks_1": 153.0,
+            "total_ranks_1": 7.0,
+            "total_speaks_2": 149.0,
+            "total_ranks_2": 15.0,
+            "total_speaks": 302.0,
+            "total_ranks": 22.0
+        },
+        "Yale TL": {
+            "debater_1": {
+                "name": "Bradley Tidwel",
+                "status": "varsity"
+            },
+            "debater_2": {
+                "name": "Frank Lin",
+                "status": "novice"
+            },
+            "rounds": {
+                "1": {
+                    "side": "gov",
+                    "result": "w",
+                    "opponent": "Rutgers FucK",
+                    "judge": [
+                        "Owen Mullins",
+                        "Sophia Farinella"
+                    ],
+                    "speaks_1": 27.0,
+                    "ranks_1": 1.0,
+                    "speaks_2": 26.0,
+                    "ranks_2": 2.0,
+                    "speaks_total": 53.0,
+                    "ranks_total": 3.0
+                },
+                "2": {
+                    "side": "opp",
+                    "result": "l",
+                    "opponent": "Uncle Tom and Cousin Vinny",
+                    "judge": [
+                        "Sarah Moore"
+                    ],
+                    "speaks_1": 28.0,
+                    "ranks_1": 3.0,
+                    "speaks_2": 28.0,
+                    "ranks_2": 4.0,
+                    "speaks_total": 56.0,
+                    "ranks_total": 7.0
+                },
+                "3": {
+                    "side": "gov",
+                    "result": "l",
+                    "opponent": "Herpes",
+                    "judge": [
+                        "Armaan Sheth",
+                        "Sean Roth"
+                    ],
+                    "speaks_1": 25.0,
+                    "ranks_1": 4.0,
+                    "speaks_2": 26.0,
+                    "ranks_2": 3.0,
+                    "speaks_total": 51.0,
+                    "ranks_total": 7.0
+                },
+                "4": {
+                    "side": "opp",
+                    "result": "w",
+                    "opponent": "philosophical Rhinos",
+                    "judge": [
+                        "Himanshu Padnani"
+                    ],
+                    "speaks_1": 30.0,
+                    "ranks_1": 1.0,
+                    "speaks_2": 30.0,
+                    "ranks_2": 2.0,
+                    "speaks_total": 60.0,
+                    "ranks_total": 3.0
+                },
+                "5": {
+                    "side": "opp",
+                    "result": "l",
+                    "opponent": "perseus and peg-a-sus",
+                    "judge": [
+                        "John Albonczy",
+                        "Neftali Reynoso"
+                    ],
+                    "speaks_1": 32.0,
+                    "ranks_1": 3.0,
+                    "speaks_2": 31.0,
+                    "ranks_2": 4.0,
+                    "speaks_total": 63.0,
+                    "ranks_total": 7.0
+                }
+            },
+            "total_wins": 2,
+            "total_speaks_1": 142.0,
+            "total_ranks_1": 12.0,
+            "total_speaks_2": 141.0,
+            "total_ranks_2": 15.0,
+            "total_speaks": 283.0,
+            "total_ranks": 27.0
+        },
+        "Yale Shit List": {
+            "debater_1": {
+                "name": "Felix Leonhardt",
+                "status": "novice"
+            },
+            "debater_2": {
+                "name": "Naz Soysal",
+                "status": "novice"
+            },
+            "rounds": {
+                "1": {
+                    "side": "opp",
+                    "result": "w",
+                    "opponent": "Defer to Rishven",
+                    "judge": [
+                        "Alina Antropova",
+                        "John Albonczy"
+                    ],
+                    "speaks_1": 28.0,
+                    "ranks_1": 2.0,
+                    "speaks_2": 29.0,
+                    "ranks_2": 1.0,
+                    "speaks_total": 57.0,
+                    "ranks_total": 3.0
+                },
+                "2": {
+                    "side": "gov",
+                    "result": "l",
+                    "opponent": "yeasty beats",
+                    "judge": [
+                        "Armaan Sheth",
+                        "Ina Rahalkar"
+                    ],
+                    "speaks_1": 26.0,
+                    "ranks_1": 4.0,
+                    "speaks_2": 27.0,
+                    "ranks_2": 3.0,
+                    "speaks_total": 53.0,
+                    "ranks_total": 7.0
+                },
+                "3": {
+                    "side": "opp",
+                    "result": "w",
+                    "opponent": "jenga-style warrants",
+                    "judge": [
+                        "Hannah Ditmars",
+                        "Sophia Farinella"
+                    ],
+                    "speaks_1": 25.0,
+                    "ranks_1": 2.0,
+                    "speaks_2": 26.0,
+                    "ranks_2": 1.0,
+                    "speaks_total": 51.0,
+                    "ranks_total": 3.0
+                },
+                "4": {
+                    "side": "gov",
+                    "result": "w",
+                    "opponent": "Caulipower",
+                    "judge": [
+                        "David Williams"
+                    ],
+                    "speaks_1": 31.0,
+                    "ranks_1": 2.0,
+                    "speaks_2": 31.0,
+                    "ranks_2": 1.0,
+                    "speaks_total": 62.0,
+                    "ranks_total": 3.0
+                },
+                "5": {
+                    "side": "opp",
+                    "result": "w",
+                    "opponent": "girlies in the city",
+                    "judge": [
+                        "Hai Tran",
+                        "Ruth Tony-Alabi"
+                    ],
+                    "speaks_1": 31.0,
+                    "ranks_1": 1.0,
+                    "speaks_2": 30.0,
+                    "ranks_2": 2.0,
+                    "speaks_total": 61.0,
+                    "ranks_total": 3.0
+                }
+            },
+            "total_wins": 4,
+            "total_speaks_1": 141.0,
+            "total_ranks_1": 11.0,
+            "total_speaks_2": 143.0,
+            "total_ranks_2": 8.0,
+            "total_speaks": 284.0,
+            "total_ranks": 19.0
+        },
+        "Rutgers FucK": {
+            "debater_1": {
+                "name": "Robert Fu",
+                "status": "novice"
+            },
+            "debater_2": {
+                "name": "Stav Kanza-Levi",
+                "status": "varsity"
+            },
+            "rounds": {
+                "1": {
+                    "side": "opp",
+                    "result": "l",
+                    "opponent": "Yale TL",
+                    "judge": [
+                        "Owen Mullins",
+                        "Sophia Farinella"
+                    ],
+                    "speaks_1": 24.0,
+                    "ranks_1": 3.0,
+                    "speaks_2": 23.0,
+                    "ranks_2": 4.0,
+                    "speaks_total": 47.0,
+                    "ranks_total": 7.0
+                },
+                "2": {
+                    "side": "gov",
+                    "result": "l",
+                    "opponent": "Naked Green Machine",
+                    "judge": [
+                        "Irina Znamirowski",
+                        "Ruth Tony-Alabi"
+                    ],
+                    "speaks_1": 29.0,
+                    "ranks_1": 4.0,
+                    "speaks_2": 29.0,
+                    "ranks_2": 3.0,
+                    "speaks_total": 58.0,
+                    "ranks_total": 7.0
+                },
+                "3": {
+                    "side": "opp",
+                    "result": "l",
+                    "opponent": "mochi",
+                    "judge": [
+                        "Hai Tran",
+                        "John Albonczy"
+                    ],
+                    "speaks_1": 27.0,
+                    "ranks_1": 3.0,
+                    "speaks_2": 27.0,
+                    "ranks_2": 4.0,
+                    "speaks_total": 54.0,
+                    "ranks_total": 7.0
+                },
+                "4": {
+                    "side": null,
+                    "result": "bye",
+                    "opponent": null,
+                    "judge": null,
+                    "speaks_1": "average",
+                    "ranks_1": "average",
+                    "speaks_2": "average",
+                    "ranks_2": "average",
+                    "speaks_total": "average",
+                    "ranks_total": "average"
+                },
+                "5": {
+                    "side": "gov",
+                    "result": "w",
+                    "opponent": "philosophical Rhinos",
+                    "judge": [
+                        "Armaan Sheth"
+                    ],
+                    "speaks_1": 27.0,
+                    "ranks_1": 2.0,
+                    "speaks_2": 28.0,
+                    "ranks_2": 1.0,
+                    "speaks_total": 55.0,
+                    "ranks_total": 3.0
+                }
+            },
+            "total_wins": 2,
+            "total_speaks_1": 133.75,
+            "total_ranks_1": 15.0,
+            "total_speaks_2": 133.75,
+            "total_ranks_2": 15.0,
+            "total_speaks": 267.5,
+            "total_ranks": 30.0
+        }
+    },
+    "rounds": {
+        "1": [
+            {
+                "bye": "corned beefs",
+                "bracket": 0
+            },
+            {
+                "gov_team": "yeasty beats",
+                "gov_bracket": 0,
+                "gov_result": "w",
+                "gov_1": "Audrey Higley",
+                "gov_1_speaks": 30.0,
+                "gov_1_ranks": 2.0,
+                "gov_2": "Eugenie Park",
+                "gov_2_speaks": 31.0,
+                "gov_2_ranks": 1.0,
+                "opp_team": "jenga-style warrants",
+                "opp_bracket": 0,
+                "opp_result": "l",
+                "opp_1": "Paola Apolinario",
+                "opp_1_speaks": 28.0,
+                "opp_1_ranks": 4.0,
+                "opp_2": "Sebastian Cardena",
+                "opp_2_speaks": 28.0,
+                "opp_2_ranks": 3.0,
+                "judge": "David Williams, Ruth Tony Alabi"
+            },
+            {
+                "gov_team": "Walll Breakers",
+                "gov_bracket": 0,
+                "gov_result": "l",
+                "gov_1": "Evan Steinberg",
+                "gov_1_speaks": 28.0,
+                "gov_1_ranks": 4.0,
+                "gov_2": "Sam Sulzinsky",
+                "gov_2_speaks": 29.0,
+                "gov_2_ranks": 3.0,
+                "opp_team": "Gyges' Cock Ring",
+                "opp_bracket": 0,
+                "opp_result": "w",
+                "opp_1": "Aiden Zhang",
+                "opp_1_speaks": 30.0,
+                "opp_1_ranks": 1.0,
+                "opp_2": "Jehan Chanmugam",
+                "opp_2_speaks": 30.0,
+                "opp_2_ranks": 2.0,
+                "judge": "Hai Tran, Neftali Reynoso"
+            },
+            {
+                "gov_team": "philosophical Rhinos",
+                "gov_bracket": 0,
+                "gov_result": "l",
+                "gov_1": "Alice Merchant",
+                "gov_1_speaks": 25.0,
+                "gov_1_ranks": 4.0,
+                "gov_2": "Clemente Nicado Yelmente",
+                "gov_2_speaks": 27.0,
+                "gov_2_ranks": 3.0,
+                "opp_team": "Uncle Tom and Cousin Vinny",
+                "opp_bracket": 0,
+                "opp_result": "w",
+                "opp_1": "Ahmad Howard",
+                "opp_1_speaks": 31.0,
+                "opp_1_ranks": 2.0,
+                "opp_2": "Nick DeVito",
+                "opp_2_speaks": 32.0,
+                "opp_2_ranks": 1.0,
+                "judge": "Sam Hano, Thibaut Juneja"
+            },
+            {
+                "gov_team": "2kool2BU",
+                "gov_bracket": 0,
+                "gov_result": "l",
+                "gov_1": "Joe Clark",
+                "gov_1_speaks": 26.0,
+                "gov_1_ranks": 4.0,
+                "gov_2": "Thibaut Stussi",
+                "gov_2_speaks": 29.0,
+                "gov_2_ranks": 3.0,
+                "opp_team": "girlies in the city",
+                "opp_bracket": 0,
+                "opp_result": "w",
+                "opp_1": "Katrina Hotaling",
+                "opp_1_speaks": 31.0,
+                "opp_1_ranks": 2.0,
+                "opp_2": "Matt Mauriello",
+                "opp_2_speaks": 32.0,
+                "opp_2_ranks": 1.0,
+                "judge": "Irina Znamirowski"
+            },
+            {
+                "gov_team": "we <3 sexy dads",
+                "gov_bracket": 0,
+                "gov_result": "l",
+                "gov_1": "Catie Mccauley",
+                "gov_1_speaks": 27.0,
+                "gov_1_ranks": 3.0,
+                "gov_2": "Lillie Godinez",
+                "gov_2_speaks": 26.0,
+                "gov_2_ranks": 4.0,
+                "opp_team": "Herpes",
+                "opp_bracket": 0,
+                "opp_result": "w",
+                "opp_1": "Chloe Yim",
+                "opp_1_speaks": 29.0,
+                "opp_1_ranks": 1.0,
+                "opp_2": "Tristan Moore",
+                "opp_2_speaks": 28.0,
+                "opp_2_ranks": 2.0,
+                "judge": "Eric Trueswell, Ina Rahalkar"
+            },
+            {
+                "gov_team": "Thayer St. Freeze Out",
+                "gov_bracket": 0,
+                "gov_result": "l",
+                "gov_1": "Christopher Vanderpool",
+                "gov_1_speaks": 28.0,
+                "gov_1_ranks": 3.0,
+                "gov_2": "James Afford",
+                "gov_2_speaks": 27.0,
+                "gov_2_ranks": 4.0,
+                "opp_team": "twink death eulogists",
+                "opp_bracket": 0,
+                "opp_result": "w",
+                "opp_1": "Eva Bruce",
+                "opp_1_speaks": 30.0,
+                "opp_1_ranks": 1.0,
+                "opp_2": "Shyla Summers",
+                "opp_2_speaks": 29.0,
+                "opp_2_ranks": 2.0,
+                "judge": "Armaan Sheth, Hannah Ditmars"
+            },
+            {
+                "gov_team": "terriers",
+                "gov_bracket": 0,
+                "gov_result": "l",
+                "gov_1": "Meichi Yu",
+                "gov_1_speaks": 26.0,
+                "gov_1_ranks": 3.0,
+                "gov_2": "Rui Gong",
+                "gov_2_speaks": 26.0,
+                "gov_2_ranks": 4.0,
+                "opp_team": "Caulipower",
+                "opp_bracket": 0,
+                "opp_result": "w",
+                "opp_1": "Jessica Tuchin",
+                "opp_1_speaks": 29.0,
+                "opp_1_ranks": 2.0,
+                "opp_2": "Toby Arment",
+                "opp_2_speaks": 30.0,
+                "opp_2_ranks": 1.0,
+                "judge": "Himanshu Padnani, Mary Tran"
+            },
+            {
+                "gov_team": "Victims of Communism",
+                "gov_bracket": 0,
+                "gov_result": "l",
+                "gov_1": "Cecilia Granda Scott",
+                "gov_1_speaks": 29.0,
+                "gov_1_ranks": 4.0,
+                "gov_2": "Phuong Doan",
+                "gov_2_speaks": 29.0,
+                "gov_2_ranks": 3.0,
+                "opp_team": "Naked Green Machine",
+                "opp_bracket": 0,
+                "opp_result": "w",
+                "opp_1": "Gabe Ritter",
+                "opp_1_speaks": 31.0,
+                "opp_1_ranks": 2.0,
+                "opp_2": "Mac Hays",
+                "opp_2_speaks": 32.0,
+                "opp_2_ranks": 1.0,
+                "judge": "Elizabeth Carroll"
+            },
+            {
+                "gov_team": "The Raging Poets",
+                "gov_bracket": 0,
+                "gov_result": "l",
+                "gov_1": "Arnold Miao",
+                "gov_1_speaks": 27.0,
+                "gov_1_ranks": 3.0,
+                "gov_2": "Neil Kapur",
+                "gov_2_speaks": 28.0,
+                "gov_2_ranks": 2.0,
+                "opp_team": "perseus and peg-a-sus",
+                "opp_bracket": 0,
+                "opp_result": "w",
+                "opp_1": "Melanie Zhang",
+                "opp_1_speaks": 26.0,
+                "opp_1_ranks": 4.0,
+                "opp_2": "Sierra Rodriguez",
+                "opp_2_speaks": 29.0,
+                "opp_2_ranks": 1.0,
+                "judge": "Presley Forrest"
+            },
+            {
+                "gov_team": "Live, Laugh, Dumb",
+                "gov_bracket": 0,
+                "gov_result": "w",
+                "gov_1": "Aadhav Raviarasan",
+                "gov_1_speaks": 31.0,
+                "gov_1_ranks": 1.0,
+                "gov_2": "Udheesh Gaddipati",
+                "gov_2_speaks": 31.0,
+                "gov_2_ranks": 2.0,
+                "opp_team": "mochi",
+                "opp_bracket": 0,
+                "opp_result": "l",
+                "opp_1": "Franklin Wibisono",
+                "opp_1_speaks": 29.0,
+                "opp_1_ranks": 4.0,
+                "opp_2": "Rachel Liu",
+                "opp_2_speaks": 30.0,
+                "opp_2_ranks": 3.0,
+                "judge": "Sarah Moore"
+            },
+            {
+                "gov_team": "Defer to Rishven",
+                "gov_bracket": 0,
+                "gov_result": "l",
+                "gov_1": "Muxi Yu",
+                "gov_1_speaks": 27.0,
+                "gov_1_ranks": 4.0,
+                "gov_2": "Rishven Pravin",
+                "gov_2_speaks": 27.0,
+                "gov_2_ranks": 3.0,
+                "opp_team": "Yale Shit List",
+                "opp_bracket": 0,
+                "opp_result": "w",
+                "opp_1": "Felix Leonhardt",
+                "opp_1_speaks": 28.0,
+                "opp_1_ranks": 2.0,
+                "opp_2": "Naz Soysal",
+                "opp_2_speaks": 29.0,
+                "opp_2_ranks": 1.0,
+                "judge": "Alina Antropova, John Albonczy"
+            },
+            {
+                "gov_team": "Yale TL",
+                "gov_bracket": 0,
+                "gov_result": "w",
+                "gov_1": "Bradley Tidwel",
+                "gov_1_speaks": 27.0,
+                "gov_1_ranks": 1.0,
+                "gov_2": "Frank Lin",
+                "gov_2_speaks": 26.0,
+                "gov_2_ranks": 2.0,
+                "opp_team": "Rutgers FucK",
+                "opp_bracket": 0,
+                "opp_result": "l",
+                "opp_1": "Robert Fu",
+                "opp_1_speaks": 24.0,
+                "opp_1_ranks": 3.0,
+                "opp_2": "Stav Kanza-Levi",
+                "opp_2_speaks": 23.0,
+                "opp_2_ranks": 4.0,
+                "judge": "Owen Mullins, Sophia Farinella"
+            }
+        ],
+        "2": [
+            {
+                "bye": "philosophical Rhinos",
+                "bracket": 0
+            },
+            {
+                "gov_team": "jenga-style warrants",
+                "gov_bracket": 0,
+                "gov_result": "w",
+                "gov_1": "Paola Apolinario",
+                "gov_1_speaks": 28.0,
+                "gov_1_ranks": 1.0,
+                "gov_2": "Sebastian Cardena",
+                "gov_2_speaks": 27.0,
+                "gov_2_ranks": 3.0,
+                "opp_team": "2kool2BU",
+                "opp_bracket": 0,
+                "opp_result": "l",
+                "opp_1": "Joe Clark",
+                "opp_1_speaks": 26.0,
+                "opp_1_ranks": 4.0,
+                "opp_2": "Thibaut Stussi",
+                "opp_2_speaks": 27.0,
+                "opp_2_ranks": 2.0,
+                "judge": "John Albonczy, Mary Tran"
+            },
+            {
+                "gov_team": "Caulipower",
+                "gov_bracket": 1,
+                "gov_result": "w",
+                "gov_1": "Jessica Tuchin",
+                "gov_1_speaks": 30.0,
+                "gov_1_ranks": 2.0,
+                "gov_2": "Toby Arment",
+                "gov_2_speaks": 31.0,
+                "gov_2_ranks": 1.0,
+                "opp_team": "corned beefs",
+                "opp_bracket": 1,
+                "opp_result": "l",
+                "opp_1": "Elise Ko Davis",
+                "opp_1_speaks": 28.0,
+                "opp_1_ranks": 4.0,
+                "opp_2": "Emily Chow",
+                "opp_2_speaks": 30.0,
+                "opp_2_ranks": 3.0,
+                "judge": "Hannah Ditmars, Neftali Reynoso"
+            },
+            {
+                "gov_team": "Walll Breakers",
+                "gov_bracket": 0,
+                "gov_result": "w",
+                "gov_1": "Evan Steinberg",
+                "gov_1_speaks": 28.0,
+                "gov_1_ranks": 1.0,
+                "gov_2": "Sam Sulzinsky",
+                "gov_2_speaks": 25.0,
+                "gov_2_ranks": 3.0,
+                "opp_team": "Defer to Rishven",
+                "opp_bracket": 0,
+                "opp_result": "l",
+                "opp_1": "Muxi Yu",
+                "opp_1_speaks": 24.0,
+                "opp_1_ranks": 4.0,
+                "opp_2": "Rishven Pravin",
+                "opp_2_speaks": 26.0,
+                "opp_2_ranks": 2.0,
+                "judge": "Eric Trueswell, Himanshu Padnani"
+            },
+            {
+                "gov_team": "Uncle Tom and Cousin Vinny",
+                "gov_bracket": 1,
+                "gov_result": "w",
+                "gov_1": "Ahmad Howard",
+                "gov_1_speaks": 30.0,
+                "gov_1_ranks": 1.0,
+                "gov_2": "Nick DeVito",
+                "gov_2_speaks": 29.0,
+                "gov_2_ranks": 2.0,
+                "opp_team": "Yale TL",
+                "opp_bracket": 1,
+                "opp_result": "l",
+                "opp_1": "Bradley Tidwel",
+                "opp_1_speaks": 28.0,
+                "opp_1_ranks": 3.0,
+                "opp_2": "Frank Lin",
+                "opp_2_speaks": 28.0,
+                "opp_2_ranks": 4.0,
+                "judge": "Sarah Moore"
+            },
+            {
+                "gov_team": "perseus and peg-a-sus",
+                "gov_bracket": 1,
+                "gov_result": "w",
+                "gov_1": "Melanie Zhang",
+                "gov_1_speaks": 30.0,
+                "gov_1_ranks": 3.0,
+                "gov_2": "Sierra Rodriguez",
+                "gov_2_speaks": 33.0,
+                "gov_2_ranks": 1.0,
+                "opp_team": "girlies in the city",
+                "opp_bracket": 1,
+                "opp_result": "l",
+                "opp_1": "Katrina Hotaling",
+                "opp_1_speaks": 32.0,
+                "opp_1_ranks": 2.0,
+                "opp_2": "Matt Mauriello",
+                "opp_2_speaks": 29.0,
+                "opp_2_ranks": 4.0,
+                "judge": "Sam Hano"
+            },
+            {
+                "gov_team": "Gyges' Cock Ring",
+                "gov_bracket": 1,
+                "gov_result": "w",
+                "gov_1": "Aiden Zhang",
+                "gov_1_speaks": 32.0,
+                "gov_1_ranks": 1.0,
+                "gov_2": "Jehan Chanmugam",
+                "gov_2_speaks": 30.0,
+                "gov_2_ranks": 3.0,
+                "opp_team": "twink death eulogists",
+                "opp_bracket": 1,
+                "opp_result": "l",
+                "opp_1": "Eva Bruce",
+                "opp_1_speaks": 31.0,
+                "opp_1_ranks": 2.0,
+                "opp_2": "Shyla Summers",
+                "opp_2_speaks": 30.0,
+                "opp_2_ranks": 4.0,
+                "judge": "David Williams, Owen Mullins"
+            },
+            {
+                "gov_team": "Yale Shit List",
+                "gov_bracket": 1,
+                "gov_result": "l",
+                "gov_1": "Felix Leonhardt",
+                "gov_1_speaks": 26.0,
+                "gov_1_ranks": 4.0,
+                "gov_2": "Naz Soysal",
+                "gov_2_speaks": 27.0,
+                "gov_2_ranks": 3.0,
+                "opp_team": "yeasty beats",
+                "opp_bracket": 1,
+                "opp_result": "w",
+                "opp_1": "Audrey Higley",
+                "opp_1_speaks": 29.0,
+                "opp_1_ranks": 1.0,
+                "opp_2": "Eugenie Park",
+                "opp_2_speaks": 28.0,
+                "opp_2_ranks": 2.0,
+                "judge": "Armaan Sheth, Ina Rahalkar"
+            },
+            {
+                "gov_team": "mochi",
+                "gov_bracket": 0,
+                "gov_result": "l",
+                "gov_1": "Franklin Wibisono",
+                "gov_1_speaks": 28.0,
+                "gov_1_ranks": 3.0,
+                "gov_2": "Rachel Liu",
+                "gov_2_speaks": 27.0,
+                "gov_2_ranks": 4.0,
+                "opp_team": "we <3 sexy dads",
+                "opp_bracket": 0,
+                "opp_result": "w",
+                "opp_1": "Catie Mccauley",
+                "opp_1_speaks": 28.0,
+                "opp_1_ranks": 2.0,
+                "opp_2": "Lillie Godinez",
+                "opp_2_speaks": 29.0,
+                "opp_2_ranks": 1.0,
+                "judge": "Alina Antropova, Bryan McDonough"
+            },
+            {
+                "gov_team": "Thayer St. Freeze Out",
+                "gov_bracket": 0,
+                "gov_result": "w",
+                "gov_1": "Christopher Vanderpool",
+                "gov_1_speaks": 26.0,
+                "gov_1_ranks": 3.0,
+                "gov_2": "James Afford",
+                "gov_2_speaks": 28.0,
+                "gov_2_ranks": 1.0,
+                "opp_team": "The Raging Poets",
+                "opp_bracket": 0,
+                "opp_result": "l",
+                "opp_1": "Arnold Miao",
+                "opp_1_speaks": 25.0,
+                "opp_1_ranks": 4.0,
+                "opp_2": "Neil Kapur",
+                "opp_2_speaks": 26.0,
+                "opp_2_ranks": 2.0,
+                "judge": "Sophia Farinella"
+            },
+            {
+                "gov_team": "Rutgers FucK",
+                "gov_bracket": 0,
+                "gov_result": "l",
+                "gov_1": "Robert Fu",
+                "gov_1_speaks": 29.0,
+                "gov_1_ranks": 4.0,
+                "gov_2": "Stav Kanza-Levi",
+                "gov_2_speaks": 29.0,
+                "gov_2_ranks": 3.0,
+                "opp_team": "Naked Green Machine",
+                "opp_bracket": 1,
+                "opp_result": "w",
+                "opp_1": "Gabe Ritter",
+                "opp_1_speaks": 31.0,
+                "opp_1_ranks": 2.0,
+                "opp_2": "Mac Hays",
+                "opp_2_speaks": 32.0,
+                "opp_2_ranks": 1.0,
+                "judge": "Irina Znamirowski, Ruth Tony-Alabi"
+            },
+            {
+                "gov_team": "Herpes",
+                "gov_bracket": 1,
+                "gov_result": "l",
+                "gov_1": "Chloe Yim",
+                "gov_1_speaks": 29.0,
+                "gov_1_ranks": 4.0,
+                "gov_2": "Tristan Moore",
+                "gov_2_speaks": 31.0,
+                "gov_2_ranks": 3.0,
+                "opp_team": "Live, Laugh, Dumb",
+                "opp_bracket": 1,
+                "opp_result": "w",
+                "opp_1": "Aadhav Raviarasan",
+                "opp_1_speaks": 33.0,
+                "opp_1_ranks": 2.0,
+                "opp_2": "Udheesh Gaddipati",
+                "opp_2_speaks": 34.0,
+                "opp_2_ranks": 1.0,
+                "judge": "Elizabeth Carroll, Thibaut Juneja"
+            },
+            {
+                "gov_team": "terriers",
+                "gov_bracket": 0,
+                "gov_result": "l",
+                "gov_1": "Meichi Yu",
+                "gov_1_speaks": 25.0,
+                "gov_1_ranks": 3.0,
+                "gov_2": "Rui Gong",
+                "gov_2_speaks": 24.0,
+                "gov_2_ranks": 4.0,
+                "opp_team": "Victims of Communism",
+                "opp_bracket": 0,
+                "opp_result": "w",
+                "opp_1": "Cecilia Granda Scott",
+                "opp_1_speaks": 29.0,
+                "opp_1_ranks": 1.0,
+                "opp_2": "Phuong Doan",
+                "opp_2_speaks": 28.0,
+                "opp_2_ranks": 2.0,
+                "judge": "Hai Tran, Presley Forrest"
+            }
+        ],
+        "3": [
+            {
+                "bye": "Defer to Rishven",
+                "bracket": 0
+            },
+            {
+                "gov_team": "jenga-style warrants",
+                "gov_bracket": 1,
+                "gov_result": "l",
+                "gov_1": "Paola Apolinario",
+                "gov_1_speaks": 24.0,
+                "gov_1_ranks": 4.0,
+                "gov_2": "Sebastian Cardena",
+                "gov_2_speaks": 25.0,
+                "gov_2_ranks": 3.0,
+                "opp_team": "Yale Shit List",
+                "opp_bracket": 1,
+                "opp_result": "w",
+                "opp_1": "Felix Leonhardt",
+                "opp_1_speaks": 25.0,
+                "opp_1_ranks": 2.0,
+                "opp_2": "Naz Soysal",
+                "opp_2_speaks": 26.0,
+                "opp_2_ranks": 1.0,
+                "judge": "Hannah Ditmars, Sophia Farinella"
+            },
+            {
+                "gov_team": "corned beefs",
+                "gov_bracket": 1,
+                "gov_result": "w",
+                "gov_1": "Elise Ko Davis",
+                "gov_1_speaks": 29.0,
+                "gov_1_ranks": 2.0,
+                "gov_2": "Emily Chow",
+                "gov_2_speaks": 31.0,
+                "gov_2_ranks": 1.0,
+                "opp_team": "Walll Breakers",
+                "opp_bracket": 1,
+                "opp_result": "l",
+                "opp_1": "Evan Steinberg",
+                "opp_1_speaks": 29.0,
+                "opp_1_ranks": 3.0,
+                "opp_2": "Sam Sulzinsky",
+                "opp_2_speaks": 28.0,
+                "opp_2_ranks": 4.0,
+                "judge": "David Williams, Owen Mullins"
+            },
+            {
+                "gov_team": "yeasty beats",
+                "gov_bracket": 2,
+                "gov_result": "l",
+                "gov_1": "Audrey Higley",
+                "gov_1_speaks": 29.0,
+                "gov_1_ranks": 4.0,
+                "gov_2": "Eugenie Park",
+                "gov_2_speaks": 31.0,
+                "gov_2_ranks": 3.0,
+                "opp_team": "Uncle Tom and Cousin Vinny",
+                "opp_bracket": 2,
+                "opp_result": "w",
+                "opp_1": "Ahmad Howard",
+                "opp_1_speaks": 32.0,
+                "opp_1_ranks": 2.0,
+                "opp_2": "Nick DeVito",
+                "opp_2_speaks": 33.0,
+                "opp_2_ranks": 1.0,
+                "judge": "Elizabeth Carroll"
+            },
+            {
+                "gov_team": "girlies in the city",
+                "gov_bracket": 1,
+                "gov_result": "w",
+                "gov_1": "Katrina Hotaling",
+                "gov_1_speaks": 32.0,
+                "gov_1_ranks": 1.0,
+                "gov_2": "Matt Mauriello",
+                "gov_2_speaks": 31.0,
+                "gov_2_ranks": 2.0,
+                "opp_team": "Thayer St. Freeze Out",
+                "opp_bracket": 1,
+                "opp_result": "l",
+                "opp_1": "Christopher Vanderpool",
+                "opp_1_speaks": 27.0,
+                "opp_1_ranks": 4.0,
+                "opp_2": "James Afford",
+                "opp_2_speaks": 28.0,
+                "opp_2_ranks": 3.0,
+                "judge": "Sarah Moore"
+            },
+            {
+                "gov_team": "Caulipower",
+                "gov_bracket": 2,
+                "gov_result": "l",
+                "gov_1": "Jessica Tuchin",
+                "gov_1_speaks": 29.0,
+                "gov_1_ranks": 4.0,
+                "gov_2": "Toby Arment",
+                "gov_2_speaks": 31.0,
+                "gov_2_ranks": 2.0,
+                "opp_team": "Gyges' Cock Ring",
+                "opp_bracket": 2,
+                "opp_result": "w",
+                "opp_1": "Aiden Zhang",
+                "opp_1_speaks": 32.0,
+                "opp_1_ranks": 1.0,
+                "opp_2": "Jehan Chanmugam",
+                "opp_2_speaks": 30.0,
+                "opp_2_ranks": 3.0,
+                "judge": "Presley Forrest, Ruth Tony-Alabi"
+            },
+            {
+                "gov_team": "Victims of Communism",
+                "gov_bracket": 1,
+                "gov_result": "w",
+                "gov_1": "Cecilia Granda Scott",
+                "gov_1_speaks": 28.0,
+                "gov_1_ranks": 2.0,
+                "gov_2": "Phuong Doan",
+                "gov_2_speaks": 29.0,
+                "gov_2_ranks": 1.0,
+                "opp_team": "we <3 sexy dads",
+                "opp_bracket": 1,
+                "opp_result": "l",
+                "opp_1": "Catie Mccauley",
+                "opp_1_speaks": 27.0,
+                "opp_1_ranks": 3.0,
+                "opp_2": "Lillie Godinez",
+                "opp_2_speaks": 26.0,
+                "opp_2_ranks": 4.0,
+                "judge": "Neftali Reynoso, Thibaut Juneja"
+            },
+            {
+                "gov_team": "Naked Green Machine",
+                "gov_bracket": 2,
+                "gov_result": "w",
+                "gov_1": "Gabe Ritter",
+                "gov_1_speaks": 29.0,
+                "gov_1_ranks": 1.0,
+                "gov_2": "Mac Hays",
+                "gov_2_speaks": 29.0,
+                "gov_2_ranks": 2.0,
+                "opp_team": "perseus and peg-a-sus",
+                "opp_bracket": 2,
+                "opp_result": "l",
+                "opp_1": "Melanie Zhang",
+                "opp_1_speaks": 29.0,
+                "opp_1_ranks": 4.0,
+                "opp_2": "Sierra Rodriguez",
+                "opp_2_speaks": 29.0,
+                "opp_2_ranks": 3.0,
+                "judge": "Bryan McDonough"
+            },
+            {
+                "gov_team": "Live, Laugh, Dumb",
+                "gov_bracket": 2,
+                "gov_result": "w",
+                "gov_1": "Aadhav Raviarasan",
+                "gov_1_speaks": 34.0,
+                "gov_1_ranks": 1.0,
+                "gov_2": "Udheesh Gaddipati",
+                "gov_2_speaks": 34.0,
+                "gov_2_ranks": 2.0,
+                "opp_team": "philosophical Rhinos",
+                "opp_bracket": 1,
+                "opp_result": "l",
+                "opp_1": "Alice Merchant",
+                "opp_1_speaks": 25.0,
+                "opp_1_ranks": 4.0,
+                "opp_2": "Clemente Nicado Yelmente",
+                "opp_2_speaks": 32.0,
+                "opp_2_ranks": 3.0,
+                "judge": "Alina Antropova, Irina Znamirowski"
+            },
+            {
+                "gov_team": "Yale TL",
+                "gov_bracket": 1,
+                "gov_result": "l",
+                "gov_1": "Bradley Tidwel",
+                "gov_1_speaks": 25.0,
+                "gov_1_ranks": 4.0,
+                "gov_2": "Frank Lin",
+                "gov_2_speaks": 26.0,
+                "gov_2_ranks": 3.0,
+                "opp_team": "Herpes",
+                "opp_bracket": 1,
+                "opp_result": "w",
+                "opp_1": "Chloe Yim",
+                "opp_1_speaks": 27.0,
+                "opp_1_ranks": 2.0,
+                "opp_2": "Tristan Moore",
+                "opp_2_speaks": 28.0,
+                "opp_2_ranks": 1.0,
+                "judge": "Armaan Sheth, Sean Roth"
+            },
+            {
+                "gov_team": "The Raging Poets",
+                "gov_bracket": 0,
+                "gov_result": "l",
+                "gov_1": "Arnold Miao",
+                "gov_1_speaks": 24.0,
+                "gov_1_ranks": 4.0,
+                "gov_2": "Neil Kapur",
+                "gov_2_speaks": 26.0,
+                "gov_2_ranks": 2.0,
+                "opp_team": "2kool2BU",
+                "opp_bracket": 0,
+                "opp_result": "w",
+                "opp_1": "Joe Clark",
+                "opp_1_speaks": 25.0,
+                "opp_1_ranks": 3.0,
+                "opp_2": "Thibaut Stussi",
+                "opp_2_speaks": 27.0,
+                "opp_2_ranks": 1.0,
+                "judge": "Eric Trueswell, Himanshu Padnani"
+            },
+            {
+                "gov_team": "mochi",
+                "gov_bracket": 0,
+                "gov_result": "w",
+                "gov_1": "Franklin Wibisono",
+                "gov_1_speaks": 28.0,
+                "gov_1_ranks": 1.0,
+                "gov_2": "Rachel Liu",
+                "gov_2_speaks": 28.0,
+                "gov_2_ranks": 2.0,
+                "opp_team": "Rutgers FucK",
+                "opp_bracket": 0,
+                "opp_result": "l",
+                "opp_1": "Robert Fu",
+                "opp_1_speaks": 27.0,
+                "opp_1_ranks": 3.0,
+                "opp_2": "Stav Kanza-Levi",
+                "opp_2_speaks": 27.0,
+                "opp_2_ranks": 4.0,
+                "judge": "Hai Tran, John Albonczy"
+            },
+            {
+                "gov_team": "twink death eulogists",
+                "gov_bracket": 1,
+                "gov_result": "w",
+                "gov_1": "Eva Bruce",
+                "gov_1_speaks": 27.0,
+                "gov_1_ranks": 1.0,
+                "gov_2": "Shyla Summers",
+                "gov_2_speaks": 26.0,
+                "gov_2_ranks": 2.0,
+                "opp_team": "terriers",
+                "opp_bracket": 0,
+                "opp_result": "l",
+                "opp_1": "Meichi Yu",
+                "opp_1_speaks": 24.0,
+                "opp_1_ranks": 4.0,
+                "opp_2": "Rui Gong",
+                "opp_2_speaks": 25.0,
+                "opp_2_ranks": 3.0,
+                "judge": "Ina Rahalkar, Sam Hano"
+            }
+        ],
+        "4": [
+            {
+                "bye": "Rutgers FucK",
+                "bracket": 0
+            },
+            {
+                "gov_team": "jenga-style warrants",
+                "gov_bracket": 1,
+                "gov_result": "l",
+                "gov_1": "Paola Apolinario",
+                "gov_1_speaks": 32.0,
+                "gov_1_ranks": 2.0,
+                "gov_2": "Sebastian Cardena",
+                "gov_2_speaks": 30.0,
+                "gov_2_ranks": 4.0,
+                "opp_team": "Thayer St. Freeze Out",
+                "opp_bracket": 1,
+                "opp_result": "w",
+                "opp_1": "Christopher Vanderpool",
+                "opp_1_speaks": 32.0,
+                "opp_1_ranks": 1.0,
+                "opp_2": "James Afford",
+                "opp_2_speaks": 31.0,
+                "opp_2_ranks": 3.0,
+                "judge": "Neftali Reynoso"
+            },
+            {
+                "gov_team": "corned beefs",
+                "gov_bracket": 2,
+                "gov_result": "w",
+                "gov_1": "Elise Ko Davis",
+                "gov_1_speaks": 29.0,
+                "gov_1_ranks": 3.0,
+                "gov_2": "Emily Chow",
+                "gov_2_speaks": 30.0,
+                "gov_2_ranks": 1.0,
+                "opp_team": "Victims of Communism",
+                "opp_bracket": 2,
+                "opp_result": "l",
+                "opp_1": "Cecilia Granda Scott",
+                "opp_1_speaks": 30.0,
+                "opp_1_ranks": 2.0,
+                "opp_2": "Phuong Doan",
+                "opp_2_speaks": 29.0,
+                "opp_2_ranks": 4.0,
+                "judge": "Alina Antropova, Sarah Moore"
+            },
+            {
+                "gov_team": "Walll Breakers",
+                "gov_bracket": 1,
+                "gov_result": "w",
+                "gov_1": "Evan Steinberg",
+                "gov_1_speaks": 28.0,
+                "gov_1_ranks": 1.0,
+                "gov_2": "Sam Sulzinsky",
+                "gov_2_speaks": 28.0,
+                "gov_2_ranks": 2.0,
+                "opp_team": "terriers",
+                "opp_bracket": 0,
+                "opp_result": "l",
+                "opp_1": "Meichi Yu",
+                "opp_1_speaks": 26.0,
+                "opp_1_ranks": 4.0,
+                "opp_2": "Rui Gong",
+                "opp_2_speaks": 27.0,
+                "opp_2_ranks": 3.0,
+                "judge": "John Albonczy"
+            },
+            {
+                "gov_team": "Uncle Tom and Cousin Vinny",
+                "gov_bracket": 3,
+                "gov_result": "w",
+                "gov_1": "Ahmad Howard",
+                "gov_1_speaks": 30.0,
+                "gov_1_ranks": 1.0,
+                "gov_2": "Nick DeVito",
+                "gov_2_speaks": 28.0,
+                "gov_2_ranks": 3.0,
+                "opp_team": "Naked Green Machine",
+                "opp_bracket": 3,
+                "opp_result": "l",
+                "opp_1": "Gabe Ritter",
+                "opp_1_speaks": 27.0,
+                "opp_1_ranks": 4.0,
+                "opp_2": "Mac Hays",
+                "opp_2_speaks": 29.0,
+                "opp_2_ranks": 2.0,
+                "judge": "Armaan Sheth, Owen Mullins"
+            },
+            {
+                "gov_team": "girlies in the city",
+                "gov_bracket": 2,
+                "gov_result": "w",
+                "gov_1": "Katrina Hotaling",
+                "gov_1_speaks": 27.0,
+                "gov_1_ranks": 3.0,
+                "gov_2": "Matt Mauriello",
+                "gov_2_speaks": 29.0,
+                "gov_2_ranks": 1.0,
+                "opp_team": "Defer to Rishven",
+                "opp_bracket": 1,
+                "opp_result": "l",
+                "opp_1": "Muxi Yu",
+                "opp_1_speaks": 27.0,
+                "opp_1_ranks": 4.0,
+                "opp_2": "Rishven Pravin",
+                "opp_2_speaks": 29.0,
+                "opp_2_ranks": 2.0,
+                "judge": "Bryan McDonough, Presley Forrest"
+            },
+            {
+                "gov_team": "Gyges' Cock Ring",
+                "gov_bracket": 3,
+                "gov_result": "l",
+                "gov_1": "Aiden Zhang",
+                "gov_1_speaks": 30.0,
+                "gov_1_ranks": 4.0,
+                "gov_2": "Jehan Chanmugam",
+                "gov_2_speaks": 31.0,
+                "gov_2_ranks": 3.0,
+                "opp_team": "Live, Laugh, Dumb",
+                "opp_bracket": 3,
+                "opp_result": "w",
+                "opp_1": "Aadhav Raviarasan",
+                "opp_1_speaks": 33.0,
+                "opp_1_ranks": 1.0,
+                "opp_2": "Udheesh Gaddipati",
+                "opp_2_speaks": 32.0,
+                "opp_2_ranks": 2.0,
+                "judge": "Sam Hano, Sophia Farinella"
+            },
+            {
+                "gov_team": "Herpes",
+                "gov_bracket": 2,
+                "gov_result": "l",
+                "gov_1": "Chloe Yim",
+                "gov_1_speaks": 31.0,
+                "gov_1_ranks": 3.0,
+                "gov_2": "Tristan Moore",
+                "gov_2_speaks": 30.0,
+                "gov_2_ranks": 4.0,
+                "opp_team": "yeasty beats",
+                "opp_bracket": 2,
+                "opp_result": "w",
+                "opp_1": "Audrey Higley",
+                "opp_1_speaks": 32.0,
+                "opp_1_ranks": 1.0,
+                "opp_2": "Eugenie Park",
+                "opp_2_speaks": 32.0,
+                "opp_2_ranks": 2.0,
+                "judge": "Irina Znamirowski"
+            },
+            {
+                "gov_team": "we <3 sexy dads",
+                "gov_bracket": 1,
+                "gov_result": "l",
+                "gov_1": "Catie Mccauley",
+                "gov_1_speaks": 26.0,
+                "gov_1_ranks": 4.0,
+                "gov_2": "Lillie Godinez",
+                "gov_2_speaks": 28.0,
+                "gov_2_ranks": 2.0,
+                "opp_team": "2kool2BU",
+                "opp_bracket": 1,
+                "opp_result": "w",
+                "opp_1": "Joe Clark",
+                "opp_1_speaks": 27.0,
+                "opp_1_ranks": 3.0,
+                "opp_2": "Thibaut Stussi",
+                "opp_2_speaks": 29.0,
+                "opp_2_ranks": 1.0,
+                "judge": "Ruth Tony-Alabi"
+            },
+            {
+                "gov_team": "Yale Shit List",
+                "gov_bracket": 2,
+                "gov_result": "w",
+                "gov_1": "Felix Leonhardt",
+                "gov_1_speaks": 31.0,
+                "gov_1_ranks": 2.0,
+                "gov_2": "Naz Soysal",
+                "gov_2_speaks": 31.0,
+                "gov_2_ranks": 1.0,
+                "opp_team": "Caulipower",
+                "opp_bracket": 2,
+                "opp_result": "l",
+                "opp_1": "Jessica Tuchin",
+                "opp_1_speaks": 28.0,
+                "opp_1_ranks": 4.0,
+                "opp_2": "Toby Arment",
+                "opp_2_speaks": 30.0,
+                "opp_2_ranks": 3.0,
+                "judge": "David Williams"
+            },
+            {
+                "gov_team": "twink death eulogists",
+                "gov_bracket": 2,
+                "gov_result": "w",
+                "gov_1": "Eva Bruce",
+                "gov_1_speaks": 32.0,
+                "gov_1_ranks": 1.0,
+                "gov_2": "Shyla Summers",
+                "gov_2_speaks": 31.0,
+                "gov_2_ranks": 3.0,
+                "opp_team": "perseus and peg-a-sus",
+                "opp_bracket": 2,
+                "opp_result": "l",
+                "opp_1": "Melanie Zhang",
+                "opp_1_speaks": 30.0,
+                "opp_1_ranks": 4.0,
+                "opp_2": "Sierra Rodriguez",
+                "opp_2_speaks": 31.0,
+                "opp_2_ranks": 2.0,
+                "judge": "Elizabeth Carroll"
+            },
+            {
+                "gov_team": "philosophical Rhinos",
+                "gov_bracket": 1,
+                "gov_result": "l",
+                "gov_1": "Alice Merchant",
+                "gov_1_speaks": 25.0,
+                "gov_1_ranks": 4.0,
+                "gov_2": "Clemente Nicado Yelmente",
+                "gov_2_speaks": 27.0,
+                "gov_2_ranks": 3.0,
+                "opp_team": "Yale TL",
+                "opp_bracket": 1,
+                "opp_result": "w",
+                "opp_1": "Bradley Tidwel",
+                "opp_1_speaks": 30.0,
+                "opp_1_ranks": 1.0,
+                "opp_2": "Frank Lin",
+                "opp_2_speaks": 30.0,
+                "opp_2_ranks": 2.0,
+                "judge": "Himanshu Padnani"
+            }
+        ],
+        "5": [
+            {
+                "bye": "terriers",
+                "bracket": 0
+            },
+            {
+                "gov_team": "Defer to Rishven",
+                "gov_bracket": 1,
+                "gov_result": "w",
+                "gov_1": "Muxi Yu",
+                "gov_1_speaks": 28.0,
+                "gov_1_ranks": 2.0,
+                "gov_2": "Rishven Pravin",
+                "gov_2_speaks": 29.0,
+                "gov_2_ranks": 1.0,
+                "opp_team": "jenga-style warrants",
+                "opp_bracket": 1,
+                "opp_result": "l",
+                "opp_1": "Paola Apolinario",
+                "opp_1_speaks": 26.0,
+                "opp_1_ranks": 3.0,
+                "opp_2": "Sebastian Cardena",
+                "opp_2_speaks": 25.0,
+                "opp_2_ranks": 4.0,
+                "judge": "Owen Mullins"
+            },
+            {
+                "gov_team": "yeasty beats",
+                "gov_bracket": 3,
+                "gov_result": "w",
+                "gov_1": "Audrey Higley",
+                "gov_1_speaks": 28.0,
+                "gov_1_ranks": 2.0,
+                "gov_2": "Eugenie Park",
+                "gov_2_speaks": 30.0,
+                "gov_2_ranks": 1.0,
+                "opp_team": "corned beefs",
+                "opp_bracket": 3,
+                "opp_result": "l",
+                "opp_1": "Elise Ko Davis",
+                "opp_1_speaks": 25.0,
+                "opp_1_ranks": 4.0,
+                "opp_2": "Emily Chow",
+                "opp_2_speaks": 26.0,
+                "opp_2_ranks": 3.0,
+                "judge": "Sophia Farinella"
+            },
+            {
+                "gov_team": "Herpes",
+                "gov_bracket": 2,
+                "gov_result": "w",
+                "gov_1": "Chloe Yim",
+                "gov_1_speaks": 27.0,
+                "gov_1_ranks": 2.0,
+                "gov_2": "Tristan Moore",
+                "gov_2_speaks": 28.0,
+                "gov_2_ranks": 1.0,
+                "opp_team": "Walll Breakers",
+                "opp_bracket": 2,
+                "opp_result": "l",
+                "opp_1": "Evan Steinberg",
+                "opp_1_speaks": 27.0,
+                "opp_1_ranks": 3.0,
+                "opp_2": "Sam Sulzinsky",
+                "opp_2_speaks": 26.0,
+                "opp_2_ranks": 4.0,
+                "judge": "Alina Antropova, Hannah Ditmars"
+            },
+            {
+                "gov_team": "Uncle Tom and Cousin Vinny",
+                "gov_bracket": 4,
+                "gov_result": "l",
+                "gov_1": "Ahmad Howard",
+                "gov_1_speaks": 32.0,
+                "gov_1_ranks": 4.0,
+                "gov_2": "Nick DeVito",
+                "gov_2_speaks": 33.0,
+                "gov_2_ranks": 3.0,
+                "opp_team": "Live, Laugh, Dumb",
+                "opp_bracket": 4,
+                "opp_result": "w",
+                "opp_1": "Aadhav Raviarasan",
+                "opp_1_speaks": 35.0,
+                "opp_1_ranks": 1.0,
+                "opp_2": "Udheesh Gaddipati",
+                "opp_2_speaks": 34.0,
+                "opp_2_ranks": 2.0,
+                "judge": "Presley Forrest"
+            },
+            {
+                "gov_team": "girlies in the city",
+                "gov_bracket": 3,
+                "gov_result": "l",
+                "gov_1": "Katrina Hotaling",
+                "gov_1_speaks": 28.0,
+                "gov_1_ranks": 4.0,
+                "gov_2": "Matt Mauriello",
+                "gov_2_speaks": 29.0,
+                "gov_2_ranks": 3.0,
+                "opp_team": "Yale Shit List",
+                "opp_bracket": 3,
+                "opp_result": "w",
+                "opp_1": "Felix Leonhardt",
+                "opp_1_speaks": 31.0,
+                "opp_1_ranks": 1.0,
+                "opp_2": "Naz Soysal",
+                "opp_2_speaks": 30.0,
+                "opp_2_ranks": 2.0,
+                "judge": "Hai Tran, Ruth Tony-Alabi"
+            },
+            {
+                "gov_team": "2kool2BU",
+                "gov_bracket": 2,
+                "gov_result": "l",
+                "gov_1": "Joe Clark",
+                "gov_1_speaks": 28.0,
+                "gov_1_ranks": 4.0,
+                "gov_2": "Thibaut Stussi",
+                "gov_2_speaks": 31.0,
+                "gov_2_ranks": 3.0,
+                "opp_team": "Gyges' Cock Ring",
+                "opp_bracket": 3,
+                "opp_result": "w",
+                "opp_1": "Aiden Zhang",
+                "opp_1_speaks": 33.0,
+                "opp_1_ranks": 1.0,
+                "opp_2": "Jehan Chanmugam",
+                "opp_2_speaks": 32.0,
+                "opp_2_ranks": 2.0,
+                "judge": "Elizabeth Carroll"
+            },
+            {
+                "gov_team": "Caulipower",
+                "gov_bracket": 2,
+                "gov_result": "w",
+                "gov_1": "Jessica Tuchin",
+                "gov_1_speaks": 29.0,
+                "gov_1_ranks": 2.0,
+                "gov_2": "Toby Arment",
+                "gov_2_speaks": 30.0,
+                "gov_2_ranks": 1.0,
+                "opp_team": "we <3 sexy dads",
+                "opp_bracket": 1,
+                "opp_result": "l",
+                "opp_1": "Catie Mccauley",
+                "opp_1_speaks": 27.0,
+                "opp_1_ranks": 4.0,
+                "opp_2": "Lillie Godinez",
+                "opp_2_speaks": 28.0,
+                "opp_2_ranks": 3.0,
+                "judge": "Irina Znamirowski"
+            },
+            {
+                "gov_team": "Thayer St. Freeze Out",
+                "gov_bracket": 2,
+                "gov_result": "l",
+                "gov_1": "Christopher Vanderpool",
+                "gov_1_speaks": 28.0,
+                "gov_1_ranks": 3.0,
+                "gov_2": "James Afford",
+                "gov_2_speaks": 27.0,
+                "gov_2_ranks": 4.0,
+                "opp_team": "Victims of Communism",
+                "opp_bracket": 2,
+                "opp_result": "w",
+                "opp_1": "Cecilia Granda Scott",
+                "opp_1_speaks": 31.0,
+                "opp_1_ranks": 1.0,
+                "opp_2": "Phuong Doan",
+                "opp_2_speaks": 30.0,
+                "opp_2_ranks": 2.0,
+                "judge": "David Williams, Himanshu Padnani"
+            },
+            {
+                "gov_team": "Naked Green Machine",
+                "gov_bracket": 3,
+                "gov_result": "w",
+                "gov_1": "Gabe Ritter",
+                "gov_1_speaks": 33.0,
+                "gov_1_ranks": 3.0,
+                "gov_2": "Mac Hays",
+                "gov_2_speaks": 33.0,
+                "gov_2_ranks": 1.0,
+                "opp_team": "twink death eulogists",
+                "opp_bracket": 3,
+                "opp_result": "l",
+                "opp_1": "Eva Bruce",
+                "opp_1_speaks": 33.0,
+                "opp_1_ranks": 2.0,
+                "opp_2": "Shyla Summers",
+                "opp_2_speaks": 33.0,
+                "opp_2_ranks": 4.0,
+                "judge": "Sarah Moore"
+            },
+            {
+                "gov_team": "perseus and peg-a-sus",
+                "gov_bracket": 2,
+                "gov_result": "w",
+                "gov_1": "Melanie Zhang",
+                "gov_1_speaks": 32.0,
+                "gov_1_ranks": 2.0,
+                "gov_2": "Sierra Rodriguez",
+                "gov_2_speaks": 33.0,
+                "gov_2_ranks": 1.0,
+                "opp_team": "Yale TL",
+                "opp_bracket": 2,
+                "opp_result": "l",
+                "opp_1": "Bradley Tidwel",
+                "opp_1_speaks": 32.0,
+                "opp_1_ranks": 3.0,
+                "opp_2": "Frank Lin",
+                "opp_2_speaks": 31.0,
+                "opp_2_ranks": 4.0,
+                "judge": "John Albonczy, Neftali Reynoso"
+            },
+            {
+                "gov_team": "Rutgers FucK",
+                "gov_bracket": 1,
+                "gov_result": "w",
+                "gov_1": "Robert Fu",
+                "gov_1_speaks": 27.0,
+                "gov_1_ranks": 2.0,
+                "gov_2": "Stav Kanza-Levi",
+                "gov_2_speaks": 28.0,
+                "gov_2_ranks": 1.0,
+                "opp_team": "philosophical Rhinos",
+                "opp_bracket": 1,
+                "opp_result": "l",
+                "opp_1": "Alice Merchant",
+                "opp_1_speaks": 24.0,
+                "opp_1_ranks": 4.0,
+                "opp_2": "Clemente Nicado Yelmente",
+                "opp_2_speaks": 25.0,
+                "opp_2_ranks": 3.0,
+                "judge": "Armaan Sheth"
+            }
+        ]
+    }
+}

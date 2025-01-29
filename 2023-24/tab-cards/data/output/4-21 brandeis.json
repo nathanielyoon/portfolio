@@ -1,0 +1,2375 @@
+{
+    "teams": {
+        "Jiz": {
+            "debater_1": {
+                "name": "Justin Suh",
+                "status": "novice"
+            },
+            "debater_2": {
+                "name": "Liz Kim",
+                "status": "varsity"
+            },
+            "rounds": {
+                "1": {
+                    "side": "gov",
+                    "result": "w",
+                    "opponent": "Buenas Vibras??",
+                    "judge": [
+                        "Alex Pickett",
+                        "Gianna Bruno"
+                    ],
+                    "speaks_1": 29.0,
+                    "ranks_1": 2.0,
+                    "speaks_2": 31.0,
+                    "ranks_2": 1.0,
+                    "speaks_total": 60.0,
+                    "ranks_total": 3.0
+                },
+                "2": {
+                    "side": "opp",
+                    "result": "w",
+                    "opponent": "Willy-Tufts",
+                    "judge": [
+                        "Maxwell Weiner",
+                        "Srishti Nautiyal"
+                    ],
+                    "speaks_1": 30.0,
+                    "ranks_1": 4.0,
+                    "speaks_2": 32.0,
+                    "ranks_2": 1.0,
+                    "speaks_total": 62.0,
+                    "ranks_total": 5.0
+                },
+                "3": {
+                    "side": "gov",
+                    "result": "w",
+                    "opponent": "rip penguin livestream",
+                    "judge": [
+                        "Mandy Feureman",
+                        "Victoria Hagen"
+                    ],
+                    "speaks_1": 31.0,
+                    "ranks_1": 1.0,
+                    "speaks_2": 30.0,
+                    "ranks_2": 2.0,
+                    "speaks_total": 61.0,
+                    "ranks_total": 3.0
+                },
+                "4": {
+                    "side": "opp",
+                    "result": "l",
+                    "opponent": "One Last Dumb",
+                    "judge": [
+                        "Ben Robertson",
+                        "Maddie Watson"
+                    ],
+                    "speaks_1": 31.0,
+                    "ranks_1": 4.0,
+                    "speaks_2": 32.0,
+                    "ranks_2": 3.0,
+                    "speaks_total": 63.0,
+                    "ranks_total": 7.0
+                },
+                "5": {
+                    "side": "gov",
+                    "result": "w",
+                    "opponent": "I had a paper but chose debate",
+                    "judge": [
+                        "Alex Bennett",
+                        "Sean Berman"
+                    ],
+                    "speaks_1": 30.0,
+                    "ranks_1": 2.0,
+                    "speaks_2": 31.0,
+                    "ranks_2": 1.0,
+                    "speaks_total": 61.0,
+                    "ranks_total": 3.0
+                }
+            },
+            "total_wins": 4,
+            "total_speaks_1": 151.0,
+            "total_ranks_1": 13.0,
+            "total_speaks_2": 156.0,
+            "total_ranks_2": 8.0,
+            "total_speaks": 307.0,
+            "total_ranks": 21.0
+        },
+        "One Last Dumb": {
+            "debater_1": {
+                "name": "Aadhav Raviarasan",
+                "status": "varsity"
+            },
+            "debater_2": {
+                "name": "Udheesh Gaddipati",
+                "status": "varsity"
+            },
+            "rounds": {
+                "1": {
+                    "side": "opp",
+                    "result": "w",
+                    "opponent": "Harold & that other Asian guy",
+                    "judge": [
+                        "Irina \"Tab God\" Znamirowski"
+                    ],
+                    "speaks_1": 32.0,
+                    "ranks_1": 4.0,
+                    "speaks_2": 33.0,
+                    "ranks_2": 1.0,
+                    "speaks_total": 65.0,
+                    "ranks_total": 5.0
+                },
+                "2": {
+                    "side": "gov",
+                    "result": "w",
+                    "opponent": "Cathie Jo Martin enthusiasts",
+                    "judge": [
+                        "Alex Pickett",
+                        "Ethan Shurberg"
+                    ],
+                    "speaks_1": 34.0,
+                    "ranks_1": 1.0,
+                    "speaks_2": 33.0,
+                    "ranks_2": 2.0,
+                    "speaks_total": 67.0,
+                    "ranks_total": 3.0
+                },
+                "3": {
+                    "side": "opp",
+                    "result": "w",
+                    "opponent": "One Hit Wonder",
+                    "judge": [
+                        "Connor Beaney",
+                        "Gianna Bruno"
+                    ],
+                    "speaks_1": 32.0,
+                    "ranks_1": 2.0,
+                    "speaks_2": 34.0,
+                    "ranks_2": 1.0,
+                    "speaks_total": 66.0,
+                    "ranks_total": 3.0
+                },
+                "4": {
+                    "side": "gov",
+                    "result": "w",
+                    "opponent": "Jiz",
+                    "judge": [
+                        "Ben Robertson",
+                        "Maddie Watson"
+                    ],
+                    "speaks_1": 33.0,
+                    "ranks_1": 1.0,
+                    "speaks_2": 32.0,
+                    "ranks_2": 2.0,
+                    "speaks_total": 65.0,
+                    "ranks_total": 3.0
+                },
+                "5": {
+                    "side": "opp",
+                    "result": "l",
+                    "opponent": "Willy-Tufts",
+                    "judge": [
+                        "Mandy Feureman"
+                    ],
+                    "speaks_1": 28.0,
+                    "ranks_1": 3.0,
+                    "speaks_2": 28.0,
+                    "ranks_2": 4.0,
+                    "speaks_total": 56.0,
+                    "ranks_total": 7.0
+                }
+            },
+            "total_wins": 4,
+            "total_speaks_1": 159.0,
+            "total_ranks_1": 11.0,
+            "total_speaks_2": 160.0,
+            "total_ranks_2": 10.0,
+            "total_speaks": 319.0,
+            "total_ranks": 21.0
+        },
+        "Hot Singles in Your Area": {
+            "debater_1": {
+                "name": "Isaac Volan",
+                "status": "novice"
+            },
+            "debater_2": {
+                "name": "Oscar Cloutier Potter",
+                "status": "novice"
+            },
+            "rounds": {
+                "1": {
+                    "side": "opp",
+                    "result": "l",
+                    "opponent": "Cathie Jo Martin enthusiasts",
+                    "judge": [
+                        "Ben Robertson",
+                        "Srishti Nautiyal"
+                    ],
+                    "speaks_1": 28.0,
+                    "ranks_1": 4.0,
+                    "speaks_2": 30.0,
+                    "ranks_2": 2.0,
+                    "speaks_total": 58.0,
+                    "ranks_total": 6.0
+                },
+                "2": {
+                    "side": "gov",
+                    "result": "w",
+                    "opponent": "Buenas Vibras??",
+                    "judge": [
+                        "Alex Bennett",
+                        "Mandy Feureman"
+                    ],
+                    "speaks_1": 31.0,
+                    "ranks_1": 1.0,
+                    "speaks_2": 30.0,
+                    "ranks_2": 2.0,
+                    "speaks_total": 61.0,
+                    "ranks_total": 3.0
+                },
+                "3": {
+                    "side": "gov",
+                    "result": "l",
+                    "opponent": "I had a paper but chose debate",
+                    "judge": [
+                        "Sarah Moore"
+                    ],
+                    "speaks_1": 28.0,
+                    "ranks_1": 4.0,
+                    "speaks_2": 28.0,
+                    "ranks_2": 2.0,
+                    "speaks_total": 56.0,
+                    "ranks_total": 6.0
+                },
+                "4": {
+                    "side": "gov",
+                    "result": "w",
+                    "opponent": "Charlie McLarnon and Sam Borne",
+                    "judge": [
+                        "Thabang Matona",
+                        "Victoria Hagen"
+                    ],
+                    "speaks_1": 29.0,
+                    "ranks_1": 1.0,
+                    "speaks_2": 28.0,
+                    "ranks_2": 3.0,
+                    "speaks_total": 57.0,
+                    "ranks_total": 4.0
+                },
+                "5": {
+                    "side": "opp",
+                    "result": "l",
+                    "opponent": "UMasss TP",
+                    "judge": [
+                        "Alex Pickett",
+                        "Maddie Watson"
+                    ],
+                    "speaks_1": 27.0,
+                    "ranks_1": 4.0,
+                    "speaks_2": 27.0,
+                    "ranks_2": 2.0,
+                    "speaks_total": 54.0,
+                    "ranks_total": 6.0
+                }
+            },
+            "total_wins": 2,
+            "total_speaks_1": 143.0,
+            "total_ranks_1": 14.0,
+            "total_speaks_2": 143.0,
+            "total_ranks_2": 11.0,
+            "total_speaks": 286.0,
+            "total_ranks": 25.0
+        },
+        "UMasss TP": {
+            "debater_1": {
+                "name": "Emily Chow",
+                "status": "varsity"
+            },
+            "debater_2": {
+                "name": "Himanshu Padnani",
+                "status": "novice"
+            },
+            "rounds": {
+                "1": {
+                    "side": "opp",
+                    "result": "w",
+                    "opponent": "I had a paper but chose debate",
+                    "judge": [
+                        "Connor Beaney",
+                        "Maxwell Weiner"
+                    ],
+                    "speaks_1": 32.0,
+                    "ranks_1": 1.0,
+                    "speaks_2": 29.0,
+                    "ranks_2": 3.0,
+                    "speaks_total": 61.0,
+                    "ranks_total": 4.0
+                },
+                "2": {
+                    "side": "gov",
+                    "result": "l",
+                    "opponent": "One Hit Wonder",
+                    "judge": [
+                        "Elena Giacolletti",
+                        "Sarah Moore"
+                    ],
+                    "speaks_1": 29.0,
+                    "ranks_1": 1.0,
+                    "speaks_2": 25.0,
+                    "ranks_2": 4.0,
+                    "speaks_total": 54.0,
+                    "ranks_total": 5.0
+                },
+                "3": {
+                    "side": "gov",
+                    "result": "w",
+                    "opponent": "Cathie Jo Martin enthusiasts",
+                    "judge": [
+                        "Irina \"Tab God\" Znamirowski",
+                        "Zachary Lynch"
+                    ],
+                    "speaks_1": 33.0,
+                    "ranks_1": 1.0,
+                    "speaks_2": 30.0,
+                    "ranks_2": 4.0,
+                    "speaks_total": 63.0,
+                    "ranks_total": 5.0
+                },
+                "4": {
+                    "side": "gov",
+                    "result": "l",
+                    "opponent": "Harold & that other Asian guy",
+                    "judge": [
+                        "Gianna Bruno",
+                        "Mandy Feureman"
+                    ],
+                    "speaks_1": 27.0,
+                    "ranks_1": 3.0,
+                    "speaks_2": 27.0,
+                    "ranks_2": 4.0,
+                    "speaks_total": 54.0,
+                    "ranks_total": 7.0
+                },
+                "5": {
+                    "side": "gov",
+                    "result": "w",
+                    "opponent": "Hot Singles in Your Area",
+                    "judge": [
+                        "Alex Pickett",
+                        "Maddie Watson"
+                    ],
+                    "speaks_1": 28.0,
+                    "ranks_1": 1.0,
+                    "speaks_2": 27.0,
+                    "ranks_2": 3.0,
+                    "speaks_total": 55.0,
+                    "ranks_total": 4.0
+                }
+            },
+            "total_wins": 3,
+            "total_speaks_1": 149.0,
+            "total_ranks_1": 7.0,
+            "total_speaks_2": 138.0,
+            "total_ranks_2": 18.0,
+            "total_speaks": 287.0,
+            "total_ranks": 25.0
+        },
+        "Aurelie N and Pranav V": {
+            "debater_1": {
+                "name": "Aurelie Nishimwe",
+                "status": "novice"
+            },
+            "debater_2": {
+                "name": "Pranav Vadlamudi",
+                "status": "novice"
+            },
+            "rounds": {
+                "1": {
+                    "side": "opp",
+                    "result": "l",
+                    "opponent": "Los Pollos Hermanos??",
+                    "judge": [
+                        "Mandy Feureman",
+                        "Zachary Lynch"
+                    ],
+                    "speaks_1": 28.0,
+                    "ranks_1": 3.0,
+                    "speaks_2": 27.0,
+                    "ranks_2": 4.0,
+                    "speaks_total": 55.0,
+                    "ranks_total": 7.0
+                },
+                "2": {
+                    "side": "gov",
+                    "result": "l",
+                    "opponent": "I had a paper but chose debate",
+                    "judge": [
+                        "Gianna Bruno",
+                        "Thabang Matona"
+                    ],
+                    "speaks_1": 24.0,
+                    "ranks_1": 3.0,
+                    "speaks_2": 23.0,
+                    "ranks_2": 4.0,
+                    "speaks_total": 47.0,
+                    "ranks_total": 7.0
+                },
+                "3": {
+                    "side": "opp",
+                    "result": "w",
+                    "opponent": "The Last Dance!",
+                    "judge": [
+                        "Maxwell Weiner"
+                    ],
+                    "speaks_1": 29.0,
+                    "ranks_1": 2.0,
+                    "speaks_2": 29.0,
+                    "ranks_2": 1.0,
+                    "speaks_total": 58.0,
+                    "ranks_total": 3.0
+                },
+                "4": {
+                    "side": "opp",
+                    "result": "l",
+                    "opponent": "Cathie Jo Martin enthusiasts",
+                    "judge": [
+                        "Sarah Moore",
+                        "Sean Berman"
+                    ],
+                    "speaks_1": 29.0,
+                    "ranks_1": 3.0,
+                    "speaks_2": 27.0,
+                    "ranks_2": 4.0,
+                    "speaks_total": 56.0,
+                    "ranks_total": 7.0
+                },
+                "5": {
+                    "side": null,
+                    "result": "bye",
+                    "opponent": null,
+                    "judge": null,
+                    "speaks_1": "average",
+                    "ranks_1": "average",
+                    "speaks_2": "average",
+                    "ranks_2": "average",
+                    "speaks_total": "average",
+                    "ranks_total": "average"
+                }
+            },
+            "total_wins": 2,
+            "total_speaks_1": 137.5,
+            "total_ranks_1": 13.75,
+            "total_speaks_2": 132.5,
+            "total_ranks_2": 16.25,
+            "total_speaks": 270.0,
+            "total_ranks": 30.0
+        },
+        "Charlie McLarnon and Sam Borne": {
+            "debater_1": {
+                "name": "Charlie McLarnon",
+                "status": "novice"
+            },
+            "debater_2": {
+                "name": "Sam Borne",
+                "status": "novice"
+            },
+            "rounds": {
+                "1": {
+                    "side": "gov",
+                    "result": "l",
+                    "opponent": "Willy-Tufts",
+                    "judge": [
+                        "Sarah Moore"
+                    ],
+                    "speaks_1": 30.0,
+                    "ranks_1": 2.0,
+                    "speaks_2": 29.0,
+                    "ranks_2": 4.0,
+                    "speaks_total": 59.0,
+                    "ranks_total": 6.0
+                },
+                "2": {
+                    "side": "gov",
+                    "result": "w",
+                    "opponent": "The Last Dance!",
+                    "judge": [
+                        "Connor Beaney",
+                        "Zachary Lynch"
+                    ],
+                    "speaks_1": 29.0,
+                    "ranks_1": 2.0,
+                    "speaks_2": 31.0,
+                    "ranks_2": 1.0,
+                    "speaks_total": 60.0,
+                    "ranks_total": 3.0
+                },
+                "3": {
+                    "side": "gov",
+                    "result": "l",
+                    "opponent": "Harold & that other Asian guy",
+                    "judge": [
+                        "Alex Pickett",
+                        "Ben Robertson"
+                    ],
+                    "speaks_1": 27.0,
+                    "ranks_1": 4.0,
+                    "speaks_2": 28.0,
+                    "ranks_2": 3.0,
+                    "speaks_total": 55.0,
+                    "ranks_total": 7.0
+                },
+                "4": {
+                    "side": "opp",
+                    "result": "l",
+                    "opponent": "Hot Singles in Your Area",
+                    "judge": [
+                        "Thabang Matona",
+                        "Victoria Hagen"
+                    ],
+                    "speaks_1": 26.0,
+                    "ranks_1": 4.0,
+                    "speaks_2": 29.0,
+                    "ranks_2": 2.0,
+                    "speaks_total": 55.0,
+                    "ranks_total": 6.0
+                },
+                "5": {
+                    "side": "opp",
+                    "result": "w",
+                    "opponent": "Buenas Vibras??",
+                    "judge": [
+                        "Srishti Nautiyal"
+                    ],
+                    "speaks_1": 29.0,
+                    "ranks_1": 1.0,
+                    "speaks_2": 29.0,
+                    "ranks_2": 2.0,
+                    "speaks_total": 58.0,
+                    "ranks_total": 3.0
+                }
+            },
+            "total_wins": 2,
+            "total_speaks_1": 141.0,
+            "total_ranks_1": 13.0,
+            "total_speaks_2": 146.0,
+            "total_ranks_2": 12.0,
+            "total_speaks": 287.0,
+            "total_ranks": 25.0
+        },
+        "Harvard BZ": {
+            "debater_1": {
+                "name": "Michael Bonacina",
+                "status": "novice"
+            },
+            "debater_2": {
+                "name": "Pary Zadeh",
+                "status": "novice"
+            },
+            "rounds": {
+                "1": {
+                    "side": null,
+                    "result": "forfeit",
+                    "opponent": null,
+                    "judge": null,
+                    "speaks_1": 0.0,
+                    "ranks_1": 0.0,
+                    "speaks_2": 0.0,
+                    "ranks_2": 0.0,
+                    "speaks_total": 0.0,
+                    "ranks_total": 0.0
+                },
+                "2": {
+                    "side": null,
+                    "result": "forfeit",
+                    "opponent": null,
+                    "judge": null,
+                    "speaks_1": 0.0,
+                    "ranks_1": 0.0,
+                    "speaks_2": 0.0,
+                    "ranks_2": 0.0,
+                    "speaks_total": 0.0,
+                    "ranks_total": 0.0
+                },
+                "3": {
+                    "side": null,
+                    "result": "bye",
+                    "opponent": null,
+                    "judge": null,
+                    "speaks_1": "average",
+                    "ranks_1": "average",
+                    "speaks_2": "average",
+                    "ranks_2": "average",
+                    "speaks_total": "average",
+                    "ranks_total": "average"
+                },
+                "4": {
+                    "side": "gov",
+                    "result": "l",
+                    "opponent": "One Hit Wonder",
+                    "judge": [
+                        "Alex Pickett",
+                        "Srishti Nautiyal"
+                    ],
+                    "speaks_1": 29.0,
+                    "ranks_1": 3.0,
+                    "speaks_2": 28.0,
+                    "ranks_2": 4.0,
+                    "speaks_total": 57.0,
+                    "ranks_total": 7.0
+                },
+                "5": {
+                    "side": "opp",
+                    "result": "l",
+                    "opponent": "Los Pollos Hermanos??",
+                    "judge": [
+                        "Sarah Moore",
+                        "Thabang Matona"
+                    ],
+                    "speaks_1": 27.0,
+                    "ranks_1": 2.0,
+                    "speaks_2": 27.0,
+                    "ranks_2": 4.0,
+                    "speaks_total": 54.0,
+                    "ranks_total": 6.0
+                }
+            },
+            "total_wins": 1,
+            "total_speaks_1": 70.0,
+            "total_ranks_1": 6.25,
+            "total_speaks_2": 68.75,
+            "total_ranks_2": 10.0,
+            "total_speaks": 138.75,
+            "total_ranks": 16.25
+        },
+        "One Hit Wonder": {
+            "debater_1": {
+                "name": "Neftali Reynoso",
+                "status": "varsity"
+            },
+            "debater_2": {
+                "name": "Zack Cassidy",
+                "status": "varsity"
+            },
+            "rounds": {
+                "1": {
+                    "side": "opp",
+                    "result": "w",
+                    "opponent": "Eric and Morgan",
+                    "judge": [
+                        "Ethan Shurberg",
+                        "Thabang Matona"
+                    ],
+                    "speaks_1": 30.0,
+                    "ranks_1": 1.0,
+                    "speaks_2": 29.0,
+                    "ranks_2": 2.0,
+                    "speaks_total": 59.0,
+                    "ranks_total": 3.0
+                },
+                "2": {
+                    "side": "opp",
+                    "result": "w",
+                    "opponent": "UMasss TP",
+                    "judge": [
+                        "Elena Giacolletti",
+                        "Sarah Moore"
+                    ],
+                    "speaks_1": 29.0,
+                    "ranks_1": 2.0,
+                    "speaks_2": 28.0,
+                    "ranks_2": 3.0,
+                    "speaks_total": 57.0,
+                    "ranks_total": 5.0
+                },
+                "3": {
+                    "side": "gov",
+                    "result": "l",
+                    "opponent": "One Last Dumb",
+                    "judge": [
+                        "Connor Beaney",
+                        "Gianna Bruno"
+                    ],
+                    "speaks_1": 31.0,
+                    "ranks_1": 3.0,
+                    "speaks_2": 30.0,
+                    "ranks_2": 4.0,
+                    "speaks_total": 61.0,
+                    "ranks_total": 7.0
+                },
+                "4": {
+                    "side": "opp",
+                    "result": "w",
+                    "opponent": "Harvard BZ",
+                    "judge": [
+                        "Alex Pickett",
+                        "Srishti Nautiyal"
+                    ],
+                    "speaks_1": 29.0,
+                    "ranks_1": 2.0,
+                    "speaks_2": 30.0,
+                    "ranks_2": 1.0,
+                    "speaks_total": 59.0,
+                    "ranks_total": 3.0
+                },
+                "5": {
+                    "side": "gov",
+                    "result": "w",
+                    "opponent": "Harold & that other Asian guy",
+                    "judge": [
+                        "Zachary Lynch"
+                    ],
+                    "speaks_1": 33.0,
+                    "ranks_1": 1.0,
+                    "speaks_2": 32.0,
+                    "ranks_2": 2.0,
+                    "speaks_total": 65.0,
+                    "ranks_total": 3.0
+                }
+            },
+            "total_wins": 4,
+            "total_speaks_1": 152.0,
+            "total_ranks_1": 9.0,
+            "total_speaks_2": 149.0,
+            "total_ranks_2": 12.0,
+            "total_speaks": 301.0,
+            "total_ranks": 21.0
+        },
+        "I had a paper but chose debate": {
+            "debater_1": {
+                "name": "Alice Marchant",
+                "status": "novice"
+            },
+            "debater_2": {
+                "name": "Inbar Sapir",
+                "status": "novice"
+            },
+            "rounds": {
+                "1": {
+                    "side": "gov",
+                    "result": "l",
+                    "opponent": "UMasss TP",
+                    "judge": [
+                        "Connor Beaney",
+                        "Maxwell Weiner"
+                    ],
+                    "speaks_1": 28.0,
+                    "ranks_1": 4.0,
+                    "speaks_2": 31.0,
+                    "ranks_2": 2.0,
+                    "speaks_total": 59.0,
+                    "ranks_total": 6.0
+                },
+                "2": {
+                    "side": "opp",
+                    "result": "w",
+                    "opponent": "Aurelie N and Pranav V",
+                    "judge": [
+                        "Gianna Bruno",
+                        "Thabang Matona"
+                    ],
+                    "speaks_1": 25.0,
+                    "ranks_1": 2.0,
+                    "speaks_2": 27.0,
+                    "ranks_2": 1.0,
+                    "speaks_total": 52.0,
+                    "ranks_total": 3.0
+                },
+                "3": {
+                    "side": "opp",
+                    "result": "w",
+                    "opponent": "Hot Singles in Your Area",
+                    "judge": [
+                        "Sarah Moore"
+                    ],
+                    "speaks_1": 28.0,
+                    "ranks_1": 3.0,
+                    "speaks_2": 30.0,
+                    "ranks_2": 1.0,
+                    "speaks_total": 58.0,
+                    "ranks_total": 4.0
+                },
+                "4": {
+                    "side": "gov",
+                    "result": "l",
+                    "opponent": "Willy-Tufts",
+                    "judge": [
+                        "Irina \"Tab God\" Znamirowski"
+                    ],
+                    "speaks_1": 27.0,
+                    "ranks_1": 4.0,
+                    "speaks_2": 28.0,
+                    "ranks_2": 3.0,
+                    "speaks_total": 55.0,
+                    "ranks_total": 7.0
+                },
+                "5": {
+                    "side": "opp",
+                    "result": "l",
+                    "opponent": "Jiz",
+                    "judge": [
+                        "Alex Bennett",
+                        "Sean Berman"
+                    ],
+                    "speaks_1": 26.0,
+                    "ranks_1": 4.0,
+                    "speaks_2": 28.0,
+                    "ranks_2": 3.0,
+                    "speaks_total": 54.0,
+                    "ranks_total": 7.0
+                }
+            },
+            "total_wins": 2,
+            "total_speaks_1": 134.0,
+            "total_ranks_1": 17.0,
+            "total_speaks_2": 144.0,
+            "total_ranks_2": 10.0,
+            "total_speaks": 278.0,
+            "total_ranks": 27.0
+        },
+        "Harold & that other Asian guy": {
+            "debater_1": {
+                "name": "Muxi Yu",
+                "status": "novice"
+            },
+            "debater_2": {
+                "name": "Rishven Pravin",
+                "status": "varsity"
+            },
+            "rounds": {
+                "1": {
+                    "side": "gov",
+                    "result": "l",
+                    "opponent": "One Last Dumb",
+                    "judge": [
+                        "Irina \"Tab God\" Znamirowski"
+                    ],
+                    "speaks_1": 32.0,
+                    "ranks_1": 3.0,
+                    "speaks_2": 32.0,
+                    "ranks_2": 2.0,
+                    "speaks_total": 64.0,
+                    "ranks_total": 5.0
+                },
+                "2": {
+                    "side": "gov",
+                    "result": "w",
+                    "opponent": "Eric and Morgan",
+                    "judge": [
+                        "Maddie Watson",
+                        "Sean Berman"
+                    ],
+                    "speaks_1": 29.0,
+                    "ranks_1": 4.0,
+                    "speaks_2": 32.0,
+                    "ranks_2": 1.0,
+                    "speaks_total": 61.0,
+                    "ranks_total": 5.0
+                },
+                "3": {
+                    "side": "opp",
+                    "result": "w",
+                    "opponent": "Charlie McLarnon and Sam Borne",
+                    "judge": [
+                        "Alex Pickett",
+                        "Ben Robertson"
+                    ],
+                    "speaks_1": 30.0,
+                    "ranks_1": 2.0,
+                    "speaks_2": 31.0,
+                    "ranks_2": 1.0,
+                    "speaks_total": 61.0,
+                    "ranks_total": 3.0
+                },
+                "4": {
+                    "side": "opp",
+                    "result": "w",
+                    "opponent": "UMasss TP",
+                    "judge": [
+                        "Gianna Bruno",
+                        "Mandy Feureman"
+                    ],
+                    "speaks_1": 28.0,
+                    "ranks_1": 2.0,
+                    "speaks_2": 29.0,
+                    "ranks_2": 1.0,
+                    "speaks_total": 57.0,
+                    "ranks_total": 3.0
+                },
+                "5": {
+                    "side": "opp",
+                    "result": "l",
+                    "opponent": "One Hit Wonder",
+                    "judge": [
+                        "Zachary Lynch"
+                    ],
+                    "speaks_1": 31.0,
+                    "ranks_1": 3.0,
+                    "speaks_2": 31.0,
+                    "ranks_2": 4.0,
+                    "speaks_total": 62.0,
+                    "ranks_total": 7.0
+                }
+            },
+            "total_wins": 3,
+            "total_speaks_1": 150.0,
+            "total_ranks_1": 14.0,
+            "total_speaks_2": 155.0,
+            "total_ranks_2": 9.0,
+            "total_speaks": 305.0,
+            "total_ranks": 23.0
+        },
+        "Cathie Jo Martin enthusiasts": {
+            "debater_1": {
+                "name": "David Williams",
+                "status": "novice"
+            },
+            "debater_2": {
+                "name": "Mae Lucchino",
+                "status": "novice"
+            },
+            "rounds": {
+                "1": {
+                    "side": "gov",
+                    "result": "w",
+                    "opponent": "Hot Singles in Your Area",
+                    "judge": [
+                        "Ben Robertson",
+                        "Srishti Nautiyal"
+                    ],
+                    "speaks_1": 29.0,
+                    "ranks_1": 3.0,
+                    "speaks_2": 30.0,
+                    "ranks_2": 1.0,
+                    "speaks_total": 59.0,
+                    "ranks_total": 4.0
+                },
+                "2": {
+                    "side": "opp",
+                    "result": "l",
+                    "opponent": "One Last Dumb",
+                    "judge": [
+                        "Alex Pickett",
+                        "Ethan Shurberg"
+                    ],
+                    "speaks_1": 32.0,
+                    "ranks_1": 3.0,
+                    "speaks_2": 30.0,
+                    "ranks_2": 4.0,
+                    "speaks_total": 62.0,
+                    "ranks_total": 7.0
+                },
+                "3": {
+                    "side": "opp",
+                    "result": "l",
+                    "opponent": "UMasss TP",
+                    "judge": [
+                        "Irina \"Tab God\" Znamirowski",
+                        "Zachary Lynch"
+                    ],
+                    "speaks_1": 32.0,
+                    "ranks_1": 2.0,
+                    "speaks_2": 30.0,
+                    "ranks_2": 3.0,
+                    "speaks_total": 62.0,
+                    "ranks_total": 5.0
+                },
+                "4": {
+                    "side": "gov",
+                    "result": "w",
+                    "opponent": "Aurelie N and Pranav V",
+                    "judge": [
+                        "Sarah Moore",
+                        "Sean Berman"
+                    ],
+                    "speaks_1": 31.0,
+                    "ranks_1": 1.0,
+                    "speaks_2": 30.0,
+                    "ranks_2": 2.0,
+                    "speaks_total": 61.0,
+                    "ranks_total": 3.0
+                },
+                "5": {
+                    "side": "opp",
+                    "result": "w",
+                    "opponent": "Eric and Morgan",
+                    "judge": [
+                        "Gianna Bruno"
+                    ],
+                    "speaks_1": 28.0,
+                    "ranks_1": 1.0,
+                    "speaks_2": 27.0,
+                    "ranks_2": 2.0,
+                    "speaks_total": 55.0,
+                    "ranks_total": 3.0
+                }
+            },
+            "total_wins": 3,
+            "total_speaks_1": 152.0,
+            "total_ranks_1": 10.0,
+            "total_speaks_2": 147.0,
+            "total_ranks_2": 12.0,
+            "total_speaks": 299.0,
+            "total_ranks": 22.0
+        },
+        "Buenas Vibras??": {
+            "debater_1": {
+                "name": "Henry Chuang",
+                "status": "novice"
+            },
+            "debater_2": {
+                "name": "Ryan Lin",
+                "status": "novice"
+            },
+            "rounds": {
+                "1": {
+                    "side": "opp",
+                    "result": "l",
+                    "opponent": "Jiz",
+                    "judge": [
+                        "Alex Pickett",
+                        "Gianna Bruno"
+                    ],
+                    "speaks_1": 26.0,
+                    "ranks_1": 4.0,
+                    "speaks_2": 27.0,
+                    "ranks_2": 3.0,
+                    "speaks_total": 53.0,
+                    "ranks_total": 7.0
+                },
+                "2": {
+                    "side": "opp",
+                    "result": "l",
+                    "opponent": "Hot Singles in Your Area",
+                    "judge": [
+                        "Alex Bennett",
+                        "Mandy Feureman"
+                    ],
+                    "speaks_1": 29.0,
+                    "ranks_1": 3.0,
+                    "speaks_2": 28.0,
+                    "ranks_2": 4.0,
+                    "speaks_total": 57.0,
+                    "ranks_total": 7.0
+                },
+                "3": {
+                    "side": "gov",
+                    "result": "l",
+                    "opponent": "Eric and Morgan",
+                    "judge": [
+                        "Elena Giacolletti"
+                    ],
+                    "speaks_1": 28.0,
+                    "ranks_1": 4.0,
+                    "speaks_2": 29.0,
+                    "ranks_2": 3.0,
+                    "speaks_total": 57.0,
+                    "ranks_total": 7.0
+                },
+                "4": {
+                    "side": null,
+                    "result": "bye",
+                    "opponent": null,
+                    "judge": null,
+                    "speaks_1": "average",
+                    "ranks_1": "average",
+                    "speaks_2": "average",
+                    "ranks_2": "average",
+                    "speaks_total": "average",
+                    "ranks_total": "average"
+                },
+                "5": {
+                    "side": "gov",
+                    "result": "l",
+                    "opponent": "Charlie McLarnon and Sam Borne",
+                    "judge": [
+                        "Srishti Nautiyal"
+                    ],
+                    "speaks_1": 28.0,
+                    "ranks_1": 3.0,
+                    "speaks_2": 27.0,
+                    "ranks_2": 4.0,
+                    "speaks_total": 55.0,
+                    "ranks_total": 7.0
+                }
+            },
+            "total_wins": 1,
+            "total_speaks_1": 138.75,
+            "total_ranks_1": 17.5,
+            "total_speaks_2": 138.75,
+            "total_ranks_2": 17.5,
+            "total_speaks": 277.5,
+            "total_ranks": 35.0
+        },
+        "Los Pollos Hermanos??": {
+            "debater_1": {
+                "name": "Edward Khatchatrian",
+                "status": "novice"
+            },
+            "debater_2": {
+                "name": "Joe Clark",
+                "status": "novice"
+            },
+            "rounds": {
+                "1": {
+                    "side": "gov",
+                    "result": "w",
+                    "opponent": "Aurelie N and Pranav V",
+                    "judge": [
+                        "Mandy Feureman",
+                        "Zachary Lynch"
+                    ],
+                    "speaks_1": 31.0,
+                    "ranks_1": 1.0,
+                    "speaks_2": 30.0,
+                    "ranks_2": 2.0,
+                    "speaks_total": 61.0,
+                    "ranks_total": 3.0
+                },
+                "2": {
+                    "side": "opp",
+                    "result": "l",
+                    "opponent": "rip penguin livestream",
+                    "judge": [
+                        "Ben Robertson",
+                        "Irina \"Tab God\" Znamirowski"
+                    ],
+                    "speaks_1": 27.0,
+                    "ranks_1": 4.0,
+                    "speaks_2": 27.0,
+                    "ranks_2": 3.0,
+                    "speaks_total": 54.0,
+                    "ranks_total": 7.0
+                },
+                "3": {
+                    "side": "opp",
+                    "result": "l",
+                    "opponent": "Willy-Tufts",
+                    "judge": [
+                        "Maddie Watson",
+                        "Sean Berman"
+                    ],
+                    "speaks_1": 27.0,
+                    "ranks_1": 3.0,
+                    "speaks_2": 24.0,
+                    "ranks_2": 4.0,
+                    "speaks_total": 51.0,
+                    "ranks_total": 7.0
+                },
+                "4": {
+                    "side": "opp",
+                    "result": "l",
+                    "opponent": "Eric and Morgan",
+                    "judge": [
+                        "Connor Beaney"
+                    ],
+                    "speaks_1": 30.0,
+                    "ranks_1": 2.0,
+                    "speaks_2": 28.0,
+                    "ranks_2": 4.0,
+                    "speaks_total": 58.0,
+                    "ranks_total": 6.0
+                },
+                "5": {
+                    "side": "gov",
+                    "result": "w",
+                    "opponent": "Harvard BZ",
+                    "judge": [
+                        "Sarah Moore",
+                        "Thabang Matona"
+                    ],
+                    "speaks_1": 27.0,
+                    "ranks_1": 3.0,
+                    "speaks_2": 27.0,
+                    "ranks_2": 1.0,
+                    "speaks_total": 54.0,
+                    "ranks_total": 4.0
+                }
+            },
+            "total_wins": 2,
+            "total_speaks_1": 142.0,
+            "total_ranks_1": 13.0,
+            "total_speaks_2": 136.0,
+            "total_ranks_2": 14.0,
+            "total_speaks": 278.0,
+            "total_ranks": 27.0
+        },
+        "Willy-Tufts": {
+            "debater_1": {
+                "name": "Jehan Chanmugam",
+                "status": "varsity"
+            },
+            "debater_2": {
+                "name": "Vincent Tocci",
+                "status": "novice"
+            },
+            "rounds": {
+                "1": {
+                    "side": "opp",
+                    "result": "w",
+                    "opponent": "Charlie McLarnon and Sam Borne",
+                    "judge": [
+                        "Sarah Moore"
+                    ],
+                    "speaks_1": 31.0,
+                    "ranks_1": 1.0,
+                    "speaks_2": 29.0,
+                    "ranks_2": 3.0,
+                    "speaks_total": 60.0,
+                    "ranks_total": 4.0
+                },
+                "2": {
+                    "side": "gov",
+                    "result": "l",
+                    "opponent": "Jiz",
+                    "judge": [
+                        "Maxwell Weiner",
+                        "Srishti Nautiyal"
+                    ],
+                    "speaks_1": 31.0,
+                    "ranks_1": 2.0,
+                    "speaks_2": 30.0,
+                    "ranks_2": 3.0,
+                    "speaks_total": 61.0,
+                    "ranks_total": 5.0
+                },
+                "3": {
+                    "side": "gov",
+                    "result": "w",
+                    "opponent": "Los Pollos Hermanos??",
+                    "judge": [
+                        "Maddie Watson",
+                        "Sean Berman"
+                    ],
+                    "speaks_1": 31.0,
+                    "ranks_1": 2.0,
+                    "speaks_2": 32.0,
+                    "ranks_2": 1.0,
+                    "speaks_total": 63.0,
+                    "ranks_total": 3.0
+                },
+                "4": {
+                    "side": "opp",
+                    "result": "w",
+                    "opponent": "I had a paper but chose debate",
+                    "judge": [
+                        "Irina \"Tab God\" Znamirowski"
+                    ],
+                    "speaks_1": 32.0,
+                    "ranks_1": 1.0,
+                    "speaks_2": 31.0,
+                    "ranks_2": 2.0,
+                    "speaks_total": 63.0,
+                    "ranks_total": 3.0
+                },
+                "5": {
+                    "side": "gov",
+                    "result": "w",
+                    "opponent": "One Last Dumb",
+                    "judge": [
+                        "Mandy Feureman"
+                    ],
+                    "speaks_1": 31.0,
+                    "ranks_1": 1.0,
+                    "speaks_2": 30.0,
+                    "ranks_2": 2.0,
+                    "speaks_total": 61.0,
+                    "ranks_total": 3.0
+                }
+            },
+            "total_wins": 4,
+            "total_speaks_1": 156.0,
+            "total_ranks_1": 7.0,
+            "total_speaks_2": 152.0,
+            "total_ranks_2": 11.0,
+            "total_speaks": 308.0,
+            "total_ranks": 18.0
+        },
+        "The Last Dance!": {
+            "debater_1": {
+                "name": "Meichi Wu",
+                "status": "novice"
+            },
+            "debater_2": {
+                "name": "Rui Gong",
+                "status": "novice"
+            },
+            "rounds": {
+                "1": {
+                    "side": "gov",
+                    "result": "l",
+                    "opponent": "rip penguin livestream",
+                    "judge": [
+                        "Elena Giacolletti",
+                        "Maddie Watson"
+                    ],
+                    "speaks_1": 27.0,
+                    "ranks_1": 3.0,
+                    "speaks_2": 26.0,
+                    "ranks_2": 4.0,
+                    "speaks_total": 53.0,
+                    "ranks_total": 7.0
+                },
+                "2": {
+                    "side": "opp",
+                    "result": "l",
+                    "opponent": "Charlie McLarnon and Sam Borne",
+                    "judge": [
+                        "Connor Beaney",
+                        "Zachary Lynch"
+                    ],
+                    "speaks_1": 29.0,
+                    "ranks_1": 3.0,
+                    "speaks_2": 28.0,
+                    "ranks_2": 4.0,
+                    "speaks_total": 57.0,
+                    "ranks_total": 7.0
+                },
+                "3": {
+                    "side": "gov",
+                    "result": "l",
+                    "opponent": "Aurelie N and Pranav V",
+                    "judge": [
+                        "Maxwell Weiner"
+                    ],
+                    "speaks_1": 28.0,
+                    "ranks_1": 3.0,
+                    "speaks_2": 28.0,
+                    "ranks_2": 4.0,
+                    "speaks_total": 56.0,
+                    "ranks_total": 7.0
+                },
+                "4": {
+                    "side": null,
+                    "result": "forfeit",
+                    "opponent": null,
+                    "judge": null,
+                    "speaks_1": 0.0,
+                    "ranks_1": 0.0,
+                    "speaks_2": 0.0,
+                    "ranks_2": 0.0,
+                    "speaks_total": 0.0,
+                    "ranks_total": 0.0
+                },
+                "5": {
+                    "side": null,
+                    "result": "forfeit",
+                    "opponent": null,
+                    "judge": null,
+                    "speaks_1": 0.0,
+                    "ranks_1": 0.0,
+                    "speaks_2": 0.0,
+                    "ranks_2": 0.0,
+                    "speaks_total": 0.0,
+                    "ranks_total": 0.0
+                }
+            },
+            "total_wins": 0,
+            "total_speaks_1": 84.0,
+            "total_ranks_1": 9.0,
+            "total_speaks_2": 82.0,
+            "total_ranks_2": 12.0,
+            "total_speaks": 166.0,
+            "total_ranks": 21.0
+        },
+        "Eric and Morgan": {
+            "debater_1": {
+                "name": "Eric Trueswell",
+                "status": "varsity"
+            },
+            "debater_2": {
+                "name": "Morgan Coutu",
+                "status": "novice"
+            },
+            "rounds": {
+                "1": {
+                    "side": "gov",
+                    "result": "l",
+                    "opponent": "One Hit Wonder",
+                    "judge": [
+                        "Ethan Shurberg",
+                        "Thabang Matona"
+                    ],
+                    "speaks_1": 29.0,
+                    "ranks_1": 3.0,
+                    "speaks_2": 27.0,
+                    "ranks_2": 4.0,
+                    "speaks_total": 56.0,
+                    "ranks_total": 7.0
+                },
+                "2": {
+                    "side": "opp",
+                    "result": "l",
+                    "opponent": "Harold & that other Asian guy",
+                    "judge": [
+                        "Maddie Watson",
+                        "Sean Berman"
+                    ],
+                    "speaks_1": 29.0,
+                    "ranks_1": 2.0,
+                    "speaks_2": 29.0,
+                    "ranks_2": 3.0,
+                    "speaks_total": 58.0,
+                    "ranks_total": 5.0
+                },
+                "3": {
+                    "side": "opp",
+                    "result": "w",
+                    "opponent": "Buenas Vibras??",
+                    "judge": [
+                        "Elena Giacolletti"
+                    ],
+                    "speaks_1": 30.0,
+                    "ranks_1": 2.0,
+                    "speaks_2": 31.0,
+                    "ranks_2": 1.0,
+                    "speaks_total": 61.0,
+                    "ranks_total": 3.0
+                },
+                "4": {
+                    "side": "gov",
+                    "result": "w",
+                    "opponent": "Los Pollos Hermanos??",
+                    "judge": [
+                        "Connor Beaney"
+                    ],
+                    "speaks_1": 31.0,
+                    "ranks_1": 1.0,
+                    "speaks_2": 29.0,
+                    "ranks_2": 3.0,
+                    "speaks_total": 60.0,
+                    "ranks_total": 4.0
+                },
+                "5": {
+                    "side": "gov",
+                    "result": "l",
+                    "opponent": "Cathie Jo Martin enthusiasts",
+                    "judge": [
+                        "Gianna Bruno"
+                    ],
+                    "speaks_1": 25.0,
+                    "ranks_1": 4.0,
+                    "speaks_2": 25.0,
+                    "ranks_2": 3.0,
+                    "speaks_total": 50.0,
+                    "ranks_total": 7.0
+                }
+            },
+            "total_wins": 2,
+            "total_speaks_1": 144.0,
+            "total_ranks_1": 12.0,
+            "total_speaks_2": 141.0,
+            "total_ranks_2": 14.0,
+            "total_speaks": 285.0,
+            "total_ranks": 26.0
+        },
+        "rip penguin livestream": {
+            "debater_1": {
+                "name": "Rachel Fei",
+                "status": "varsity"
+            },
+            "debater_2": {
+                "name": "Sarah Bakal",
+                "status": "novice"
+            },
+            "rounds": {
+                "1": {
+                    "side": "opp",
+                    "result": "w",
+                    "opponent": "The Last Dance!",
+                    "judge": [
+                        "Elena Giacolletti",
+                        "Maddie Watson"
+                    ],
+                    "speaks_1": 31.0,
+                    "ranks_1": 1.0,
+                    "speaks_2": 28.0,
+                    "ranks_2": 2.0,
+                    "speaks_total": 59.0,
+                    "ranks_total": 3.0
+                },
+                "2": {
+                    "side": "gov",
+                    "result": "w",
+                    "opponent": "Los Pollos Hermanos??",
+                    "judge": [
+                        "Ben Robertson",
+                        "Irina \"Tab God\" Znamirowski"
+                    ],
+                    "speaks_1": 31.0,
+                    "ranks_1": 1.0,
+                    "speaks_2": 30.0,
+                    "ranks_2": 2.0,
+                    "speaks_total": 61.0,
+                    "ranks_total": 3.0
+                },
+                "3": {
+                    "side": "opp",
+                    "result": "l",
+                    "opponent": "Jiz",
+                    "judge": [
+                        "Mandy Feureman",
+                        "Victoria Hagen"
+                    ],
+                    "speaks_1": 28.0,
+                    "ranks_1": 3.0,
+                    "speaks_2": 28.0,
+                    "ranks_2": 4.0,
+                    "speaks_total": 56.0,
+                    "ranks_total": 7.0
+                },
+                "4": {
+                    "side": null,
+                    "result": "forfeit",
+                    "opponent": null,
+                    "judge": null,
+                    "speaks_1": 0.0,
+                    "ranks_1": 0.0,
+                    "speaks_2": 0.0,
+                    "ranks_2": 0.0,
+                    "speaks_total": 0.0,
+                    "ranks_total": 0.0
+                },
+                "5": {
+                    "side": null,
+                    "result": "forfeit",
+                    "opponent": null,
+                    "judge": null,
+                    "speaks_1": 0.0,
+                    "ranks_1": 0.0,
+                    "speaks_2": 0.0,
+                    "ranks_2": 0.0,
+                    "speaks_total": 0.0,
+                    "ranks_total": 0.0
+                }
+            },
+            "total_wins": 2,
+            "total_speaks_1": 90.0,
+            "total_ranks_1": 5.0,
+            "total_speaks_2": 86.0,
+            "total_ranks_2": 8.0,
+            "total_speaks": 176.0,
+            "total_ranks": 13.0
+        }
+    },
+    "rounds": {
+        "1": [
+            {
+                "gov_team": "Jiz",
+                "gov_bracket": 0,
+                "gov_result": "w",
+                "gov_1": "Justin Suh",
+                "gov_1_speaks": 29.0,
+                "gov_1_ranks": 2.0,
+                "gov_2": "Liz Kim",
+                "gov_2_speaks": 31.0,
+                "gov_2_ranks": 1.0,
+                "opp_team": "Buenas Vibras??",
+                "opp_bracket": 0,
+                "opp_result": "l",
+                "opp_1": "Henry Chuang",
+                "opp_1_speaks": 26.0,
+                "opp_1_ranks": 4.0,
+                "opp_2": "Ryan Lin",
+                "opp_2_speaks": 27.0,
+                "opp_2_ranks": 3.0,
+                "judge": "Alex Pickett, Gianna Bruno"
+            },
+            {
+                "gov_team": "Harold & that other Asian guy",
+                "gov_bracket": 0,
+                "gov_result": "l",
+                "gov_1": "Muxi Yu",
+                "gov_1_speaks": 32.0,
+                "gov_1_ranks": 3.0,
+                "gov_2": "Rishven Pravin",
+                "gov_2_speaks": 32.0,
+                "gov_2_ranks": 2.0,
+                "opp_team": "One Last Dumb",
+                "opp_bracket": 0,
+                "opp_result": "w",
+                "opp_1": "Aadhav Raviarasan",
+                "opp_1_speaks": 32.0,
+                "opp_1_ranks": 4.0,
+                "opp_2": "Udheesh Gaddipati",
+                "opp_2_speaks": 33.0,
+                "opp_2_ranks": 1.0,
+                "judge": "Irina \"Tab God\" Znamirowski"
+            },
+            {
+                "gov_team": "Cathie Jo Martin enthusiasts",
+                "gov_bracket": 0,
+                "gov_result": "w",
+                "gov_1": "David Williams",
+                "gov_1_speaks": 29.0,
+                "gov_1_ranks": 3.0,
+                "gov_2": "Mae Lucchino",
+                "gov_2_speaks": 30.0,
+                "gov_2_ranks": 1.0,
+                "opp_team": "Hot Singles in Your Area",
+                "opp_bracket": 0,
+                "opp_result": "l",
+                "opp_1": "Isaac Volan",
+                "opp_1_speaks": 28.0,
+                "opp_1_ranks": 4.0,
+                "opp_2": "Oscar Cloutier Potter",
+                "opp_2_speaks": 30.0,
+                "opp_2_ranks": 2.0,
+                "judge": "Ben Robertson, Srishti Nautiyal"
+            },
+            {
+                "gov_team": "I had a paper but chose debate",
+                "gov_bracket": 0,
+                "gov_result": "l",
+                "gov_1": "Alice Marchant",
+                "gov_1_speaks": 28.0,
+                "gov_1_ranks": 4.0,
+                "gov_2": "Inbar Sapir",
+                "gov_2_speaks": 31.0,
+                "gov_2_ranks": 2.0,
+                "opp_team": "UMasss TP",
+                "opp_bracket": 0,
+                "opp_result": "w",
+                "opp_1": "Emily Chow",
+                "opp_1_speaks": 32.0,
+                "opp_1_ranks": 1.0,
+                "opp_2": "Himanshu Padnani",
+                "opp_2_speaks": 29.0,
+                "opp_2_ranks": 3.0,
+                "judge": "Connor Beaney, Maxwell Weiner"
+            },
+            {
+                "gov_team": "Los Pollos Hermanos??",
+                "gov_bracket": 0,
+                "gov_result": "w",
+                "gov_1": "Edward Khatchatrian",
+                "gov_1_speaks": 31.0,
+                "gov_1_ranks": 1.0,
+                "gov_2": "Joe Clark",
+                "gov_2_speaks": 30.0,
+                "gov_2_ranks": 2.0,
+                "opp_team": "Aurelie N and Pranav V",
+                "opp_bracket": 0,
+                "opp_result": "l",
+                "opp_1": "Aurelie Nishimwe",
+                "opp_1_speaks": 28.0,
+                "opp_1_ranks": 3.0,
+                "opp_2": "Pranav Vadlamudi",
+                "opp_2_speaks": 27.0,
+                "opp_2_ranks": 4.0,
+                "judge": "Mandy Feureman, Zachary Lynch"
+            },
+            {
+                "gov_team": "Charlie McLarnon and Sam Borne",
+                "gov_bracket": 0,
+                "gov_result": "l",
+                "gov_1": "Charlie McLarnon",
+                "gov_1_speaks": 30.0,
+                "gov_1_ranks": 2.0,
+                "gov_2": "Sam Borne",
+                "gov_2_speaks": 29.0,
+                "gov_2_ranks": 4.0,
+                "opp_team": "Willy-Tufts",
+                "opp_bracket": 0,
+                "opp_result": "w",
+                "opp_1": "Jehan Chanmugam",
+                "opp_1_speaks": 31.0,
+                "opp_1_ranks": 1.0,
+                "opp_2": "Vincent Tocci",
+                "opp_2_speaks": 29.0,
+                "opp_2_ranks": 3.0,
+                "judge": "Sarah Moore"
+            },
+            {
+                "gov_team": "Eric and Morgan",
+                "gov_bracket": 0,
+                "gov_result": "l",
+                "gov_1": "Eric Trueswell",
+                "gov_1_speaks": 29.0,
+                "gov_1_ranks": 3.0,
+                "gov_2": "Morgan Coutu",
+                "gov_2_speaks": 27.0,
+                "gov_2_ranks": 4.0,
+                "opp_team": "One Hit Wonder",
+                "opp_bracket": 0,
+                "opp_result": "w",
+                "opp_1": "Neftali Reynoso",
+                "opp_1_speaks": 30.0,
+                "opp_1_ranks": 1.0,
+                "opp_2": "Zack Cassidy",
+                "opp_2_speaks": 29.0,
+                "opp_2_ranks": 2.0,
+                "judge": "Ethan Shurberg, Thabang Matona"
+            },
+            {
+                "gov_team": "The Last Dance!",
+                "gov_bracket": 0,
+                "gov_result": "l",
+                "gov_1": "Meichi Wu",
+                "gov_1_speaks": 27.0,
+                "gov_1_ranks": 3.0,
+                "gov_2": "Rui Gong",
+                "gov_2_speaks": 26.0,
+                "gov_2_ranks": 4.0,
+                "opp_team": "rip penguin livestream",
+                "opp_bracket": 0,
+                "opp_result": "w",
+                "opp_1": "Rachel Fei",
+                "opp_1_speaks": 31.0,
+                "opp_1_ranks": 1.0,
+                "opp_2": "Sarah Bakal",
+                "opp_2_speaks": 28.0,
+                "opp_2_ranks": 2.0,
+                "judge": "Elena Giacolletti, Maddie Watson"
+            }
+        ],
+        "2": [
+            {
+                "gov_team": "Willy-Tufts",
+                "gov_bracket": 1,
+                "gov_result": "l",
+                "gov_1": "Jehan Chanmugam",
+                "gov_1_speaks": 31.0,
+                "gov_1_ranks": 2.0,
+                "gov_2": "Vincent Tocci",
+                "gov_2_speaks": 30.0,
+                "gov_2_ranks": 3.0,
+                "opp_team": "Jiz",
+                "opp_bracket": 1,
+                "opp_result": "w",
+                "opp_1": "Justin Suh",
+                "opp_1_speaks": 30.0,
+                "opp_1_ranks": 4.0,
+                "opp_2": "Liz Kim",
+                "opp_2_speaks": 32.0,
+                "opp_2_ranks": 1.0,
+                "judge": "Maxwell Weiner, Srishti Nautiyal"
+            },
+            {
+                "gov_team": "One Last Dumb",
+                "gov_bracket": 1,
+                "gov_result": "w",
+                "gov_1": "Aadhav Raviarasan",
+                "gov_1_speaks": 34.0,
+                "gov_1_ranks": 1.0,
+                "gov_2": "Udheesh Gaddipati",
+                "gov_2_speaks": 33.0,
+                "gov_2_ranks": 2.0,
+                "opp_team": "Cathie Jo Martin enthusiasts",
+                "opp_bracket": 1,
+                "opp_result": "l",
+                "opp_1": "David Williams",
+                "opp_1_speaks": 32.0,
+                "opp_1_ranks": 3.0,
+                "opp_2": "Mae Lucchino",
+                "opp_2_speaks": 30.0,
+                "opp_2_ranks": 4.0,
+                "judge": "Alex Pickett, Ethan Shurberg"
+            },
+            {
+                "gov_team": "Hot Singles in Your Area",
+                "gov_bracket": 0,
+                "gov_result": "w",
+                "gov_1": "Isaac Volan",
+                "gov_1_speaks": 31.0,
+                "gov_1_ranks": 1.0,
+                "gov_2": "Oscar Cloutier Potter",
+                "gov_2_speaks": 30.0,
+                "gov_2_ranks": 2.0,
+                "opp_team": "Buenas Vibras??",
+                "opp_bracket": 0,
+                "opp_result": "l",
+                "opp_1": "Henry Chuang",
+                "opp_1_speaks": 29.0,
+                "opp_1_ranks": 3.0,
+                "opp_2": "Ryan Lin",
+                "opp_2_speaks": 28.0,
+                "opp_2_ranks": 4.0,
+                "judge": "Alex Bennett, Mandy Feureman"
+            },
+            {
+                "gov_team": "UMasss TP",
+                "gov_bracket": 1,
+                "gov_result": "l",
+                "gov_1": "Emily Chow",
+                "gov_1_speaks": 29.0,
+                "gov_1_ranks": 1.0,
+                "gov_2": "Himanshu Padnani",
+                "gov_2_speaks": 25.0,
+                "gov_2_ranks": 4.0,
+                "opp_team": "One Hit Wonder",
+                "opp_bracket": 1,
+                "opp_result": "w",
+                "opp_1": "Neftali Reynoso",
+                "opp_1_speaks": 29.0,
+                "opp_1_ranks": 2.0,
+                "opp_2": "Zack Cassidy",
+                "opp_2_speaks": 28.0,
+                "opp_2_ranks": 3.0,
+                "judge": "Elena Giacolletti, Sarah Moore"
+            },
+            {
+                "gov_team": "Aurelie N and Pranav V",
+                "gov_bracket": 0,
+                "gov_result": "l",
+                "gov_1": "Aurelie Nishimwe",
+                "gov_1_speaks": 24.0,
+                "gov_1_ranks": 3.0,
+                "gov_2": "Pranav Vadlamudi",
+                "gov_2_speaks": 23.0,
+                "gov_2_ranks": 4.0,
+                "opp_team": "I had a paper but chose debate",
+                "opp_bracket": 0,
+                "opp_result": "w",
+                "opp_1": "Alice Marchant",
+                "opp_1_speaks": 25.0,
+                "opp_1_ranks": 2.0,
+                "opp_2": "Inbar Sapir",
+                "opp_2_speaks": 27.0,
+                "opp_2_ranks": 1.0,
+                "judge": "Gianna Bruno, Thabang Matona"
+            },
+            {
+                "gov_team": "Charlie McLarnon and Sam Borne",
+                "gov_bracket": 0,
+                "gov_result": "w",
+                "gov_1": "Charlie McLarnon",
+                "gov_1_speaks": 29.0,
+                "gov_1_ranks": 2.0,
+                "gov_2": "Sam Borne",
+                "gov_2_speaks": 31.0,
+                "gov_2_ranks": 1.0,
+                "opp_team": "The Last Dance!",
+                "opp_bracket": 0,
+                "opp_result": "l",
+                "opp_1": "Meichi Wu",
+                "opp_1_speaks": 29.0,
+                "opp_1_ranks": 3.0,
+                "opp_2": "Rui Gong",
+                "opp_2_speaks": 28.0,
+                "opp_2_ranks": 4.0,
+                "judge": "Connor Beaney, Zachary Lynch"
+            },
+            {
+                "gov_team": "Harold & that other Asian guy",
+                "gov_bracket": 0,
+                "gov_result": "w",
+                "gov_1": "Muxi Yu",
+                "gov_1_speaks": 29.0,
+                "gov_1_ranks": 4.0,
+                "gov_2": "Rishven Pravin",
+                "gov_2_speaks": 32.0,
+                "gov_2_ranks": 1.0,
+                "opp_team": "Eric and Morgan",
+                "opp_bracket": 0,
+                "opp_result": "l",
+                "opp_1": "Eric Trueswell",
+                "opp_1_speaks": 29.0,
+                "opp_1_ranks": 2.0,
+                "opp_2": "Morgan Coutu",
+                "opp_2_speaks": 29.0,
+                "opp_2_ranks": 3.0,
+                "judge": "Maddie Watson, Sean Berman"
+            },
+            {
+                "gov_team": "rip penguin livestream",
+                "gov_bracket": 1,
+                "gov_result": "w",
+                "gov_1": "Rachel Fei",
+                "gov_1_speaks": 31.0,
+                "gov_1_ranks": 1.0,
+                "gov_2": "Sarah Bakal",
+                "gov_2_speaks": 30.0,
+                "gov_2_ranks": 2.0,
+                "opp_team": "Los Pollos Hermanos??",
+                "opp_bracket": 1,
+                "opp_result": "l",
+                "opp_1": "Edward Khatchatrian",
+                "opp_1_speaks": 27.0,
+                "opp_1_ranks": 4.0,
+                "opp_2": "Joe Clark",
+                "opp_2_speaks": 27.0,
+                "opp_2_ranks": 3.0,
+                "judge": "Ben Robertson, Irina \"Tab God\" Znamirowski"
+            }
+        ],
+        "3": [
+            {
+                "bye": "Harvard BZ",
+                "bracket": 0
+            },
+            {
+                "gov_team": "Jiz",
+                "gov_bracket": 2,
+                "gov_result": "w",
+                "gov_1": "Justin Suh",
+                "gov_1_speaks": 31.0,
+                "gov_1_ranks": 1.0,
+                "gov_2": "Liz Kim",
+                "gov_2_speaks": 30.0,
+                "gov_2_ranks": 2.0,
+                "opp_team": "rip penguin livestream",
+                "opp_bracket": 2,
+                "opp_result": "l",
+                "opp_1": "Rachel Fei",
+                "opp_1_speaks": 28.0,
+                "opp_1_ranks": 3.0,
+                "opp_2": "Sarah Bakal",
+                "opp_2_speaks": 28.0,
+                "opp_2_ranks": 4.0,
+                "judge": "Mandy Feureman, Victoria Hagen"
+            },
+            {
+                "gov_team": "One Hit Wonder",
+                "gov_bracket": 2,
+                "gov_result": "l",
+                "gov_1": "Neftali Reynoso",
+                "gov_1_speaks": 31.0,
+                "gov_1_ranks": 3.0,
+                "gov_2": "Zack Cassidy",
+                "gov_2_speaks": 30.0,
+                "gov_2_ranks": 4.0,
+                "opp_team": "One Last Dumb",
+                "opp_bracket": 2,
+                "opp_result": "w",
+                "opp_1": "Aadhav Raviarasan",
+                "opp_1_speaks": 32.0,
+                "opp_1_ranks": 2.0,
+                "opp_2": "Udheesh Gaddipati",
+                "opp_2_speaks": 34.0,
+                "opp_2_ranks": 1.0,
+                "judge": "Connor Beaney, Gianna Bruno"
+            },
+            {
+                "gov_team": "Hot Singles in Your Area",
+                "gov_bracket": 1,
+                "gov_result": "l",
+                "gov_1": "Isaac Volan",
+                "gov_1_speaks": 28.0,
+                "gov_1_ranks": 4.0,
+                "gov_2": "Oscar Cloutier Potter",
+                "gov_2_speaks": 28.0,
+                "gov_2_ranks": 2.0,
+                "opp_team": "I had a paper but chose debate",
+                "opp_bracket": 1,
+                "opp_result": "w",
+                "opp_1": "Alice Marchant",
+                "opp_1_speaks": 28.0,
+                "opp_1_ranks": 3.0,
+                "opp_2": "Inbar Sapir",
+                "opp_2_speaks": 30.0,
+                "opp_2_ranks": 1.0,
+                "judge": "Sarah Moore"
+            },
+            {
+                "gov_team": "UMasss TP",
+                "gov_bracket": 1,
+                "gov_result": "w",
+                "gov_1": "Emily Chow",
+                "gov_1_speaks": 33.0,
+                "gov_1_ranks": 1.0,
+                "gov_2": "Himanshu Padnani",
+                "gov_2_speaks": 30.0,
+                "gov_2_ranks": 4.0,
+                "opp_team": "Cathie Jo Martin enthusiasts",
+                "opp_bracket": 1,
+                "opp_result": "l",
+                "opp_1": "David Williams",
+                "opp_1_speaks": 32.0,
+                "opp_1_ranks": 2.0,
+                "opp_2": "Mae Lucchino",
+                "opp_2_speaks": 30.0,
+                "opp_2_ranks": 3.0,
+                "judge": "Irina \"Tab God\" Znamirowski, Zachary Lynch"
+            },
+            {
+                "gov_team": "The Last Dance!",
+                "gov_bracket": 0,
+                "gov_result": "l",
+                "gov_1": "Meichi Wu",
+                "gov_1_speaks": 28.0,
+                "gov_1_ranks": 3.0,
+                "gov_2": "Rui Gong",
+                "gov_2_speaks": 28.0,
+                "gov_2_ranks": 4.0,
+                "opp_team": "Aurelie N and Pranav V",
+                "opp_bracket": 0,
+                "opp_result": "w",
+                "opp_1": "Aurelie Nishimwe",
+                "opp_1_speaks": 29.0,
+                "opp_1_ranks": 2.0,
+                "opp_2": "Pranav Vadlamudi",
+                "opp_2_speaks": 29.0,
+                "opp_2_ranks": 1.0,
+                "judge": "Maxwell Weiner"
+            },
+            {
+                "gov_team": "Charlie McLarnon and Sam Borne",
+                "gov_bracket": 1,
+                "gov_result": "l",
+                "gov_1": "Charlie McLarnon",
+                "gov_1_speaks": 27.0,
+                "gov_1_ranks": 4.0,
+                "gov_2": "Sam Borne",
+                "gov_2_speaks": 28.0,
+                "gov_2_ranks": 3.0,
+                "opp_team": "Harold & that other Asian guy",
+                "opp_bracket": 1,
+                "opp_result": "w",
+                "opp_1": "Muxi Yu",
+                "opp_1_speaks": 30.0,
+                "opp_1_ranks": 2.0,
+                "opp_2": "Rishven Pravin",
+                "opp_2_speaks": 31.0,
+                "opp_2_ranks": 1.0,
+                "judge": "Alex Pickett, Ben Robertson"
+            },
+            {
+                "gov_team": "Buenas Vibras??",
+                "gov_bracket": 0,
+                "gov_result": "l",
+                "gov_1": "Henry Chuang",
+                "gov_1_speaks": 28.0,
+                "gov_1_ranks": 4.0,
+                "gov_2": "Ryan Lin",
+                "gov_2_speaks": 29.0,
+                "gov_2_ranks": 3.0,
+                "opp_team": "Eric and Morgan",
+                "opp_bracket": 0,
+                "opp_result": "w",
+                "opp_1": "Eric Trueswell",
+                "opp_1_speaks": 30.0,
+                "opp_1_ranks": 2.0,
+                "opp_2": "Morgan Coutu",
+                "opp_2_speaks": 31.0,
+                "opp_2_ranks": 1.0,
+                "judge": "Elena Giacolletti"
+            },
+            {
+                "gov_team": "Willy-Tufts",
+                "gov_bracket": 1,
+                "gov_result": "w",
+                "gov_1": "Jehan Chanmugam",
+                "gov_1_speaks": 31.0,
+                "gov_1_ranks": 2.0,
+                "gov_2": "Vincent Tocci",
+                "gov_2_speaks": 32.0,
+                "gov_2_ranks": 1.0,
+                "opp_team": "Los Pollos Hermanos??",
+                "opp_bracket": 1,
+                "opp_result": "l",
+                "opp_1": "Edward Khatchatrian",
+                "opp_1_speaks": 27.0,
+                "opp_1_ranks": 3.0,
+                "opp_2": "Joe Clark",
+                "opp_2_speaks": 24.0,
+                "opp_2_ranks": 4.0,
+                "judge": "Maddie Watson, Sean Berman"
+            }
+        ],
+        "4": [
+            {
+                "bye": "Buenas Vibras??",
+                "bracket": 0
+            },
+            {
+                "gov_team": "One Last Dumb",
+                "gov_bracket": 3,
+                "gov_result": "w",
+                "gov_1": "Aadhav Raviarasan",
+                "gov_1_speaks": 33.0,
+                "gov_1_ranks": 1.0,
+                "gov_2": "Udheesh Gaddipati",
+                "gov_2_speaks": 32.0,
+                "gov_2_ranks": 2.0,
+                "opp_team": "Jiz",
+                "opp_bracket": 3,
+                "opp_result": "l",
+                "opp_1": "Justin Suh",
+                "opp_1_speaks": 31.0,
+                "opp_1_ranks": 4.0,
+                "opp_2": "Liz Kim",
+                "opp_2_speaks": 32.0,
+                "opp_2_ranks": 3.0,
+                "judge": "Ben Robertson, Maddie Watson"
+            },
+            {
+                "gov_team": "Hot Singles in Your Area",
+                "gov_bracket": 1,
+                "gov_result": "w",
+                "gov_1": "Isaac Volan",
+                "gov_1_speaks": 29.0,
+                "gov_1_ranks": 1.0,
+                "gov_2": "Oscar Cloutier Potter",
+                "gov_2_speaks": 28.0,
+                "gov_2_ranks": 3.0,
+                "opp_team": "Charlie McLarnon and Sam Borne",
+                "opp_bracket": 1,
+                "opp_result": "l",
+                "opp_1": "Charlie McLarnon",
+                "opp_1_speaks": 26.0,
+                "opp_1_ranks": 4.0,
+                "opp_2": "Sam Borne",
+                "opp_2_speaks": 29.0,
+                "opp_2_ranks": 2.0,
+                "judge": "Thabang Matona, Victoria Hagen"
+            },
+            {
+                "gov_team": "UMasss TP",
+                "gov_bracket": 2,
+                "gov_result": "l",
+                "gov_1": "Emily Chow",
+                "gov_1_speaks": 27.0,
+                "gov_1_ranks": 3.0,
+                "gov_2": "Himanshu Padnani",
+                "gov_2_speaks": 27.0,
+                "gov_2_ranks": 4.0,
+                "opp_team": "Harold & that other Asian guy",
+                "opp_bracket": 2,
+                "opp_result": "w",
+                "opp_1": "Muxi Yu",
+                "opp_1_speaks": 28.0,
+                "opp_1_ranks": 2.0,
+                "opp_2": "Rishven Pravin",
+                "opp_2_speaks": 29.0,
+                "opp_2_ranks": 1.0,
+                "judge": "Gianna Bruno, Mandy Feureman"
+            },
+            {
+                "gov_team": "Cathie Jo Martin enthusiasts",
+                "gov_bracket": 1,
+                "gov_result": "w",
+                "gov_1": "David Williams",
+                "gov_1_speaks": 31.0,
+                "gov_1_ranks": 1.0,
+                "gov_2": "Mae Lucchino",
+                "gov_2_speaks": 30.0,
+                "gov_2_ranks": 2.0,
+                "opp_team": "Aurelie N and Pranav V",
+                "opp_bracket": 1,
+                "opp_result": "l",
+                "opp_1": "Aurelie Nishimwe",
+                "opp_1_speaks": 29.0,
+                "opp_1_ranks": 3.0,
+                "opp_2": "Pranav Vadlamudi",
+                "opp_2_speaks": 27.0,
+                "opp_2_ranks": 4.0,
+                "judge": "Sarah Moore, Sean Berman"
+            },
+            {
+                "gov_team": "Harvard BZ",
+                "gov_bracket": 1,
+                "gov_result": "l",
+                "gov_1": "Michael Bonacina",
+                "gov_1_speaks": 29.0,
+                "gov_1_ranks": 3.0,
+                "gov_2": "Pary Zadeh",
+                "gov_2_speaks": 28.0,
+                "gov_2_ranks": 4.0,
+                "opp_team": "One Hit Wonder",
+                "opp_bracket": 2,
+                "opp_result": "w",
+                "opp_1": "Neftali Reynoso",
+                "opp_1_speaks": 29.0,
+                "opp_1_ranks": 2.0,
+                "opp_2": "Zack Cassidy",
+                "opp_2_speaks": 30.0,
+                "opp_2_ranks": 1.0,
+                "judge": "Alex Pickett, Srishti Nautiyal"
+            },
+            {
+                "gov_team": "I had a paper but chose debate",
+                "gov_bracket": 2,
+                "gov_result": "l",
+                "gov_1": "Alice Marchant",
+                "gov_1_speaks": 27.0,
+                "gov_1_ranks": 4.0,
+                "gov_2": "Inbar Sapir",
+                "gov_2_speaks": 28.0,
+                "gov_2_ranks": 3.0,
+                "opp_team": "Willy-Tufts",
+                "opp_bracket": 2,
+                "opp_result": "w",
+                "opp_1": "Jehan Chanmugam",
+                "opp_1_speaks": 32.0,
+                "opp_1_ranks": 1.0,
+                "opp_2": "Vincent Tocci",
+                "opp_2_speaks": 31.0,
+                "opp_2_ranks": 2.0,
+                "judge": "Irina \"Tab God\" Znamirowski"
+            },
+            {
+                "gov_team": "Eric and Morgan",
+                "gov_bracket": 1,
+                "gov_result": "w",
+                "gov_1": "Eric Trueswell",
+                "gov_1_speaks": 31.0,
+                "gov_1_ranks": 1.0,
+                "gov_2": "Morgan Coutu",
+                "gov_2_speaks": 29.0,
+                "gov_2_ranks": 3.0,
+                "opp_team": "Los Pollos Hermanos??",
+                "opp_bracket": 1,
+                "opp_result": "l",
+                "opp_1": "Edward Khatchatrian",
+                "opp_1_speaks": 30.0,
+                "opp_1_ranks": 2.0,
+                "opp_2": "Joe Clark",
+                "opp_2_speaks": 28.0,
+                "opp_2_ranks": 4.0,
+                "judge": "Connor Beaney"
+            }
+        ],
+        "5": [
+            {
+                "bye": "Aurelie N and Pranav V",
+                "bracket": 1
+            },
+            {
+                "gov_team": "Jiz",
+                "gov_bracket": 3,
+                "gov_result": "w",
+                "gov_1": "Justin Suh",
+                "gov_1_speaks": 30.0,
+                "gov_1_ranks": 2.0,
+                "gov_2": "Liz Kim",
+                "gov_2_speaks": 31.0,
+                "gov_2_ranks": 1.0,
+                "opp_team": "I had a paper but chose debate",
+                "opp_bracket": 2,
+                "opp_result": "l",
+                "opp_1": "Alice Marchant",
+                "opp_1_speaks": 26.0,
+                "opp_1_ranks": 4.0,
+                "opp_2": "Inbar Sapir",
+                "opp_2_speaks": 28.0,
+                "opp_2_ranks": 3.0,
+                "judge": "Alex Bennett, Sean Berman"
+            },
+            {
+                "gov_team": "Willy-Tufts",
+                "gov_bracket": 3,
+                "gov_result": "w",
+                "gov_1": "Jehan Chanmugam",
+                "gov_1_speaks": 31.0,
+                "gov_1_ranks": 1.0,
+                "gov_2": "Vincent Tocci",
+                "gov_2_speaks": 30.0,
+                "gov_2_ranks": 2.0,
+                "opp_team": "One Last Dumb",
+                "opp_bracket": 4,
+                "opp_result": "l",
+                "opp_1": "Aadhav Raviarasan",
+                "opp_1_speaks": 28.0,
+                "opp_1_ranks": 3.0,
+                "opp_2": "Udheesh Gaddipati",
+                "opp_2_speaks": 28.0,
+                "opp_2_ranks": 4.0,
+                "judge": "Mandy Feureman"
+            },
+            {
+                "gov_team": "UMasss TP",
+                "gov_bracket": 2,
+                "gov_result": "w",
+                "gov_1": "Emily Chow",
+                "gov_1_speaks": 28.0,
+                "gov_1_ranks": 1.0,
+                "gov_2": "Himanshu Padnani",
+                "gov_2_speaks": 27.0,
+                "gov_2_ranks": 3.0,
+                "opp_team": "Hot Singles in Your Area",
+                "opp_bracket": 2,
+                "opp_result": "l",
+                "opp_1": "Isaac Volan",
+                "opp_1_speaks": 27.0,
+                "opp_1_ranks": 4.0,
+                "opp_2": "Oscar Cloutier Potter",
+                "opp_2_speaks": 27.0,
+                "opp_2_ranks": 2.0,
+                "judge": "Alex Pickett, Maddie Watson"
+            },
+            {
+                "gov_team": "Buenas Vibras??",
+                "gov_bracket": 1,
+                "gov_result": "l",
+                "gov_1": "Henry Chuang",
+                "gov_1_speaks": 28.0,
+                "gov_1_ranks": 3.0,
+                "gov_2": "Ryan Lin",
+                "gov_2_speaks": 27.0,
+                "gov_2_ranks": 4.0,
+                "opp_team": "Charlie McLarnon and Sam Borne",
+                "opp_bracket": 1,
+                "opp_result": "w",
+                "opp_1": "Charlie McLarnon",
+                "opp_1_speaks": 29.0,
+                "opp_1_ranks": 1.0,
+                "opp_2": "Sam Borne",
+                "opp_2_speaks": 29.0,
+                "opp_2_ranks": 2.0,
+                "judge": "Srishti Nautiyal"
+            },
+            {
+                "gov_team": "Los Pollos Hermanos??",
+                "gov_bracket": 1,
+                "gov_result": "w",
+                "gov_1": "Edward Khatchatrian",
+                "gov_1_speaks": 27.0,
+                "gov_1_ranks": 3.0,
+                "gov_2": "Joe Clark",
+                "gov_2_speaks": 27.0,
+                "gov_2_ranks": 1.0,
+                "opp_team": "Harvard BZ",
+                "opp_bracket": 1,
+                "opp_result": "l",
+                "opp_1": "Michael Bonacina",
+                "opp_1_speaks": 27.0,
+                "opp_1_ranks": 2.0,
+                "opp_2": "Pary Zadeh",
+                "opp_2_speaks": 27.0,
+                "opp_2_ranks": 4.0,
+                "judge": "Sarah Moore, Thabang Matona"
+            },
+            {
+                "gov_team": "One Hit Wonder",
+                "gov_bracket": 3,
+                "gov_result": "w",
+                "gov_1": "Neftali Reynoso",
+                "gov_1_speaks": 33.0,
+                "gov_1_ranks": 1.0,
+                "gov_2": "Zack Cassidy",
+                "gov_2_speaks": 32.0,
+                "gov_2_ranks": 2.0,
+                "opp_team": "Harold & that other Asian guy",
+                "opp_bracket": 3,
+                "opp_result": "l",
+                "opp_1": "Muxi Yu",
+                "opp_1_speaks": 31.0,
+                "opp_1_ranks": 3.0,
+                "opp_2": "Rishven Pravin",
+                "opp_2_speaks": 31.0,
+                "opp_2_ranks": 4.0,
+                "judge": "Zachary Lynch"
+            },
+            {
+                "gov_team": "Eric and Morgan",
+                "gov_bracket": 2,
+                "gov_result": "l",
+                "gov_1": "Eric Trueswell",
+                "gov_1_speaks": 25.0,
+                "gov_1_ranks": 4.0,
+                "gov_2": "Morgan Coutu",
+                "gov_2_speaks": 25.0,
+                "gov_2_ranks": 3.0,
+                "opp_team": "Cathie Jo Martin enthusiasts",
+                "opp_bracket": 2,
+                "opp_result": "w",
+                "opp_1": "David Williams",
+                "opp_1_speaks": 28.0,
+                "opp_1_ranks": 1.0,
+                "opp_2": "Mae Lucchino",
+                "opp_2_speaks": 27.0,
+                "opp_2_ranks": 2.0,
+                "judge": "Gianna Bruno"
+            }
+        ]
+    }
+}

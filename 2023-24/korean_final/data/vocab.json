@@ -1,0 +1,1304 @@
+{
+    "12.1.1": {
+        "english": "cough",
+        "korean": "기침",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "12.1.2": {
+        "english": "to cough",
+        "korean": "기침하다",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "12.1.3": {
+        "english": "five days",
+        "korean": "닷새",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "12.1.4": {
+        "english": "flu",
+        "korean": "독감",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "12.1.5": {
+        "english": "throat",
+        "korean": "목",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "12.1.6": {
+        "english": "disease",
+        "korean": "병",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "12.1.7": {
+        "english": "illness",
+        "korean": "병",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "12.1.8": {
+        "english": "hospital",
+        "korean": "병원",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "12.1.9": {
+        "english": "fifteen days",
+        "korean": "보름",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "12.1.10": {
+        "english": "digestion",
+        "korean": "소화",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "12.1.11": {
+        "english": "after a meal",
+        "korean": "식후",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "12.1.12": {
+        "english": "medicine",
+        "korean": "약",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "12.1.13": {
+        "english": "pharmacist",
+        "korean": "약사",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "12.1.14": {
+        "english": "fever",
+        "korean": "열",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "12.1.15": {
+        "english": "ten days",
+        "korean": "열흘",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "12.1.16": {
+        "english": "symptom",
+        "korean": "증상",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "12.1.17": {
+        "english": "examination",
+        "korean": "진찰",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "12.1.18": {
+        "english": "to examine",
+        "korean": "진찰하다",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "12.1.19": {
+        "english": "checkup",
+        "korean": "진찰",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "12.1.20": {
+        "english": "to checkup",
+        "korean": "진찰하다",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "12.1.21": {
+        "english": "prescription",
+        "korean": "처방",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "12.1.22": {
+        "english": "to prescribe",
+        "korean": "처방하다",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "12.1.23": {
+        "english": "rest",
+        "korean": "휴식",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "12.1.24": {
+        "english": "to take out",
+        "korean": "꺼내다",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "12.1.25": {
+        "english": "to care for",
+        "korean": "위하다",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "12.1.26": {
+        "english": "to protect",
+        "korean": "지키다",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "12.1.27": {
+        "english": "be uncomfortable",
+        "korean": "불편하다",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "12.1.28": {
+        "english": "be severe",
+        "korean": "심하다",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "12.1.29": {
+        "english": "separately",
+        "korean": "따로",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "12.1.30": {
+        "english": "deeply, completely",
+        "korean": "푹",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "12.1.31": {
+        "english": "pills (counter)",
+        "korean": "알",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "12.1.32": {
+        "english": "amount for (counter)",
+        "korean": "치",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "12.1.33": {
+        "english": "regret that {}",
+        "korean": "{}(으)ㄹ걸 그랬어요",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "12.1.34": {
+        "english": "it is the case that {}",
+        "korean": "{}(으)ㄴ가요",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "12.1.35": {
+        "english": "is it the case that {}?",
+        "korean": "{}나요?",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "12.2.1": {
+        "english": "relationship",
+        "korean": "관계",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "12.2.2": {
+        "english": "feeling",
+        "korean": "느낌",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "12.2.3": {
+        "english": "sense",
+        "korean": "느낌",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "12.2.4": {
+        "english": "diet",
+        "korean": "다이어트",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "12.2.5": {
+        "english": "visit to someone sick",
+        "korean": "문병",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "12.2.6": {
+        "english": "to visit someone sick",
+        "korean": "문병하다",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "12.2.7": {
+        "english": "rumor",
+        "korean": "소문",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "12.2.8": {
+        "english": "seat belt",
+        "korean": "안전 벨트",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "12.2.9": {
+        "english": "stomach",
+        "korean": "위",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "12.2.10": {
+        "english": "abnormality",
+        "korean": "이상",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "12.2.11": {
+        "english": "hospitalization",
+        "korean": "입원",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "12.2.12": {
+        "english": "to hospitalize",
+        "korean": "입원하다",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "12.2.13": {
+        "english": "treatment",
+        "korean": "치료",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "12.2.14": {
+        "english": "to treat",
+        "korean": "치료하다",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "12.2.15": {
+        "english": "discharge",
+        "korean": "퇴원",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "12.2.16": {
+        "english": "to discharge",
+        "korean": "퇴원하다",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "12.2.17": {
+        "english": "arm",
+        "korean": "팔",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "12.2.18": {
+        "english": "waist",
+        "korean": "허리",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "12.2.19": {
+        "english": "back",
+        "korean": "허리",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "12.2.20": {
+        "english": "about to {} but then",
+        "korean": "{}(으)려다가",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "12.2.21": {
+        "english": "any {}",
+        "korean": "{}(이)든지",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "12.2.22": {
+        "english": "newly discovered {} (sentence ending)",
+        "korean": "{}군요",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "12.2.23": {
+        "english": "newly discovered {} (clausal connective)",
+        "korean": "{}구나",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "12.2.24": {
+        "english": "to recover",
+        "korean": "낫다",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "12.2.25": {
+        "english": "to be startled",
+        "korean": "놀라다",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "12.2.26": {
+        "english": "to fall",
+        "korean": "떨어지다",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "12.2.27": {
+        "english": "to be formed",
+        "korean": "생기다",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "12.2.28": {
+        "english": "to decrease",
+        "korean": "줄이다",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "12.2.29": {
+        "english": "to avoid",
+        "korean": "피하다",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "12.2.30": {
+        "english": "be possible",
+        "korean": "가능하다",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "12.2.31": {
+        "english": "be regular",
+        "korean": "규칙적이다",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "12.2.32": {
+        "english": "be deep",
+        "korean": "깊다",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "12.2.33": {
+        "english": "be adequate",
+        "korean": "적당하다",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "12.2.34": {
+        "english": "be young",
+        "korean": "젊다",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "12.2.35": {
+        "english": "almost",
+        "korean": "거의",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "12.2.36": {
+        "english": "as {} as possible",
+        "korean": "{}되도록",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "12.2.37": {
+        "english": "consistently",
+        "korean": "지속적으로",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "13.1.1": {
+        "english": "thesis",
+        "korean": "논문",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "13.1.2": {
+        "english": "instead of",
+        "korean": "대신",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "13.1.3": {
+        "english": "alumni",
+        "korean": "동창",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "13.1.4": {
+        "english": "meaning",
+        "korean": "뜻",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "13.1.5": {
+        "english": "civilization",
+        "korean": "문명",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "13.1.6": {
+        "english": "development",
+        "korean": "발달",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "13.1.7": {
+        "english": "to develop",
+        "korean": "발달하다",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "13.1.8": {
+        "english": "pronunciation",
+        "korean": "발음",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "13.1.9": {
+        "english": "method",
+        "korean": "방법",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "13.1.10": {
+        "english": "skill",
+        "korean": "실력",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "13.1.11": {
+        "english": "ability",
+        "korean": "실력",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "13.1.12": {
+        "english": "mistake",
+        "korean": "실수",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "13.1.13": {
+        "english": "to make a mistake",
+        "korean": "실수하다",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "13.1.14": {
+        "english": "signification",
+        "korean": "의미",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "13.1.15": {
+        "english": "to signify",
+        "korean": "의미하다",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "13.1.16": {
+        "english": "human being",
+        "korean": "인간",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "13.1.17": {
+        "english": "affection",
+        "korean": "정",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "13.1.18": {
+        "english": "difference",
+        "korean": "차이",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "13.1.19": {
+        "english": "Chinese character",
+        "korean": "한자",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "13.1.20": {
+        "english": "Sino-Korean word",
+        "korean": "한자어",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "13.1.21": {
+        "english": "work get-together",
+        "korean": "회식",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "13.1.22": {
+        "english": "to share",
+        "korean": "나누다",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "13.1.23": {
+        "english": "to increase",
+        "korean": "늘다",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "13.1.24": {
+        "english": "to drop/leave out",
+        "korean": "빠지다",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "13.1.25": {
+        "english": "to gain weight",
+        "korean": "살이 찌다",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "13.1.26": {
+        "english": "to stand up",
+        "korean": "일어서다",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "13.1.27": {
+        "english": "to pass time",
+        "korean": "시간이 지나다",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "13.1.28": {
+        "english": "to have time go by",
+        "korean": "시간이 지나다",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "13.1.29": {
+        "english": "be curious",
+        "korean": "궁금하다",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "13.1.30": {
+        "english": "because, since",
+        "korean": "왜냐하면",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "13.1.31": {
+        "english": "as {} as",
+        "korean": "{}만큼",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "13.1.32": {
+        "english": "the more {1} the more {2}",
+        "korean": "{1}(으)면 {2}(으)ㄹ수록",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "13.1.33": {
+        "english": "despite the fact that",
+        "korean": "{}는데도",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "13.2.1": {
+        "english": "assignment",
+        "korean": "과제",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "13.2.2": {
+        "english": "relation",
+        "korean": "관련",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "13.2.3": {
+        "english": "connection",
+        "korean": "관련",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "13.2.4": {
+        "english": "social club",
+        "korean": "동아리",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "13.2.5": {
+        "english": "social group",
+        "korean": "동아리",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "13.2.6": {
+        "english": "public bathhouse",
+        "korean": "목욕탕",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "13.2.7": {
+        "english": "informal/impolite talk",
+        "korean": "반말",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "13.2.8": {
+        "english": "to talk informally/impolitely",
+        "korean": "반말하다",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "13.2.9": {
+        "english": "all night long",
+        "korean": "밤새",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "13.2.10": {
+        "english": "anything particular",
+        "korean": "별일",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "13.2.11": {
+        "english": "married couple",
+        "korean": "부부",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "13.2.12": {
+        "english": "light",
+        "korean": "불",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "13.2.13": {
+        "english": "fire",
+        "korean": "불",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "13.2.14": {
+        "english": "family member",
+        "korean": "식구",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "13.2.15": {
+        "english": "neighbor",
+        "korean": "이웃",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "13.2.16": {
+        "english": "neighborhood",
+        "korean": "이웃",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "13.2.17": {
+        "english": "children",
+        "korean": "자녀",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "13.2.18": {
+        "english": "point",
+        "korean": "점",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "13.2.19": {
+        "english": "aspect",
+        "korean": "점",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "13.2.20": {
+        "english": "lateness",
+        "korean": "지각(하다)",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "13.2.21": {
+        "english": "street",
+        "korean": "찻길",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "13.2.22": {
+        "english": "road",
+        "korean": "찻길",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "13.2.23": {
+        "english": "to miss",
+        "korean": "놓치다",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "13.2.24": {
+        "english": "to lose",
+        "korean": "놓치다",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "13.2.25": {
+        "english": "to fluster",
+        "korean": "당황하다",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "13.2.26": {
+        "english": "to set",
+        "korean": "맞추다",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "13.2.27": {
+        "english": "to adjust",
+        "korean": "맞추다",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "13.2.28": {
+        "english": "to change",
+        "korean": "변하다",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "13.2.29": {
+        "english": "to alter",
+        "korean": "변하다",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "13.2.30": {
+        "english": "to fall asleep",
+        "korean": "잠들다",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "13.2.31": {
+        "english": "be strange",
+        "korean": "이상하다",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "13.2.32": {
+        "english": "be odd",
+        "korean": "이상하다",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "13.2.33": {
+        "english": "fortunately",
+        "korean": "다행히",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "13.2.34": {
+        "english": "almost",
+        "korean": "하마터면",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "13.2.35": {
+        "english": "together",
+        "korean": "함께",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "13.2.36": {
+        "english": "{} almost happened",
+        "korean": "{}(으)ㄹ 뻔하다",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "13.2.37": {
+        "english": "I did {} and then",
+        "korean": "{}었/았더니",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "14.1.1": {
+        "english": "competition",
+        "korean": "경쟁",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "14.1.2": {
+        "english": "to compete",
+        "korean": "경쟁하다",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "14.1.3": {
+        "english": "worry",
+        "korean": "고민",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "14.1.4": {
+        "english": "to worry",
+        "korean": "고민하다",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "14.1.5": {
+        "english": "official announcement",
+        "korean": "공고",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "14.1.6": {
+        "english": "process",
+        "korean": "과정",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "14.1.7": {
+        "english": "reporter",
+        "korean": "기자",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "14.1.8": {
+        "english": "interview",
+        "korean": "면접",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "14.1.9": {
+        "english": "star",
+        "korean": "별",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "14.1.10": {
+        "english": "society",
+        "korean": "사회",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "14.1.11": {
+        "english": "human life",
+        "korean": "인생",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "14.1.12": {
+        "english": "exam retake",
+        "korean": "재수",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "14.1.13": {
+        "english": "to retake the exam",
+        "korean": "재수하다",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "14.1.14": {
+        "english": "aptitude",
+        "korean": "적성",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "14.1.15": {
+        "english": "occupation",
+        "korean": "직업",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "14.1.16": {
+        "english": "profession",
+        "korean": "직업",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "14.1.17": {
+        "english": "written exam",
+        "korean": "필기 시험",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "14.1.18": {
+        "english": "cram school",
+        "korean": "학원",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "14.1.19": {
+        "english": "regret",
+        "korean": "후회",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "14.1.20": {
+        "english": "to regret",
+        "korean": "후회하다",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "14.1.21": {
+        "english": "to exceed",
+        "korean": "넘다",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "14.1.22": {
+        "english": "to pick",
+        "korean": "따다",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "14.1.23": {
+        "english": "to pluck",
+        "korean": "따다",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "14.1.24": {
+        "english": "to fail the test",
+        "korean": "떨어지다",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "14.1.25": {
+        "english": "to pass the test",
+        "korean": "붙다",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "14.1.26": {
+        "english": "to single out",
+        "korean": "뽑다",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "14.1.27": {
+        "english": "to apply",
+        "korean": "지원하다",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "14.1.28": {
+        "english": "be slippery",
+        "korean": "미끄럽다",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "14.1.29": {
+        "english": "be wise",
+        "korean": "현명하다",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "14.1.30": {
+        "english": "like",
+        "korean": "마치",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "14.1.31": {
+        "english": "as if",
+        "korean": "마치",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "14.1.32": {
+        "english": "for fear that {}",
+        "korean": "{}~(으)ㄹ까 봐",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "14.1.33": {
+        "english": "confirming {adjective stem}",
+        "korean": "{adjective stem}다면서",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "14.1.34": {
+        "english": "confirming {verb stem}",
+        "korean": "{verb stem}는/ㄴ다면서",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "14.1.35": {
+        "english": "confirming {copula stem}",
+        "korean": "{copula stem}라면서",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "14.1.36": {
+        "english": "as soon as {}",
+        "korean": "{}자마자",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "14.2.1": {
+        "english": "high school senior",
+        "korean": "고3",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "14.2.2": {
+        "english": "writing",
+        "korean": "글",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "14.2.3": {
+        "english": "composition",
+        "korean": "글",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "14.2.4": {
+        "english": "heart",
+        "korean": "마음씨",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "14.2.5": {
+        "english": "mind",
+        "korean": "마음씨",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "14.2.6": {
+        "english": "interviewer",
+        "korean": "면접관",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "14.2.7": {
+        "english": "interview site",
+        "korean": "면접장",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "14.2.8": {
+        "english": "literature",
+        "korean": "문학",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "14.2.9": {
+        "english": "self",
+        "korean": "본인",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "14.2.10": {
+        "english": "minor",
+        "korean": "부전공",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "14.2.11": {
+        "english": "area",
+        "korean": "분야",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "14.2.12": {
+        "english": "uncle",
+        "korean": "삼촌",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "14.2.13": {
+        "english": "choice",
+        "korean": "선택",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "14.2.14": {
+        "english": "to choose",
+        "korean": "선택하다",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "14.2.15": {
+        "english": "selection",
+        "korean": "선택",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "14.2.16": {
+        "english": "to select",
+        "korean": "선택하다",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "14.2.17": {
+        "english": "current affairs",
+        "korean": "시사",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "14.2.18": {
+        "english": "admission",
+        "korean": "입학",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "14.2.19": {
+        "english": "to admit",
+        "korean": "입학하다",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "14.2.20": {
+        "english": "entrance",
+        "korean": "입학",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "14.2.21": {
+        "english": "to enter",
+        "korean": "입학하다",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "14.2.22": {
+        "english": "self-introduction",
+        "korean": "자기 소개",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "14.2.23": {
+        "english": "seat",
+        "korean": "자리",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "14.2.24": {
+        "english": "writer",
+        "korean": "작가",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "14.2.25": {
+        "english": "be in school",
+        "korean": "재학 중",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "14.2.26": {
+        "english": "recommendation",
+        "korean": "추천",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "14.2.27": {
+        "english": "to recommend",
+        "korean": "추천하다",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "14.2.28": {
+        "english": "be related",
+        "korean": "관련되다",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "14.2.29": {
+        "english": "to remember",
+        "korean": "기억하다",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "14.2.30": {
+        "english": "to ignore",
+        "korean": "무시하다",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "14.2.31": {
+        "english": "to nurture one's aptitude",
+        "korean": "적성을 살리다",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "14.2.32": {
+        "english": "be reminded",
+        "korean": "생각나다",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "14.2.33": {
+        "english": "to do wrong",
+        "korean": "잘못하다",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "14.2.34": {
+        "english": "be skinny",
+        "korean": "마르다",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "14.2.35": {
+        "english": "if possible",
+        "korean": "웬만하면",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "14.2.36": {
+        "english": "like",
+        "korean": "같이",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "14.2.37": {
+        "english": "as",
+        "korean": "같이",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "14.2.38": {
+        "english": "wondering about {}",
+        "korean": "{}(으)ㄴ/는/(으)ㄹ지",
+        "level": 0,
+        "last": "01/01/23"
+    },
+    "14.2.39": {
+        "english": "wish {}ed",
+        "korean": "{}었/았으면 하다",
+        "level": 0,
+        "last": "01/01/23"
+    }
+}
